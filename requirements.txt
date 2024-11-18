@@ -12,3 +12,4 @@ pytesseract
 streamlit
 pyodbc
 PyPDF2
+pyyaml 
