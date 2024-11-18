@@ -1,0 +1,55 @@
+15 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+5. Cash and balances with the Central Bank of the UAE    
+ 
+30 June  
+ 2024 31 December 
+2023 
+AED’000  
+Unaudited  AED’000  
+Audited  
+Cash on hand  373,965   341,873  
+Certificates of Deposit (CDs) with the Central Bank of the UAE  9,898,014   9,034,676  
+Regulatory cash reserve deposit  2,517,104   2,080,233  
+ 12,789,083   11,456,782  
+ 
+ 
+6. Due from banks and financial institutions  
+ 30 June   31 December  
+2024  2023 
+AED’000   AED’000  
+Unaudited   Audited  
+6.1 By type   
+ 
+Placements  642,775   741,235  
+Current accounts / term deposits  967,468  944,766  
+Bills discounted  667,708   420,000  
+ 2,277, 951  2,106,001  
+Less: Allowances for impairment (ECL) (note 10 ) (4,643)   (4,501)  
+ 2,273, 308  2,101,500  
+ 
+ Placements include a Wakala placement amounting to AED 73.5 million  (31 December 2023: AED 98.5 
+million) undertaken through a Shari’ah  - compliant Islamic window, NBF Islamic.  
+ Current accounts / term deposits  include cash collateral of AED 16.5 million  (31 December 2023: AED 36.4 
+million)  in respect of negative fair value of derivatives, in accordance with the agreements with interbank 
+counterparties.  
+ Bills discounted represent bank risk discounting portfolio to support customers’ trade business.  
+ 6.2 By currency  
+ 30 June  
+2024  31 December 
+2023  AED’000   AED’000   Unaudited   Audited  
+    
+AED  174,883    220,544  
+USD 1,802,159   1,600,693  
+EUR 33,741   43,624  
+GBP 4,421   8,399  
+XAU  21,457   25,010  
+Others  241,290   207,731  
+ 2,277,951    2,106,001  
+Less: Allowances for impairment (ECL) (note 10 ) (4,643)        (4,501)  
+ 2,273,308   2,101,500  

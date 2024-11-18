@@ -1,0 +1,52 @@
+27 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+9. Contingent liabilities and commitments (continued)  
+ 
+9.1 Off balance sheet exposures stage -wise analysis  
+The following table contains an analysis of the credit risk of relevant off balance sheet exposures and the related 
+ECL. The gross carrying amount of off balance sheet exposures  below represents the Group’s maximum 
+exposure to credit risk on these assets:  
+                                                                                       30 June 2024  (Unaudited)  
+ Stage 1  Stage 2  Stage 3  Total  
+AED’000      
+Outstanding balance  7,503,246  223,043  163,069  7,889,358  
+Allowances for impairment (ECL) (note 10 ) (20,140)  (3,933)  (109,893)  (133,966)  
+Carrying amount  7,483,106  219,110  53,176  7,755,392  
+ 
+  
+31 December 2023 (Audited)  
+AED’000  Stage 1  Stage 2  Stage 3  Total  
+Outstanding balance  6,690,731  226,462  163,555  7,080,748  
+Allowances for impairment (ECL) (note 10 ) (19,986)  (2,943)  (117,630)  (140,559)  
+Carrying amount  6,670,745  223,519  45,925  6,940,189  
+ 
+ 
+9.2 Movement in the gross balance of off –balance sheet exposures  
+ 
+Outstanding balance  (Unaudited)  Stage 1  Stage 2  Stage 3  Total  
+AED’000      
+Gross carrying amount - 31 December 2023  6,690,731  226,462  163,555   7,080,748  
+Transferred from Stage 1  (15,237)  13,962  1,275                   - 
+Transferred from Stage 2  57 (4,340)  4,283               - 
+Transferred from Stage 3  -  - -                  - 
+Originated / (expired) during the period   827,695  (13,041)  (6,044)    808,610  
+Written -off during the period   -  - -                  - 
+Gross carrying amount  - 30 June 2024  7,503,246  223,043  163,069     7,889,358  
+Outstanding balance (Audited)   
+Stage 1   
+Stage 2   
+Stage 3   
+         Total  
+AED’000      
+Gross carrying amount - 31 December 2022  5,820,222  186,595  154,197  6,161,014  
+Transferred from Stage 1  (137,818)  119,756  18,062                - 
+Transferred from Stage 2  6,929  (53,317)  46,388                - 
+Transferred from Stage 3  - - -               - 
+Originated / (expired) during the year  1,001,398  (26,572)  (55,092)    919,734  
+Written -off during the year  - - -              - 
+Gross carrying amount - 31 December 2023  6,690,731  226,462  163,555  7,080,748  

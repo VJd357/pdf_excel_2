@@ -1,0 +1,11 @@
+Cash_and_Cash_Equivalents,Date,Cash_on_Hand_AED'000,Balances_with_Central_Bank_of_UAE_AED'000,Due_from_Banks_with_less_than_three_month_maturity_AED'000,Total_AED'000
+,30 June 2024,373965,598428,905028,1877421
+,30 June 2023,310301,800000,645323,1755624
+-----
+Cash_and_Cash_Equivalents_Maturities,Date,Maturing_within_three_months_AED_million
+,30 June 2024,5738.8
+,30 June 2023,3799.8
+-----
+Segmental_Reporting,Segment,Description
+,Corporate_and_Institutional_banking,"Offers a range of products and services including credit and trade finance products, and services to large and medium sized corporate customers through separate units and financial institutions, and accepts deposits."
+,Business_banking_segment,"Offers a range of products and services including credit and trade finance products, and services to small and medium sized customers through separate units, and accepts deposits. Also offers transactional services to small and medium sized businesses."

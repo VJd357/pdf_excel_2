@@ -1,0 +1,700 @@
+page_no;table_no;type;column_no;col1;col2;col3;col4;col5;col6;col7;col8;col9;col10;col11;col12
+page_25;1;T.header;6;Loans_and_Advances_and_Islamic_Financing_Receivables;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_25;1;T.value;6;Stage;Gross_Carrying_Amount_As_of_30_06_2024_AED'000;Gross_Carrying_Amount_As_of_31_12_2023_AED'000;nan;nan;nan;null;null;null;null;null;null
+page_25;1;T.value;6;Stage 1;27,727,981;26,259,891;nan;nan;nan;null;null;null;null;null;null
+page_25;1;T.value;6;Stage 2;2,127,753;2,207,549;nan;nan;nan;null;null;null;null;null;null
+page_25;1;T.value;6;Stage 3;1,798,652;1,679,876;nan;nan;nan;null;null;null;null;null;null
+page_25;1;T.value;6;Total;31,654,386;30,147,316;nan;nan;nan;null;null;null;null;null;null
+page_25;2;T.header;6;Movement_in_the_Gross_Balance;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_25;2;T.value;6;Type;Stage 1;Stage 2;Stage 3;nan;nan;null;null;null;null;null;null
+page_25;2;T.value;6;Transferred from Stage 1;(356,168);265,367;90,801;nan;nan;null;null;null;null;null;null
+page_25;2;T.value;6;Transferred from Stage 2;19,362;(214,780);195,418;nan;nan;null;null;null;null;null;null
+page_25;2;T.value;6;Transferred from Stage 3;0;54;(54);nan;nan;null;null;null;null;null;null
+page_25;2;T.value;6;Originated / (derecognized) during the period;1,804,896;(130,437);125,984;nan;nan;null;null;null;null;null;null
+page_25;2;T.value;6;Written-off during the period;0;0;(293,373);nan;nan;null;null;null;null;null;null
+page_25;3;T.header;6;Outstanding_Balance_Audited;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_25;3;T.value;6;Stage;Gross_Carrying_Amount_As_of_31_12_2023_AED'000;Gross_Carrying_Amount_As_of_31_12_2022_AED'000;nan;nan;nan;null;null;null;null;null;null
+page_25;3;T.value;6;Stage 1;26,259,891;24,863,960;nan;nan;nan;null;null;null;null;null;null
+page_25;3;T.value;6;Stage 2;2,207,549;2,317,638;nan;nan;nan;null;null;null;null;null;null
+page_25;3;T.value;6;Stage 3;1,679,876;2,430,987;nan;nan;nan;null;null;null;null;null;null
+page_25;3;T.value;6;Total;30,147,316;29,612,585;nan;nan;nan;null;null;null;null;null;null
+page_26;1;T.header;7;ECL_Allowance_30_June_2024;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6;null;null;null;null;null
+page_26;1;T.value;7;Transferred from Stage 1;Transferred from Stage 2;Transferred from Stage 3;Originated / (derecognized) during the period including changes in PDs / LGDs / EADs;Net allowance for impairment losses;Written -off during the period;ECL allowance - 30 June 2024;null;null;null;null;null
+page_26;1;T.value;7;(6,012);165;0;9,556;3,709;0;192,143;null;null;null;null;null
+page_26;1;T.value;7;18,850;(26,955);0;76,049;67,944;0;526,928;null;null;null;null;null
+page_26;1;T.value;7;23,414;103,758;(44);160,145;287,273;(293,373);1,079,537;null;null;null;null;null
+page_26;1;T.value;7;36,252;76,968;(44);245,750;358,926;(293,373);1,798,608;null;null;null;null;null
+page_26;2;T.header;7;ECL_Allowance_31_December_2023;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6;null;null;null;null;null
+page_26;2;T.value;7;Transferred from Stage 1;Transferred from Stage 2;Transferred from Stage 3;Originated / (derecognized) during the year including changes in PDs / LGDs / EADs;Net allowance for impairment losses;Written -off during the year;ECL allowance - 31 December 2023;null;null;null;null;null
+page_26;2;T.value;7;(13,117);2,968;0;(34,517);(44,666);0;188,434;null;null;null;null;null
+page_26;2;T.value;7;27,782;(45,215);480;35,643;18,690;0;458,984;null;null;null;null;null
+page_26;2;T.value;7;123,126;163,678;(18,920);436,484;704,368;(967,572);1,085,637;null;null;null;null;null
+page_26;2;T.value;7;137,791;121,431;(18,440);437,610;678,392;(967,572);1,733,055;null;null;null;null;null
+page_20;1;T.header;4;Investments and Islamic instruments;Unnamed: 1;Unnamed: 2;  ;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Type;30 June 2024 (Unaudited) AED’000;31 December 2023 (Audited) AED’000  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Investments at fair value through profit or loss (FVTPL);572;19,211  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Investments at fair value through other comprehensive income (FVOCI) - Debt securities / Islamic sukuks;2,521,605;2,416,329  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Investments at fair value through other comprehensive income (FVOCI) - Other investments / Islamic instruments;599,333;602,423  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Total Investments at FVOCI;3,120,938;3,018,752  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Investments measured at amortised cost - Debt securities / Islamic sukuks;5,753,043;5,125,292  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Total Investments;8,874,553;8,163,255  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Less: Allowances for impairment (ECL);(27,924);(20,651)  ;nan;null;null;null;null;null;null;null;null
+page_20;1;T.value;4;Net Investments;8,846,629;8,142,604  ;nan;null;null;null;null;null;null;null;null
+page_20;2;T.header;4;Debt Securities Portfolio;Unnamed: 1;Unnamed: 2;  ;null;null;null;null;null;null;null;null
+page_20;2;T.value;4;Description;30 June 2024 AED’000;31 December 2023 AED’000  ;nan;null;null;null;null;null;null;null;null
+page_20;2;T.value;4;Total Debt Securities;8,108,800;7,426,200  ;nan;null;null;null;null;null;null;null;null
+page_20;2;T.value;4;Floating Rate Securities;286,100;363,500  ;nan;null;null;null;null;null;null;null;null
+page_20;2;T.value;4;Islamic Sukuks;1,003,500;802,000  ;nan;null;null;null;null;null;null;null;null
+page_20;2;T.value;4;Additional Tier 1 Perpetual Bonds;165,800;115,400  ;nan;null;null;null;null;null;null;null;null
+page_20;3;T.header;4;Dispersion of the Investment Portfolio;Unnamed: 1;Unnamed: 2;  ;null;null;null;null;null;null;null;null
+page_20;3;T.value;4;Type;30 June 2024 AED’000;31 December 2023 AED’000  ;nan;null;null;null;null;null;null;null;null
+page_20;3;T.value;4;Government;2,748,351;2,504,677  ;nan;null;null;null;null;null;null;null;null
+page_20;3;T.value;4;Banks and Financial Institutions;5,526,296;5,036,943  ;nan;null;null;null;null;null;null;null;null
+page_20;3;T.value;4;Others;599,906;621,635  ;nan;null;null;null;null;null;null;null;null
+page_20;3;T.value;4;Total Investments;8,874,553;8,163,255;nan;null;null;null;null;null;null;null;null
+page_15;1;T.header;6;Assets;Item;At fair value through profit or loss;At fair value through other comprehensive income;Amortised cost;Total AED'000;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Cash and balances with the Central Bank of the UAE;0;0;11456782;11456782;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Due from banks and financial institutions;0;0;2101500;2101500;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Investments and Islamic instruments;19211;3011240;5112153;8142604;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Loans and advances and Islamic financing receivables;0;0;27903695;27903695;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Acceptances and other assets;0;0;1597663;1597663;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Property and equipment and intangibles;0;0;517572;517572;null;null;null;null;null;null
+page_15;1;T.value;6;nan;Total assets;19211;3011240;48689365;51719816;null;null;null;null;null;null
+page_15;2;T.header;6;Liabilities;Item;At fair value through profit or loss;At fair value through other comprehensive income;Amortised cost;Total AED'000;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Due to banks;0;0;1137077;1137077;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Customer deposits and Islamic customer deposits;0;0;38572006;38572006;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Repurchase agreements;0;0;2501332;2501332;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Term borrowings;0;0;550950;550950;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Acceptances and other liabilities;0;0;2391845;2391845;null;null;null;null;null;null
+page_15;2;T.value;6;nan;Total liabilities;0;0;45153210;45153210;null;null;null;null;null;null
+page_15;3;T.header;3;Fair_Value_Investments;Description;Value AED'000;null;null;null;null;null;null;null;null;null
+page_15;3;T.value;3;nan;Fair value of investments and Islamic instruments measured at amortised cost;5595.5;null;null;null;null;null;null;null;null;null
+page_15;3;T.value;3;nan;Fair value of investments and Islamic instruments at 31 December 2023;4992.4;null;null;null;null;null;null;null;null;null
+page_23;1;T.header;4;Rating;Debt_securities_ISLAMIC_sukuks_AED'000;Other_investments_AED'000;Total_AED'000;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;70,884;-;70,884;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;1,021,790;-;1,021,790;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;973,026;-;973,026;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;201,283;113,476;314,759;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;637,739;482,374;1,120,113;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;1,880,907;-;1,880,907;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;2,080,158;-;2,080,158;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;416,574;-;416,574;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;259,260;25,784;285,044;null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;(-18,303);(-2,348);(-20,651);null;null;null;null;null;null;null;null
+page_23;1;T.value;4;nan;7,523,318;619,286;8,142,604;null;null;null;null;null;null;null;null
+page_23;2;T.header;5;Date;Stage;Outstanding_balance_AED'000;Allowances_for_impairment_ECL_AED'000;Carrying_amount_AED'000;null;null;null;null;null;null;null
+page_23;2;T.value;5;nan;8,872,901;(-27,924);8,844,977;nan;null;null;null;null;null;null;null
+page_23;2;T.value;5;nan;8,137,470;(-20,651);8,116,819;nan;null;null;null;null;null;null;null
+page_30;1;T.header;10;ECL_Allowances;Stage;ECL allowances - 31 December 2023;Transferred from Stage 1;Transferred from Stage 2;Transferred from Stage 3;Originated / expired during the period including changes in PDs / LGDs / EADs;Net allowance for impairment losses;Written-off during the period;ECL allowances - 30 June 2024;null;null
+page_30;1;T.value;10;nan;Stage 1;19,986;(76);2;0;228;154;0;20,140;null;null
+page_30;1;T.value;10;nan;Stage 2;2,943;115;(121);0;996;990;0;3,933;null;null
+page_30;1;T.value;10;nan;Stage 3;117,630;817;3,098;0;(-11,652);(-7,737);0;109,893;null;null
+page_30;1;T.value;10;nan;Total;140,559;856;2,979;0;(-10,428);(-6,593);0;133,966;null;null
+page_30;2;T.header;10;ECL_Allowances_Audited;Stage;ECL allowances - 31 December 2022;Transferred from Stage 1;Transferred from Stage 2;Transferred from Stage 3;Originated / expired during the year including changes in PDs / LGDs / EADs;Net allowance for impairment losses;Written-off during the year;ECL allowances - 31 December 2023;null;null
+page_30;2;T.value;10;nan;Stage 1;19,364;(673);47;0;1,248;622;0;19,986;null;null
+page_30;2;T.value;10;nan;Stage 2;5,684;1,079;(402);0;(-3,418);(-2,741);0;2,943;null;null
+page_30;2;T.value;10;nan;Stage 3;75,561;14,753;29,534;0;(-2,218);42,069;0;117,630;null;null
+page_30;2;T.value;10;nan;Total;100,609;15,159;29,179;0;(-4,388);39,950;0;140,559;null;null
+page_41;1;T.header;4;Tax Information;Unnamed: 1;Unnamed: 2;Unnamed: 3;null;null;null;null;null;null;null;null
+page_41;1;T.value;4;Tax Law;Effective Date;Current Tax Impact;Deferred Tax Asset;null;null;null;null;null;null;null;null
+page_41;1;T.value;4;UAE Federal Decree Law No. 47 of 2022;01 January 2024;9.02%;AED 1.05 million;null;null;null;null;null;null;null;null
+page_41;2;T.header;4;Corporate Tax Structure;Unnamed: 1;Unnamed: 2;Unnamed: 3;null;null;null;null;null;null;null;null
+page_41;2;T.value;4;Income Threshold;Tax Rate;nan;nan;null;null;null;null;null;null;null;null
+page_41;2;T.value;4;0 to AED 375,000;0%;nan;nan;null;null;null;null;null;null;null;null
+page_41;2;T.value;4;Above AED 375,000;9%;nan;nan;null;null;null;null;null;null;null;null
+page_41;3;T.header;4;Subsequent Events;Unnamed: 1;Unnamed: 2;Unnamed: 3;null;null;null;null;null;null;null;null
+page_41;3;T.value;4;Event;Impact;nan;nan;null;null;null;null;null;null;null;null
+page_41;3;T.value;4;nan;No significant impact on the amounts reported;nan;nan;null;null;null;null;null;null;null;null
+page_40;1;T.header;9;segmental_reporting;Net interest income and net income from Islamic financing and investment activities;Non-interest income;Operating income;Operating expenses;Operating profit before impairment losses and tax;Net impairment losses;Profit / (loss) for the period before tax;Profit / (loss) for the period after tax;null;null;null
+page_40;1;T.value;9;Corporate and institutional segments;330,342;103,435;433,777;(116,608);317,169;(404,552);(87,383);(87,383);null;null;null
+page_40;1;T.value;9;Business banking segment;260,456;100,590;361,046;(137,653);223,393;(31,506);191,887;191,887;null;null;null
+page_40;1;T.value;9;Retail banking;78,246;6,112;84,358;(51,343);33,015;(15,418);17,597;17,597;null;null;null
+page_40;1;T.value;9;Treasury, ALM and others;156,053;77,755;233,808;(22,098);211,710;(1,670);210,040;210,040;null;null;null
+page_40;1;T.value;9;Consolidated;825,097;287,892;1,112,989;(327,702);785,287;(453,146);332,141;332,141;null;null;null
+page_40;2;T.header;4;segment_assets_liabilities;Segment assets;Segment liabilities;Capital expenditure;null;null;null;null;null;null;null;null
+page_40;2;T.value;4;Corporate and institutional segments;17,536,343;25,485,993;0;null;null;null;null;null;null;null;null
+page_40;2;T.value;4;Business banking segment;7,719,715;11,141,104;0;null;null;null;null;null;null;null;null
+page_40;2;T.value;4;Retail banking;4,472,140;4,611,928;0;null;null;null;null;null;null;null;null
+page_40;2;T.value;4;Treasury, ALM and others;21,991,618;3,914,185;106,686;null;null;null;null;null;null;null;null
+page_40;2;T.value;4;Consolidated;51,719,816;45,153,210;106,686;null;null;null;null;null;null;null;null
+page_5;1;T.header;6;National_Bank_of_Fujairah_PJSC_Condensed_Consolidated_Interim_Statement_of_Income;Period_Ended;30_June_2024_AED'000;30_June_2023_AED'000;Six_Month_Period_Ended_30_June_2024_AED'000;Six_Month_Period_Ended_30_June_2023_AED'000;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Interest income and income from Islamic financing and investment activities;814276;711055;1623935;1366405;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Interest expense and distribution to Islamic depositors;-380267;-290037;-741480;-541308;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Net interest income and net income from Islamic financing and investment activities;434009;421018;882455;825097;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Fees and commission income;115653;104476;236170;223234;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Fees and commission expense;-12624;-15207;-23008;-27172;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Net fees and commission income;103029;89269;213162;196062;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Foreign exchange and derivatives income;45612;39406;90674;79535;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Income / (loss) from investments and Islamic instruments;609;232;1407;-2636;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Other operating income;7085;8928;16650;14931;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Operating income;590344;558853;1204348;1112989;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Employee benefits expense;-111583;-102004;-217496;-194104;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Depreciation and amortization;-10196;-8071;-20035;-15712;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Other operating expenses;-61265;-61346;-121049;-117886;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Total operating expenses;-183044;-171421;-358580;-327702;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Operating profit before impairment losses and tax;407300;387432;845768;785287;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Net impairment losses;-197163;-207297;-360853;-453146;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Profit for the period before tax;210137;180135;484915;332141;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Tax;-20039;0;-43762;0;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Profit for the period after tax;190098;180135;441153;332141;null;null;null;null;null;null
+page_5;1;T.value;6;nan;Earnings per share (basic and diluted);AED 0.068;AED 0.064;AED 0.181;AED 0.132;null;null;null;null;null;null
+page_21;1;T.header;4;investment_by_geographical_area;Geographical Area;30 June 2024 (AED’000);31 December 2023 (AED’000);null;null;null;null;null;null;null;null
+page_21;1;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;UAE;1,920,540;1,775,655;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;GCC;657,512;428,432;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Europe;2,963,539;2,792,769;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Americas;2,296,924;2,155,824;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Others;1,036,038;1,010,575;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Total;8,874,553;8,163,255;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Less: Allowances for impairment (ECL);27,924;20,651;nan;null;null;null;null;null;null;null;null
+page_21;1;T.value;4;Net Total;8,846,629;8,142,604;nan;null;null;null;null;null;null;null;null
+page_21;2;T.header;4;investment_portfolio_distribution;Geographical Area;30 June 2024 (AED’000);31 December 2023 (AED’000);null;null;null;null;null;null;null;null
+page_21;2;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;UAE;2,259,338;2,054,099;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;GCC;897,593;620,675;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Europe;2,792,043;2,546,534;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Americas;1,556,034;1,523,438;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Others;1,369,545;1,418,509;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Total;8,874,553;8,163,255;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Less: Allowances for impairment (ECL);27,924;20,651;nan;null;null;null;null;null;null;null;null
+page_21;2;T.value;4;Net Total;8,846,629;8,142,604;nan;null;null;null;null;null;null;null;null
+page_21;3;T.header;4;others_investments;Investment Type;Amount as of 30 June 2024 (AED);Amount as of 31 December 2023 (AED);null;null;null;null;null;null;null;null
+page_21;3;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_21;3;T.value;4;Investments in Multilateral Development Banks;329.0 million;403.4 million;nan;null;null;null;null;null;null;null;null
+page_2;1;T.header;6;Condensed Consolidated Interim Statement of Financial Position;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_2;1;T.value;6;Description;Notes;As at June 30 2024 (unaudited) AED'000;As at December 31 2023 (audited) AED'000;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Assets;nan;nan;nan;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Cash and balances with central banks, net;4;38,963,801;45,375,462;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Deposits and balances due from banks, net;5;42,657,799;37,624,694;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Financial assets at fair value through profit or loss;6;11,944,358;10,063,020;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Derivative financial instruments;7;17,504,385;13,859,086;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Investment securities, net;8;132,609,377;128,268,397;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Loans and advances to customers, net;9;332,158,291;301,994,599;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Investment in associates;nan;374,005;370,622;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Investment properties;11;1,699,491;1,741,460;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Other assets, net;12;25,487,090;18,960,358;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Property and equipment, net;nan;1,843,715;1,887,596;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Intangible assets, net;nan;6,999,903;7,049,191;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Total assets;nan;612,242,215;567,194,485;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Liabilities;nan;nan;nan;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Due to banks;13;10,809,164;8,794,968;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Derivative financial instruments;7;20,017,103;16,239,495;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Deposits from customers;14;389,960,558;362,905,039;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Euro commercial paper;15;5,736,502;7,777,699;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Borrowings;16;82,849,138;76,653,334;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Other liabilities;17;32,162,293;23,570,527;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Total liabilities;nan;541,534,758;495,941,018;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Equity;nan;nan;nan;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Share capital;18;7,319,947;7,319,947;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Share premium;nan;17,878,882;17,878,882;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Other reserves;19;10,477,140;10,591,907;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Retained earnings;nan;26,271,817;26,701,111;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Capital notes;20;8,754,750;8,754,750;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Equity attributable to equity holders of the Bank;nan;70,702,536;71,246,597;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Non-controlling interests;nan;4,921;6,870;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Total equity;nan;70,707,457;71,253,467;nan;nan;null;null;null;null;null;null
+page_2;1;T.value;6;Total liabilities and equity;nan;612,242,215;567,194,485;nan;nan;null;null;null;null;null;null
+page_13;1;T.header;5;Financial Instruments;Fair value hierarchy;Valuation techniques and key inputs;Significant unobservable inputs;Relationship of unobservable inputs to FV;null;null;null;null;null;null;null
+page_13;1;T.value;5;Debt securities / Islamic sukuks and Other investments;Level 1;Quoted bid prices in active market;nan;Not applicable;null;null;null;null;null;null;null
+page_13;1;T.value;5;Other investments;Level 2;Quoted prices in secondary market;nan;Not applicable;null;null;null;null;null;null;null
+page_13;1;T.value;5;Derivatives;Level 2;Observable inputs either directly (i.e. as prices) or indirectly (i.e. derived from prices).;nan;Not applicable;null;null;null;null;null;null;null
+page_13;2;T.header;6;Derivatives Fair Values;Date;Notional AED’000;Positive fair value AED’000;Negative fair value AED’000;Net AED’000;null;null;null;null;null;null
+page_13;2;T.value;6;nan;30 June 2024 (Unaudited);25,965,761;97,968;86,657;11,311;null;null;null;null;null;null
+page_13;2;T.value;6;nan;31 December 2023 (Audited);21,849,160;122,037;82,577;39,460;null;null;null;null;null;null
+page_13;3;T.header;6;Derivatives Details;Type;Notional AED’000;Positive fair value AED’000;Negative fair value AED’000;Net AED’000;null;null;null;null;null;null
+page_13;3;T.value;6;nan;Forward foreign exchange contracts;19,718,630;39,500;34,570;4,930;null;null;null;null;null;null
+page_13;3;T.value;6;nan;Currency options;2,469,748;3,665;3,643;22;null;null;null;null;null;null
+page_13;3;T.value;6;nan;Interest rate derivatives;3,057,542;45,113;44,279;834;null;null;null;null;null;null
+page_13;3;T.value;6;nan;Commodity derivatives;719,841;9,690;4,165;5,525;null;null;null;null;null;null
+page_34;1;T.header;6;Proposed Cash Dividends and Bonus Issue;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_34;1;T.value;6;Proposed Distribution;Percentage of Share Capital;Approval Date;nan;nan;nan;null;null;null;null;null;null
+page_34;1;T.value;6;Bonus Shares;5.0%;March 2024;nan;nan;nan;null;null;null;null;null;null
+page_34;1;T.value;6;Cash Dividend;10.0%;March 2024;nan;nan;nan;null;null;null;null;null;null
+page_34;2;T.header;6;Tier 1 Capital Securities;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_34;2;T.value;6;Issued Amount (USD);Issued Amount (AED);Type;Issuance Date;Purpose;nan;null;null;null;null;null;null
+page_34;2;T.value;6;350 million;1,285.6 million;AT1 Capital Securities;October 2019;Regulatory compliance;nan;null;null;null;null;null;null
+page_34;2;T.value;6;275 million;1.01 billion;AT1 Capital Securities;September 16, 2024;Support capital adequacy ratio;nan;null;null;null;null;null;null
+page_34;3;T.header;6;Net Impairment Losses;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_34;3;T.value;6;Category;30 June 2024 (AED’000);30 June 2023 (AED’000);nan;nan;nan;null;null;null;null;null;null
+page_34;3;T.value;6;Loans and advances and Islamic financing receivables, acceptances, other assets and off balance sheet items;353,438;450,660;nan;nan;nan;null;null;null;null;null;null
+page_34;3;T.value;6;Due from banks and financial institutions;142;(790);nan;nan;nan;null;null;null;null;null;null
+page_34;3;T.value;6;Investments and Islamic instruments;7,273;3,276;nan;nan;nan;null;null;null;null;null;null
+page_34;3;T.value;6;Total;360,853;453,146;nan;nan;nan;null;null;null;null;null;null
+page_34;4;T.header;6;Earnings Per Share;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_34;4;T.value;6;Period;Net Profit (AED);AT1 Capital Coupon Payment (AED);Weighted Average Number of Shares (million);Earnings Per Share (AED);nan;null;null;null;null;null;null
+page_34;4;T.value;6;Six Month Period Ended 30 June 2024;403.4 million;37.8 million;2,226;182.1;nan;null;null;null;null;null;null
+page_34;4;T.value;6;Six Month Period Ended 30 June 2023;294.4 million;37.8 million;2,226;115.4;nan;null;null;null;null;null;null
+page_34;4;T.value;6;Three Month Period Ended 30 June 2024;152.3 million;37.8 million;2,226;51.0;nan;null;null;null;null;null;null
+page_34;4;T.value;6;Three Month Period Ended 30 June 2023;142.4 million;37.8 million;2,226;46.8;nan;null;null;null;null;null;null
+page_36;1;T.header;4;Related_Party_ECL;Stage;ECL Amount (AED);31 December 2023 ECL Amount (AED);null;null;null;null;null;null;null;null
+page_36;1;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_36;1;T.value;4;nan;Stage 3;70.8 million;nil;null;null;null;null;null;null;null;null
+page_36;1;T.value;4;nan;Stage 1 and 2;14.3 million;15.9 million;null;null;null;null;null;null;null;null
+page_36;2;T.header;4;Loans_and_Advances;Description;30 June 2024 (AED million);31 December 2023 (AED million);null;null;null;null;null;null;null;null
+page_36;2;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_36;2;T.value;4;nan;Loans and advances and Islamic financing receivables secured against collateral;2,129.4 million;2,220.2 million;null;null;null;null;null;null;null;null
+page_36;2;T.value;4;nan;Capital expenditure transactions with related parties;1.3 million;3.2 million;null;null;null;null;null;null;null;null
+page_36;3;T.header;4;Capital_Adequacy_Ratio;Capital Element;Basel III 2024;Basel III 2023;null;null;null;null;null;null;null;null
+page_36;3;T.value;4;nan;nan;nan;nan;null;null;null;null;null;null;null;null
+page_36;3;T.value;4;nan;Minimum common equity tier 1 ratio;7.0%;7.0%;null;null;null;null;null;null;null;null
+page_36;3;T.value;4;nan;Minimum tier 1 capital ratio;8.5%;8.5%;null;null;null;null;null;null;null;null
+page_36;3;T.value;4;nan;Minimum capital adequacy ratio;10.5%;10.5%;null;null;null;null;null;null;null;null
+page_36;3;T.value;4;nan;Capital conservation buffer;2.5%;2.5%;null;null;null;null;null;null;null;null
+page_28;1;T.header;1;Contingent Liabilities;null;null;null;null;null;null;null;null;null;null;null
+page_28;1;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_28;1;T.value;1;1527712;null;null;null;null;null;null;null;null;null;null;null
+page_28;1;T.value;1;928336;null;null;null;null;null;null;null;null;null;null;null
+page_28;1;T.value;1;4870723;null;null;null;null;null;null;null;null;null;null;null
+page_28;1;T.value;1;7326771;null;null;null;null;null;null;null;null;null;null;null
+page_28;2;T.header;1;Commitments;null;null;null;null;null;null;null;null;null;null;null
+page_28;2;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_28;2;T.value;1;238903;null;null;null;null;null;null;null;null;null;null;null
+page_28;2;T.value;1;125649;null;null;null;null;null;null;null;null;null;null;null
+page_28;2;T.value;1;364552;null;null;null;null;null;null;null;null;null;null;null
+page_28;3;T.header;1;Total Contingent Liabilities and Commitments;null;null;null;null;null;null;null;null;null;null;null
+page_28;3;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_28;3;T.value;1;16413800;null;null;null;null;null;null;null;null;null;null;null
+page_28;3;T.value;1;7691323;null;null;null;null;null;null;null;null;null;null;null
+page_16;1;T.header;1;Derivative Financial Instruments;null;null;null;null;null;null;null;null;null;null;null
+page_16;1;T.value;1;Notional;null;null;null;null;null;null;null;null;null;null;null
+page_16;1;T.value;1;529606;null;null;null;null;null;null;null;null;null;null;null
+page_16;1;T.value;1;210835;null;null;null;null;null;null;null;null;null;null;null
+page_27;1;T.header;4;Risk grades of gross loans and advances and Islamic financing receivables;Unnamed: 1;Unnamed: 2;  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;Stage 1 (AED’000);Stage 2 (AED’000);Stage 3 (AED’000);Total (AED’000)  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;27,505,751;346,267;-;27,852,018  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;-;1,744,765;-;1,744,765  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;27,505,751;2,091,032;-;29,596,783  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;-;-;1,650,341;1,650,341  ;null;null;null;null;null;null;null;null
+page_27;1;T.value;4;27,505,751;2,091,032;1,650,341;31,247,124  ;null;null;null;null;null;null;null;null
+page_27;2;T.header;4;Risk grades of gross loans and advances and Islamic financing receivables;Unnamed: 1;Unnamed: 2;  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;Stage 1 (AED’000);Stage 2 (AED’000);Stage 3 (AED’000);Total (AED’000)  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;26,031,660;287,247;-;26,318,907  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;-;1,875,998;-;1,875,998  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;26,031,660;2,163,245;-;28,194,905  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;-;-;1,441,845;1,441,845  ;null;null;null;null;null;null;null;null
+page_27;2;T.value;4;26,031,660;2,163,245;1,441,845;29,636,750;null;null;null;null;null;null;null;null
+page_19;1;T.header;4;Due_from_banks_and_financial_institutions;Rating;30 June 2024 (Unaudited) AED'000;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;AA;6737;627;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;AA−;33357;33578;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;A+;198093;35930;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;A;961846;1197784;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;BBB+;465626;593770;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;BBB;2357;3981;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;BBB− and below;609935;240331;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;Total;2277951;2106001;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;Less: Allowances for impairment (ECL);-4643;-4501;null;null;null;null;null;null;null;null
+page_19;1;T.value;4;nan;Carrying amount;2273308;2101500;null;null;null;null;null;null;null;null
+page_19;2;T.header;5;Due_from_banks_and_financial_institutions_stage_wise_analysis;Stage;Outstanding balance AED'000;Allowances for impairment (ECL) AED'000;Carrying amount AED'000;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 1;2296117;-4643;2291474;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 2;0;0;0;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 3;0;0;0;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Total;2296117;-4643;2291474;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 1;2130149;-4501;2125648;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 2;0;0;0;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Stage 3;0;0;0;null;null;null;null;null;null;null
+page_19;2;T.value;5;nan;Total;2130149;-4501;2125648;null;null;null;null;null;null;null
+page_10;1;T.header;2;New and Revised IFRS Adopted;Unnamed: 1;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;Descriptions;Effective from;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;nan;  ;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;Amendments to IFRS 16 – Lease liability in a sale and leaseback;1 January 2024;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;Amendment to IAS 1 – Non-current liabilities with covenants;1 January 2024;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;Amendment to IAS 7 and IFRS 7 – Supplier finance arrangements;1 January 2024;null;null;null;null;null;null;null;null;null;null
+page_10;1;T.value;2;Amendments to IAS 21 – Lack of Exchangeability;1 January 2024;null;null;null;null;null;null;null;null;null;null
+page_10;2;T.header;2;Changes in accounting policies;Unnamed: 1;null;null;null;null;null;null;null;null;null;null
+page_10;2;T.value;2;Description;nan;null;null;null;null;null;null;null;null;null;null
+page_10;2;T.value;2;The accounting policies adopted in the preparation of the condensed consolidated interim financial information are consistent with those followed in the preparation of the Group’s annual consolidated financial statements for the year ended 31 December 2023, except for the adoption of the new applicable standards and amendments to the published standards effective as of 01 January 2024.;nan;null;null;null;null;null;null;null;null;null;null
+page_10;3;T.header;2;Standards, amendments and interpretations issued but not yet effective and not early adopted;Unnamed: 1;null;null;null;null;null;null;null;null;null;null
+page_10;3;T.value;2;Description;nan;null;null;null;null;null;null;null;null;null;null
+page_10;3;T.value;2;A number of new standards and amendments to standards are effective for annual periods beginning after 1 January 2024 and earlier application is permitted; however, the Group has not early adopted them in preparing these condensed consolidated interim financial information. The Group is constantly assessing the impact of these standards, interpretations and amendments on the future financial statements and intends to adopt these, if applicable, when they become effective.;null;null;null;null;null;null;null;null;null;null
+page_17;1;T.header;3;Cash_Balances_Central_Bank;30 June 2024 (Unaudited) AED’000;31 December 2023 (Audited) AED’000;null;null;null;null;null;null;null;null;null
+page_17;1;T.value;3;Cash on hand;373965;341873;null;null;null;null;null;null;null;null;null
+page_17;1;T.value;3;Certificates of Deposit (CDs) with the Central Bank of the UAE;9898014;9034676;null;null;null;null;null;null;null;null;null
+page_17;1;T.value;3;Regulatory cash reserve deposit;2517104;2080233;null;null;null;null;null;null;null;null;null
+page_17;1;T.value;3;Total;12789083;11456782;null;null;null;null;null;null;null;null;null
+page_17;2;T.header;4;Due_From_Banks;Type;30 June 2024 (Unaudited) AED’000;31 December 2023 (Audited) AED’000;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Placements;642775;741235;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Current accounts / term deposits;967468;944766;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Bills discounted;667708;420000;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Total;2277951;2106001;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Less: Allowances for impairment (ECL);-4643;-4501;null;null;null;null;null;null;null;null
+page_17;2;T.value;4;nan;Net Total;2273308;2101500;null;null;null;null;null;null;null;null
+page_17;3;T.header;4;Due_From_Banks_By_Currency;Currency;30 June 2024 (Unaudited) AED’000;31 December 2023 (Audited) AED’000;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;AED;174883;220544;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;USD;1802159;1600693;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;EUR;33741;43624;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;GBP;4421;8399;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;XAU;21457;25010;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;Others;241290;207731;null;null;null;null;null;null;null;null
+page_17;3;T.value;4;nan;Total;2277951;2106001;null;null;null;null;null;null;null;null
+page_22;1;T.header;6;Investments and Islamic instruments by currency;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_22;1;T.value;6;Currency;30 June 2024 (Unaudited) AED’000;31 December 2023 (Audited) AED’000;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;AED;230371;260957;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;USD;8504348;7752690;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;EUR;94190;97490;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;JPY;45644;52118;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;Total;8874553;8163255;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;Less: Allowances for impairment (ECL);-27924;-20651;nan;nan;nan;null;null;null;null;null;null
+page_22;1;T.value;6;Total after impairment;8846629;8142604;nan;nan;nan;null;null;null;null;null;null
+page_22;2;T.header;6;Investments and Islamic instruments based on external credit ratings;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;null;null;null;null;null;null
+page_22;2;T.value;6;Credit Rating;Debt securities / Islamic sukuks AED’000;Other investments AED’000;Total AED’000;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;AAA;70464;0;70464;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;AA;1683037;0;1683037;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;AA-;511675;0;511675;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;A+;513436;115024;628460;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;A;374166;483230;857396;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;A-;2173210;0;2173210;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;BBB+;2274645;0;2274645;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;BBB;379975;0;379975;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;BBB - and below;294040;1651;295691;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;Less: Allowances for impairment (ECL);-25027;-2897;-27924;nan;nan;null;null;null;null;null;null
+page_22;2;T.value;6;Total;8249621;597008;8846629;nan;nan;null;null;null;null;null;null
+page_4;1;T.header;2;Liabilities;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Liabilities;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Due to banks;1,004,471.30;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Due to other financial institutions;41,249.26;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Repurchase agreements;3,529,920.36;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Term borrowings;1,162,718;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Acceptances;506,470;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Other liabilities;488,837,722;null;null;null;null;null;null;null;null;null;null
+page_4;1;T.value;2;Total liabilities;556,631,258;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.header;2;Equity;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Equity;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Share capital;2,212,000;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Statutory reserve;1,054,101;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;General reserve;679,967;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Fair value reserve;43,300;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Proposed dividends;106,000;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Retained earnings;1,285,550;null;null;null;null;null;null;null;null;null;null
+page_4;2;T.value;2;Total equity;51,719,816;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.header;2;Assets;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Assets;Amount;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Cash and balances with the Central Bank of the UAE;12,279,803;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Due from banks and other financial institutions;5,310,451;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Investments and Islamic instruments;24,498,976;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Acceptances and Islamic financing receivables;3,409,219;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Property and equipment;144,713;null;null;null;null;null;null;null;null;null;null
+page_4;3;T.value;2;Total assets;51,719,816;null;null;null;null;null;null;null;null;null;null
+page_29;1;T.header;5;off_balance_sheet_exposures;Stage;Outstanding balance;Allowances for impairment (ECL);Carrying amount;null;null;null;null;null;null;null
+page_29;1;T.value;5;nan;Stage 1;7503246;20140;7483106;null;null;null;null;null;null;null
+page_29;1;T.value;5;nan;Stage 2;223043;3933;219110;null;null;null;null;null;null;null
+page_29;1;T.value;5;nan;Stage 3;163069;109893;53176;null;null;null;null;null;null;null
+page_29;1;T.value;5;nan;Total;7889358;133966;7755392;null;null;null;null;null;null;null
+page_29;2;T.header;9;movement_in_gross_balance;Stage;Gross carrying amount - 31 December 2023;Transferred from Stage 1;Transferred from Stage 2;Transferred from Stage 3;Originated / (expired) during the period;Written-off during the period;Gross carrying amount - 30 June 2024;null;null;null
+page_29;2;T.value;9;nan;Stage 1;6690731;-15237;57;0;827695;0;7503246;null;null;null
+page_29;2;T.value;9;nan;Stage 2;226462;13962;-4340;0;-13041;0;223043;null;null;null
+page_29;2;T.value;9;nan;Stage 3;163555;1275;4283;0;-6044;0;163069;null;null;null
+page_29;2;T.value;9;nan;Total;7080748;0;0;0;808610;0;7889358;null;null;null
+page_12;1;T.header;2;FairValueMeasurement;Unnamed: 1;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;Level 2;Level 3;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;nan;nan;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;2,521,605;-;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;598,253;1,652;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;-;4,930;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;-;22;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;-;834;null;null;null;null;null;null;null;null;null;null
+page_12;1;T.value;2;-;5,525;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.header;2;FairValueMeasurement-Audited;Unnamed: 1;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;Level 2;Level 3;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;nan;nan;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;2,416,329;-;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;619,708;1,926;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;-;29,642;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;-;-;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;-;6,810;null;null;null;null;null;null;null;null;null;null
+page_12;2;T.value;2;-;3,008;null;null;null;null;null;null;null;null;null;null
+page_8;1;T.header;12;condensed_consolidated_interim_statement_of_changes_in_equity;Date;Share Capital;Statutory Reserve;Special Reserve;Fair Value Reserve;Cash Flow Hedge Reserve;Proposed Dividends;Impairment Reserve;Retained Earnings;Tier 1 Capital Securities;Total Equity
+page_8;1;T.value;12;nan;At 1 January 2023;2000000.0;981616.0;607462.0;-52192.0;nan;120000.0;168201.0;739827.0;1285550.0;5850464.0
+page_8;1;T.value;12;nan;Profit for the period;nan;nan;nan;nan;nan;332141.0;nan;332141.0;nan;nan
+page_8;1;T.value;12;nan;Other comprehensive income for the period;nan;nan;7471.0;nan;nan;nan;nan;7471.0;nan;nan
+page_8;1;T.value;12;nan;Total comprehensive income for the period;nan;nan;7471.0;nan;nan;332141.0;nan;339612.0;nan;nan
+page_8;1;T.value;12;nan;Excess provisions under the Central Bank of the UAE requirements over IFRS 9;nan;nan;nan;nan;-3975.0;3975.0;nan;nan;nan;nan
+page_8;1;T.value;12;nan;Tier 1 capital securities coupon paid;nan;nan;nan;nan;nan;-37763.0;nan;-37763.0;nan;nan
+page_8;1;T.value;12;nan;2022 bonus shares issued;120000.0;nan;nan;nan;nan;-120000.0;nan;nan;nan;nan
+page_8;1;T.value;12;nan;At 30 June 2023;2120000.0;981616.0;607462.0;-44721.0;nan;164226.0;1038180.0;1285550.0;6152313.0;nan
+page_8;1;T.value;12;nan;At 1 January 2024;2120000.0;1054121.0;679967.0;14408.0;-1230.0;318000.0;nan;1095790.0;1285550.0;6566606.0
+page_8;1;T.value;12;nan;Profit for the period after tax;nan;nan;nan;nan;nan;441153.0;nan;441153.0;nan;nan
+page_8;1;T.value;12;nan;Other comprehensive (loss) / income for the period;nan;nan;-8126.0;-4308.0;nan;1974.0;nan;-10460.0;nan;nan
+page_8;1;T.value;12;nan;Total comprehensive (loss) / income for the period;nan;nan;-8126.0;-4308.0;nan;443127.0;nan;430693.0;nan;nan
+page_8;1;T.value;12;nan;Tier 1 capital securities coupon paid;nan;nan;nan;nan;nan;-37763.0;nan;-37763.0;nan;nan
+page_8;1;T.value;12;nan;2023 bonus shares issued;106000.0;nan;nan;nan;nan;-106000.0;nan;nan;nan;nan
+page_8;1;T.value;12;nan;2023 cash dividends paid;nan;nan;nan;nan;-212000.0;nan;nan;nan;-212000.0;nan
+page_8;1;T.value;12;nan;At 30 June 2024;2226000.0;1054121.0;679967.0;6282.0;-5538.0;nan;1501154.0;1285550.0;6747536.0;nan
+page_38;1;T.header;6;Cash_and_Cash_Equivalents;Date;Cash_on_Hand_AED'000;Balances_with_Central_Bank_of_UAE_AED'000;Due_from_Banks_with_less_than_three_month_maturity_AED'000;Total_AED'000;null;null;null;null;null;null
+page_38;1;T.value;6;nan;30 June 2024;373965;598428;905028;1877421;null;null;null;null;null;null
+page_38;1;T.value;6;nan;30 June 2023;310301;800000;645323;1755624;null;null;null;null;null;null
+page_38;2;T.header;3;Cash_and_Cash_Equivalents_Maturities;Date;Maturing_within_three_months_AED_million;null;null;null;null;null;null;null;null;null
+page_38;2;T.value;3;nan;30 June 2024;5738.8;null;null;null;null;null;null;null;null;null
+page_38;2;T.value;3;nan;30 June 2023;3799.8;null;null;null;null;null;null;null;null;null
+page_38;3;T.header;3;Segmental_Reporting;Segment;Description;null;null;null;null;null;null;null;null;null
+page_38;3;T.value;3;nan;Corporate_and_Institutional_banking;Offers a range of products and services including credit and trade finance products, and services to large and medium sized corporate customers through separate units and financial institutions, and accepts deposits.;null;null;null;null;null;null;null;null;null
+page_38;3;T.value;3;nan;Business_banking_segment;Offers a range of products and services including credit and trade finance products, and services to small and medium sized customers through separate units, and accepts deposits. Also offers transactional services to small and medium sized businesses.;null;null;null;null;null;null;null;null;null
+page_32;1;T.header;4;Due to banks, repurchase agreements and term borrowings;Unnamed: 1;Unnamed: 2; ;null;null;null;null;null;null;null;null
+page_32;1;T.value;4;Type;30 June 2024 (AED’000);31 December 2023 (AED’000);nan;null;null;null;null;null;null;null;null
+page_32;1;T.value;4;Due to banks (note 11.2);1,004,750;1,137,077;nan;null;null;null;null;null;null;null;null
+page_32;1;T.value;4;Repurchase agreements;3,122,039;2,501,332;nan;null;null;null;null;null;null;null;null
+page_32;1;T.value;4;Term borrowings (note 11.1);642,775;550,950;nan;null;null;null;null;null;null;null;null
+page_32;1;T.value;4;Total;4,769,564;4,189,359;nan;null;null;null;null;null;null;null;null
+page_32;2;T.header;4;Due to banks by geographical area;Unnamed: 1;Unnamed: 2;Unnamed: 3;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;Geographical Area;30 June 2024 (AED’000);31 December 2023 (AED’000);nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;UAE;1,914,310;1,575,064;nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;GCC;0;276,999;nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;Europe;2,459,656;1,863,795;nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;Americas;94,161;18,832;nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;Others;301,437;454,669;nan;null;null;null;null;null;null;null;null
+page_32;2;T.value;4;Total;4,769,564;4,189,359;nan;null;null;null;null;null;null;null;null
+page_32;3;T.header;5;Term borrowings details;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;null;null;null;null;null;null;null
+page_32;3;T.value;5;Year Obtained;Maturity;Interest Rate;30 June 2024 (AED’000);31 December 2023 (AED’000);null;null;null;null;null;null;null
+page_32;3;T.value;5;2023;Sep-26;SOFR + Margin;183,650;183,650;null;null;null;null;null;null;null
+page_32;3;T.value;5;2023;Dec-28;SOFR + Margin;183,650;183,650;null;null;null;null;null;null;null
+page_32;3;T.value;5;2024;May-26;SOFR + Margin;183,650;0;null;null;null;null;null;null;null
+page_32;3;T.value;5;2024;May-26;SOFR + Margin;91,825;0;null;null;null;null;null;null;null
+page_32;3;T.value;5;2023;Aug-27;SOFR + Margin;0;183,650;null;null;null;null;null;null;null
+page_32;3;T.value;5;nan;nan;nan;642,775;550,950;null;null;null;null;null;null;null
+page_32;4;T.header;4;Borrowings related to gold;Unnamed: 1;Unnamed: 2; ;null;null;null;null;null;null;null;null
+page_32;4;T.value;4;Description;30 June 2024 (AED’000);31 December 2023 (AED’000);nan;null;null;null;null;null;null;null;null
+page_32;4;T.value;4;Gold related borrowings;128,200;378,800;nan;null;null;null;null;null;null;null;null
+page_32;5;T.header;4;Investment securities under repo agreements;Unnamed: 1;Unnamed: 2; ;null;null;null;null;null;null;null;null
+page_32;5;T.value;4;Description;30 June 2024 (AED’000);31 December 2023 (AED’000);nan;null;null;null;null;null;null;null;null
+page_32;5;T.value;4;Investment securities under repo agreements;3,619,400;2,752,100;nan;null;null;null;null;null;null;null;null
+page_32;6;T.header;4;Cash collateral;Unnamed: 1;Unnamed: 2; ;null;null;null;null;null;null;null;null
+page_32;6;T.value;4;Date;Amount (AED Million);nan;nan;null;null;null;null;null;null;null;null
+page_32;6;T.value;4;30 June 2024;101.7;nan;nan;null;null;null;null;null;null;null;null
+page_32;6;T.value;4;31 December 2023;60.9;nan;nan;null;null;null;null;null;null;null;null
+page_32;7;T.header;4;Wakala Borrowing;Unnamed: 1;Unnamed: 2; ;null;null;null;null;null;null;null;null
+page_32;7;T.value;4;Date;Amount (AED Million);nan;nan;null;null;null;null;null;null;null;null
+page_32;7;T.value;4;30 June 2024;523.7;nan;nan;null;null;null;null;null;null;null;null
+page_32;7;T.value;4;31 December 2023;100.0;nan;nan;null;null;null;null;null;null;null;null
+page_24;1;T.header;4;Loans_and_Advances_and_Islamic_Financing_Receivables;Type;30 June 2024 AED'000;31 December 2023 AED'000;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Overdrafts;1724211;1988396;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Term loans;22942520;21003661;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Loans against trust receipts;4094321;4039170;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Bills discounted;2079686;2195592;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Bills drawn under letters of credit;406386;409931;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Gross loans and advances and Islamic financing receivables;31247124;29636750;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Allowances for impairment losses (ECL);-1798608;-1733055;null;null;null;null;null;null;null;null
+page_24;1;T.value;4;nan;Net loans and advances and Islamic financing receivables;29448516;27903695;null;null;null;null;null;null;null;null
+page_24;2;T.header;4;Murabaha_Tawarruq_and_Ijara_Financing;Financing Type;30 June 2024 AED'000;31 December 2023 AED'000;null;null;null;null;null;null;null;null
+page_24;2;T.value;4;nan;Murabaha Tawarruq and Ijara financing activities;4440.6;3993.7;null;null;null;null;null;null;null;null
+page_24;3;T.header;8;Stage_Wise_Analysis;Stage;30 June 2024 Outstanding Balance AED'000;30 June 2024 Allowances for Impairment (ECL) AED'000;30 June 2024 Carrying Amount AED'000;31 December 2023 Outstanding Balance AED'000;31 December 2023 Allowances for Impairment (ECL) AED'000;31 December 2023 Carrying Amount AED'000;null;null;null;null
+page_24;3;T.value;8;nan;Stage 1;27727981;-192143;27535838;26259891;-188434;26071457;null;null;null;null
+page_24;3;T.value;8;nan;Stage 2;2127753;-526928;1600825;2207549;-458984;1748565;null;null;null;null
+page_24;3;T.value;8;nan;Stage 3;1798652;-1079537;719115;1679876;-1085637;594239;null;null;null;null
+page_24;3;T.value;8;nan;Total;31654386;-1798608;29855778;30147316;-1733055;28414261;null;null;null;null
+page_7;1;T.header;3;cash_flows_statement;Six month period ended 30 June 2024 AED’000;Six month period ended 30 June 2023 AED’000;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;nan;nan;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;Six month period ended 30 June 2024 AED’000;Six month period ended 30 June 2023 AED’000;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;nan;nan;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;441,153;332,141;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;nan;nan;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;20,035;15,712;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;13,569;12,069;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;360,853;453,146;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(2,027);3,559;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;620;(923);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;834,203;815,704;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(10,480);(5,986);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(1,801,782);(666,916);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(357,897);(190,289);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(1,903,748);(1,947,218);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(123,559);(123,147);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(132,327);224,791;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;620,707;430,886;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;3,022,220;(856,370);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;125,007;400,440;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;272,344;(1,918,105);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;nan;nan;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(47,508);(66,972);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(1,487,762);(1,360,639);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;765,437;1,121,415;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(769,833);(306,196);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;nan;nan;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(212,000);-;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;275,475;-;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(183,650);(257,110);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(37,763);(37,763);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(157,938);(294,873);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;(655,427);(2,519,174);nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;2,532,848;4,274,798;nan;null;null;null;null;null;null;null;null;null
+page_7;1;T.value;3;1,877,421;1,755,624;nan;null;null;null;null;null;null;null;null;null
+page_33;1;T.header;1;Customer_Deposits;null;null;null;null;null;null;null;null;null;null;null
+page_33;1;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_33;1;T.value;1;15,190,315;null;null;null;null;null;null;null;null;null;null;null
+page_33;1;T.value;1;711,494;null;null;null;null;null;null;null;null;null;null;null
+page_33;1;T.value;1;22,670,197;null;null;null;null;null;null;null;null;null;null;null
+page_33;1;T.value;1;38,572,006;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.header;1;Geographical_Area_Deposits;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;36,593,397;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;696,037;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;1,098,081;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;100,945;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;83,546;null;null;null;null;null;null;null;null;null;null;null
+page_33;2;T.value;1;38,572,006;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.header;1;Islamic_Customer_Deposits;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;574,066;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;509,363;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;3,364,384;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;47,667;null;null;null;null;null;null;null;null;null;null;null
+page_33;3;T.value;1;4,495,480;null;null;null;null;null;null;null;null;null;null;null
+page_33;4;T.header;1;Shareholders_Equity;null;null;null;null;null;null;null;null;null;null;null
+page_33;4;T.value;1;31 December 2023 AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_33;4;T.value;1;2,120,000;null;null;null;null;null;null;null;null;null;null;null
+page_31;1;T.header;5;ECL_Analysis;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;null;null;null;null;null;null;null
+page_31;1;T.value;5;Stage 3;Stage 2;Stage 1;Total;ECL Rate;null;null;null;null;null;null;null
+page_31;1;T.value;5;1,079,537;526,928;192,143;1,798,608;5.7%;null;null;null;null;null;null;null
+page_31;1;T.value;5;-;-;4,643;4,643;0.2%;null;null;null;null;null;null;null
+page_31;1;T.value;5;-;-;27,924;27,924;0.3%;null;null;null;null;null;null;null
+page_31;1;T.value;5;12,031;32;1,654;13,717;1.2%;null;null;null;null;null;null;null
+page_31;1;T.value;5;109,893;3,933;20,140;133,966;1.7%;null;null;null;null;null;null;null
+page_31;1;T.value;5;1,201,461;530,893;246,504;1,978,858;3.8%;null;null;null;null;null;null;null
+page_31;2;T.header;5;ECL_Analysis_Historical;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;null;null;null;null;null;null;null
+page_31;2;T.value;5;Stage 3;Stage 2;Stage 1;Total;ECL Rate;null;null;null;null;null;null;null
+page_31;2;T.value;5;1,085,637;458,984;188,434;1,733,055;5.7%;null;null;null;null;null;null;null
+page_31;2;T.value;5;-;-;4,501;4,501;0.2%;null;null;null;null;null;null;null
+page_31;2;T.value;5;-;-;20,651;20,651;0.3%;null;null;null;null;null;null;null
+page_31;2;T.value;5;10,800;39;1,774;12,613;1.2%;null;null;null;null;null;null;null
+page_31;2;T.value;5;117,630;2,943;19,986;140,559;2.0%;null;null;null;null;null;null;null
+page_31;2;T.value;5;1,214,067;461,966;235,346;1,911,379;3.9%;null;null;null;null;null;null;null
+page_9;1;T.header;3;Legal_Status_And_Activities;Key Shareholders;Country;null;null;null;null;null;null;null;null;null
+page_9;1;T.value;3;nan;Department of Industry and Economy – Government of Fujairah;United Arab Emirates;null;null;null;null;null;null;null;null;null
+page_9;1;T.value;3;nan;Easa Saleh Al Gurg LLC;United Arab Emirates;null;null;null;null;null;null;null;null;null
+page_9;1;T.value;3;nan;Investment Corporation of Dubai;United Arab Emirates;null;null;null;null;null;null;null;null;null
+page_9;2;T.header;5;Subsidiary_Companies;Company Name;Establishment Date;Location;Purpose;null;null;null;null;null;null;null
+page_9;2;T.value;5;nan;NBF Financial Services FZC;December 2004;Fujairah Free Trade Zone;Support services to the Bank;null;null;null;null;null;null;null
+page_9;2;T.value;5;nan;NBF Markets (Cayman) Limited;31 January 2017;Cayman Islands;Support services to enter into foreign exchange and derivative transactions;null;null;null;null;null;null;null
+page_9;3;T.header;5;Condensed_Consolidated_Interim_Financial_Info;Description;Notes;As at June 30, 2024;As at December 31, 2023;null;null;null;null;null;null;null
+page_9;3;T.value;5;nan;Total assets;nan;612,242,215;567,194,485;null;null;null;null;null;null;null
+page_9;3;T.value;5;nan;Total liabilities;nan;541,534,758;495,941,018;null;null;null;null;null;null;null
+page_9;3;T.value;5;nan;Total equity;nan;70,707,457;71,253,467;null;null;null;null;null;null;null
+page_9;3;T.value;5;nan;Total liabilities and equity;nan;612,242,215;567,194,485;null;null;null;null;null;null;null
+page_37;1;T.header;1;CET1 Capital;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;2,120,000;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;1,054,121;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;679,967;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;1,201,790;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;84,406;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;5,930;null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;(144,713);null;null;null;null;null;null;null;null;null;null;null
+page_37;1;T.value;1;5,001,501;null;null;null;null;null;null;null;null;null;null;null
+page_37;2;T.header;1;Additional Tier 1 (AT1) Capital;null;null;null;null;null;null;null;null;null;null;null
+page_37;2;T.value;1;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_37;2;T.value;1;1,285,550;null;null;null;null;null;null;null;null;null;null;null
+page_37;2;T.value;1;6,287,051;null;null;null;null;null;null;null;null;null;null;null
+page_37;3;T.header;1;Tier 2 Capital;null;null;null;null;null;null;null;null;null;null;null
+page_37;3;T.value;1;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_37;3;T.value;1;396,045;null;null;null;null;null;null;null;null;null;null;null
+page_37;3;T.value;1;396,045;null;null;null;null;null;null;null;null;null;null;null
+page_37;4;T.header;1;Total Capital Base;null;null;null;null;null;null;null;null;null;null;null
+page_37;4;T.value;1;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_37;4;T.value;1;6,683,096;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.header;1;Risk Weighted Assets;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.value;1;31 December 2023 (Audited) AED'000;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.value;1;31,683,618;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.value;1;64,748;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.value;1;3,504,166;null;null;null;null;null;null;null;null;null;null;null
+page_37;5;T.value;1;35,252,532;null;null;null;null;null;null;null;null;null;null;null
+page_37;6;T.header;1;Capital Ratios;null;null;null;null;null;null;null;null;null;null;null
+page_37;6;T.value;1;31 December 2023 (%);null;null;null;null;null;null;null;null;null;null;null
+page_37;6;T.value;1;19.0%;null;null;null;null;null;null;null;null;null;null;null
+page_37;6;T.value;1;17.8%;null;null;null;null;null;null;null;null;null;null;null
+page_37;6;T.value;1;14.2%;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.header;1;Condensed Consolidated Interim Statement of Comprehensive Income;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;30 June 2023;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_6;1;T.value;1;nan;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.header;1;Related_Party_Transactions;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;31 December 2023 (AED'000);null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;3,583,682;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;9,948,263;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;136,332;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;34,780;null;null;null;null;null;null;null;null;null;null;null
+page_35;1;T.value;1;293,840;null;null;null;null;null;null;null;null;null;null;null
+page_35;2;T.header;1;Contingent_Liabilities;null;null;null;null;null;null;null;null;null;null;null
+page_35;2;T.value;1;31 December 2023 (AED'000);null;null;null;null;null;null;null;null;null;null;null
+page_35;2;T.value;1;115,179;null;null;null;null;null;null;null;null;null;null;null
+page_35;2;T.value;1;36,870;null;null;null;null;null;null;null;null;null;null;null
+page_35;2;T.value;1;596,391;null;null;null;null;null;null;null;null;null;null;null
+page_35;3;T.header;1;Statement_of_Changes_in_Equity;null;null;null;null;null;null;null;null;null;null;null
+page_35;3;T.value;1;30 June 2023 (AED'000);null;null;null;null;null;null;null;null;null;null;null
+page_35;3;T.value;1;8,632;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.header;1;Statement_of_Income_Items;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;30 June 2023 (AED'000);null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;121,252;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;189,346;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;7,307;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;17,273;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;11,923;null;null;null;null;null;null;null;null;null;null;null
+page_35;4;T.value;1;657;null;null;null;null;null;null;null;null;null;null;null
+page_39;1;T.header;9;Segmental Reporting;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6;Unnamed: 7;Unnamed: 8;null;null;null
+page_39;1;T.value;9;Operating Expenses;Operating Profit Before Impairment Losses and Tax;Net Impairment Losses;Profit for the Period Before Tax;Tax;Profit for the Period After Tax;Segment Assets;Segment Liabilities;Capital Expenditure;null;null;null
+page_39;1;T.value;9;-117806;322223;-303178;19045;-1718;17327;18687999;27183104;0;null;null;null
+page_39;1;T.value;9;-156162;264231;-36150;228081;-20584;207497;8210072;11906886;0;null;null;null
+page_39;1;T.value;9;-60450;46485;-14772;31713;-2862;28851;4730347;5112415;0;null;null;null
+page_39;1;T.value;9;-24162;212829;-6753;206076;-18598;187478;24002840;4681317;47508;null;null;null
+page_39;1;T.value;9;-358580;845768;-360853;484915;-43762;441153;55631258;48883722;47508;null;null;null
+page_14;1;T.header;5;Assets;At fair value through profit or loss;At fair value through other comprehensive income;Amortised cost;Total;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan; ; ;12,789,083;12,789,083;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan; ; ;2,273,308;2,273,308;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan;572;3,110,118;5,735,939;8,846,629;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan; ; ;29,448,516;29,448,516;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan; ; ;1,720,118;1,720,118;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan; ; ;553,604;553,604;null;null;null;null;null;null;null
+page_14;1;T.value;5;nan;572;3,110,118;52,520,568;55,631,258;null;null;null;null;null;null;null
+page_14;2;T.header;5;Liabilities;At fair value through profit or loss;At fair value through other comprehensive income;Amortised cost;Total;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;1,004,750;1,004,750;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;41,594,226;41,594,226;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;3,122,039;3,122,039;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;642,775;642,775;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;2,519,932;2,519,932;null;null;null;null;null;null;null
+page_14;2;T.value;5;nan; ; ;48,883,722;48,883,722;null;null;null;null;null;null;null
+page_11;1;T.header;7;Financial Risk Management;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6;null;null;null;null;null
+page_11;1;T.value;7;Description;Details;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Fair value measurement principles;Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Fair value determination;When available, the fair value of a financial instrument is based on quoted market prices in an active market for that instrument.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Active market criteria;A market is regarded as active if quoted prices are readily and regularly available and represent actual and regularly occurring market transactions on an arm's length basis.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Valuation techniques;If a quoted market price is not available or if a market for a financial instrument is not active, the fair value is determined by using valuation techniques.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;External fund managers;For investments under management with external fund managers, fair value is provided by the external fund managers, determined based on the market value of underlying investments of each fund.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Acquisition cost measurement;In all other cases, instruments are measured at acquisition cost, including transaction cost, less impairment losses, if any.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Discounted cash flow techniques;Where discounted cash flow techniques are used, estimated future cash flows are based on management's best estimates.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Discount rate relevance;The discount rate is a market-related rate at the date of the condensed consolidated interim statement of financial position for an instrument with similar terms and conditions.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Credit risk adjustments;Fair values reflect the credit risk of the instrument and include adjustments to take account of the credit risk of the Group and the counterparty, where appropriate.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Model estimates adjustments;Fair value estimates obtained from models are adjusted for any other factors, such as liquidity risk or model uncertainties.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_11;1;T.value;7;Derivatives valuation;The fair value of derivatives that are not exchange traded is estimated at the amount that the Group would receive or pay to terminate the contract at the date of the consolidated interim statement of financial position.;nan;nan;nan;nan;nan;null;null;null;null;null
+page_18;1;T.header;4;Due_from_Banks_and_Financial_Institutions;Geographical_Area;30_June_2024_AED000;31_December_2023_AED000;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;nan;nan;  ;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;UAE;179,354;215,745;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;GCC;734,460;675,128;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Europe;253,267;454,826;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Americas;609,199;577,221;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Others;501,671;183,081;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Total;2,277,951;2,106,001;null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Less: Allowances for impairment (ECL);(4,643);(4,501);null;null;null;null;null;null;null;null
+page_18;1;T.value;4;nan;Net Total;2,273,308;2,101,500;null;null;null;null;null;null;null;null
+page_18;2;T.header;4;Dispersion_of_Due_from_Banks_and_Financial_Institutions;Geographical_Area;30_June_2024_AED000;31_December_2023_AED000;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;nan;nan;  ;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;UAE;248,031;203,893;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;GCC;796,675;655,792;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Europe;634,148;804,553;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Americas;181,619;198,443;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Others;417,478;243,320;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Total;2,277,951;2,106,001;null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Less: Allowances for impairment (ECL);(4,643);(4,501);null;null;null;null;null;null;null;null
+page_18;2;T.value;4;nan;Net Total;2,273,308;2,101,500;null;null;null;null;null;null;null;null

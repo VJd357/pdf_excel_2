@@ -1,0 +1,13 @@
+segmental_reporting,Net interest income and net income from Islamic financing and investment activities,Non-interest income,Operating income,Operating expenses,Operating profit before impairment losses and tax,Net impairment losses,Profit / (loss) for the period before tax,Profit / (loss) for the period after tax
+Corporate and institutional segments,"330,342","103,435","433,777","(116,608)","317,169","(404,552)","(87,383)","(87,383)"
+Business banking segment,"260,456","100,590","361,046","(137,653)","223,393","(31,506)","191,887","191,887"
+Retail banking,"78,246","6,112","84,358","(51,343)","33,015","(15,418)","17,597","17,597"
+"Treasury, ALM and others","156,053","77,755","233,808","(22,098)","211,710","(1,670)","210,040","210,040"
+Consolidated,"825,097","287,892","1,112,989","(327,702)","785,287","(453,146)","332,141","332,141"
+-----
+segment_assets_liabilities,Segment assets,Segment liabilities,Capital expenditure
+Corporate and institutional segments,"17,536,343","25,485,993",0
+Business banking segment,"7,719,715","11,141,104",0
+Retail banking,"4,472,140","4,611,928",0
+"Treasury, ALM and others","21,991,618","3,914,185","106,686"
+Consolidated,"51,719,816","45,153,210","106,686"

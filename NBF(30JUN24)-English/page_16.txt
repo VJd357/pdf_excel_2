@@ -1,0 +1,54 @@
+14 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+4.      Financial risk management (continued)  
+ 
+(e)      Market risk (continued)  
+Derivative financial instruments  (continued)  
+(ii) it requires no initial net investment or an initial net investment that is smaller than would be required 
+for other types of contracts that would be expected to have a similar response to changes in market 
+factors; and  
+ 
+(iii) it is settled at a future date.  
+ 
+Derivative financial instruments which the Group enters into includes forward foreign exchange contracts, 
+interest rate derivatives, commodity derivatives and currency options.  
+ 
+The Group uses derivative financial instruments for hedging purposes as part of its asset and liability 
+management activities in order to reduce its own exposure to fluctuations in interest rates.  
+ 
+The Group uses interest rate swaps to hedge interest rate risks. In all such cases, the hedging relationship 
+and objectives including details of the hedged item and hedging instrument are formally documented and 
+the transactions are accounted for based on the type of hedge.  
+ 
+The Group’s exposure to interest rate swaps designated in hedge accounting relationships represents an 
+amount of AED 529.6  million (31 December 2023 : AED 210.8  million) . The objective of the majority of 
+these hedges is to reduce fluctuations from interest rate risk and  is consistent with the overall interest rate 
+risk management strategy of the Bank . 
+ 
+The following table shows the positive (assets) and negative (liabilities) fair values of derivative financial 
+instruments:  
+ 
+Hedging instrument  Assets  Liabilities  Notional  
+    
+30 June 2024  (Unaudited)  
+AED’000     
+    
+Derivatives held as cash flow hedges     
+   Interest rate swaps  - 5,538  529,60 6 
+Total derivative financial instruments  - 5,538  529,60 6 
+    
+Hedging instrument     
+    
+31 December 202 3 (Audited)  
+AED’000     
+    
+Derivatives held as cash flow hedges     
+   Interest rate swaps  - 1,230  210,835  
+Total derivative financial instruments  - 1,230  210,835  
+ 
+  

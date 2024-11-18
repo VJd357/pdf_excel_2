@@ -1,0 +1,13 @@
+ECL_Allowance_30_June_2024,,,,,,
+Stage,ECL allowance - 31 December 2023,Transferred from Stage 1,Transferred from Stage 2,Transferred from Stage 3,Originated / (derecognized) during the period including changes in PDs / LGDs / EADs,Net allowance for impairment losses,Written -off during the period,ECL allowance - 30 June 2024
+Stage 1,"188,434","(6,012)",165,0,"9,556","3,709",0,"192,143"
+Stage 2,"458,984","18,850","(26,955)",0,"76,049","67,944",0,"526,928"
+Stage 3,"1,085,637","23,414","103,758",(44),"160,145","287,273","(293,373)","1,079,537"
+Total,"1,733,055","36,252","76,968",(44),"245,750","358,926","(293,373)","1,798,608"
+-----
+ECL_Allowance_31_December_2023,,,,,,
+Stage,ECL allowance - 31 December 2022,Transferred from Stage 1,Transferred from Stage 2,Transferred from Stage 3,Originated / (derecognized) during the year including changes in PDs / LGDs / EADs,Net allowance for impairment losses,Written -off during the year,ECL allowance - 31 December 2023
+Stage 1,"233,100","(13,117)","2,968",0,"(34,517)","(44,666)",0,"188,434"
+Stage 2,"440,294","27,782","(45,215)",480,"35,643","18,690",0,"458,984"
+Stage 3,"1,348,841","123,126","163,678","(18,920)","436,484","704,368","(967,572)","1,085,637"
+Total,"2,022,235","137,791","121,431","(18,440)","437,610","678,392","(967,572)","1,733,055"

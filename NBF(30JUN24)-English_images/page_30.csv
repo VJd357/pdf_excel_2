@@ -1,0 +1,11 @@
+ECL_Allowances,Stage,ECL allowances - 31 December 2023,Transferred from Stage 1,Transferred from Stage 2,Transferred from Stage 3,Originated / expired during the period including changes in PDs / LGDs / EADs,Net allowance for impairment losses,Written-off during the period,ECL allowances - 30 June 2024
+,Stage 1,"19,986",(76),2,0,228,154,0,"20,140"
+,Stage 2,"2,943",115,(121),0,996,990,0,"3,933"
+,Stage 3,"117,630",817,"3,098",0,"(-11,652)","(-7,737)",0,"109,893"
+,Total,"140,559",856,"2,979",0,"(-10,428)","(-6,593)",0,"133,966"
+-----
+ECL_Allowances_Audited,Stage,ECL allowances - 31 December 2022,Transferred from Stage 1,Transferred from Stage 2,Transferred from Stage 3,Originated / expired during the year including changes in PDs / LGDs / EADs,Net allowance for impairment losses,Written-off during the year,ECL allowances - 31 December 2023
+,Stage 1,"19,364",(673),47,0,"1,248",622,0,"19,986"
+,Stage 2,"5,684","1,079",(402),0,"(-3,418)","(-2,741)",0,"2,943"
+,Stage 3,"75,561","14,753","29,534",0,"(-2,218)","42,069",0,"117,630"
+,Total,"100,609","15,159","29,179",0,"(-4,388)","39,950",0,"140,559"

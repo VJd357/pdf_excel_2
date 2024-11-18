@@ -1,0 +1,39 @@
+28 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+9. Contingent liabilities and commitments (continued)  
+ 
+9.3 Movement in the provision for impairment of off –balance sheet exposures  
+ECL – AED ’000  (Unaudited)   
+ 
+Stage 1  Stage 2  Stage 3  Total  
+     
+ECL allowances - 31 December 2023 19,986  2,943  117,630                   140,559  
+Transferred from Stage 1  (76) 115 817                         856 
+Transferred from Stage 2  2 (121)  3,098                      2,979  
+Transferred from Stage 3  - - - - 
+Originated / expired during the period including 
+changes in PDs / LGDs / EADs  228 996 (11,652)  (10,428)  
+Net allowance for impairment losses  154 990 (7,737)  (6,593)  
+Written -off during the period  - - - - 
+ECL allowances - 30 June 2024  20,140  3,933  109,893  133,966  
+     
+ECL – AED ’000 (Audited)  Stage 1  Stage 2  Stage 3  Total  
+     
+ECL allowances - 31 December 2022  19,364  5,684  75,561   100,609  
+Transferred from Stage 1  (673)  1,079  14,753  15,159  
+Transferred from Stage 2  47 (402)  29,534  29,179  
+Transferred from Stage 3  - - - - 
+Originated / expired during the year including 
+changes in PDs / LGDs / EADs  1,248  (3,418)  (2,218)  (4,388)  
+Net allowance for impairment losses  622 (2,741)  42,069  39,950  
+Written -off during the year  - - - - 
+ECL allowances – 31 December 2023  19,986  2,943  117,630  140,559  
+ 
+ 
+The provision for ECL against the off -balance sheet exposures disclosed above  is classified under other 
+liabilities.  

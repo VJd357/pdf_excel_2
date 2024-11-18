@@ -1,0 +1,26 @@
+Related_Party_Transactions
+,Category,Description,30 June 2024 (AED'000),31 December 2023 (AED'000)
+,Loans and advances and Islamic financing receivables,,"3,267,826","3,583,682"
+,Customer deposits and Islamic customer deposits,,"10,687,619","9,948,263"
+,Investments and Islamic instruments,,"94,702","136,332"
+,Acceptances,,"32,649","34,780"
+,Tier 1 capital securities,,"297,513","293,840"
+-----
+Contingent_Liabilities
+,Contingent Liability Type,Description,30 June 2024 (AED'000),31 December 2023 (AED'000)
+,Letters of credit,,"72,193","115,179"
+,Financial guarantees and other direct credit substitutes,,"35,107","36,870"
+,Transaction related contingencies,,"633,647","596,391"
+-----
+Statement_of_Changes_in_Equity
+,Description,30 June 2024 (AED'000),30 June 2023 (AED'000)
+,Tier 1 capital securities coupon paid,"8,739","8,632"
+-----
+Statement_of_Income_Items
+,Income Item,30 June 2024 (AED'000),30 June 2023 (AED'000)
+,Interest income and income from Islamic financing and investment activities,"102,711","121,252"
+,Interest expense and distribution to Islamic depositors,"243,469","189,346"
+,Other income,"5,850","7,307"
+,Operating expenses,"12,268","17,273"
+,Key management compensation - Salaries and other short-term benefits,"13,109","11,923"
+,Key management compensation - Employee end of service benefits,593,657

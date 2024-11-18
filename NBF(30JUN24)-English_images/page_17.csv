@@ -1,0 +1,22 @@
+Cash_Balances_Central_Bank,30 June 2024 (Unaudited) AED’000,31 December 2023 (Audited) AED’000
+,Cash on hand,373965,341873
+,Certificates of Deposit (CDs) with the Central Bank of the UAE,9898014,9034676
+,Regulatory cash reserve deposit,2517104,2080233
+,Total,12789083,11456782
+-----
+Due_From_Banks,Type,30 June 2024 (Unaudited) AED’000,31 December 2023 (Audited) AED’000
+,Placements,642775,741235
+,Current accounts / term deposits,967468,944766
+,Bills discounted,667708,420000
+,Total,2277951,2106001
+,Less: Allowances for impairment (ECL),-4643,-4501
+,Net Total,2273308,2101500
+-----
+Due_From_Banks_By_Currency,Currency,30 June 2024 (Unaudited) AED’000,31 December 2023 (Audited) AED’000
+,AED,174883,220544
+,USD,1802159,1600693
+,EUR,33741,43624
+,GBP,4421,8399
+,XAU,21457,25010
+,Others,241290,207731
+,Total,2277951,2106001

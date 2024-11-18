@@ -1,0 +1,62 @@
+13 
+ 
+ 
+   
+National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+4.      Financial risk management (continued)  
+ 
+(d)     Assets and liabilities (continued)  
+ 
+31 December 202 3 (Audited)  At fair value 
+through profit 
+or loss  At fair value 
+through other 
+comprehensive 
+income   
+ 
+Amorti sed 
+cost  
+ 
+ 
+Total  AED’000  
+     Assets 
+Cash and balances with the Central Bank 
+of the UAE  - - 11,456,782  11,456,782  
+Due from banks and financial 
+institutions  - - 2,101,500  2,101,500  
+Investments and Islamic instruments  19,211  3,011,240  5,112,153  8,142,604  
+Loans and advances and Islamic 
+financing receivables  - - 27,903,695  27,903,695  
+Acceptances and other assets  - - 1,597,663  1,597,663  
+Property and equipment and intangibles  - - 517,572  517,572  
+Total assets  19,211  3,011,240  48,689,365  51,719,816  
+ 
+        Liabilities  
+Due to banks  - - 1,137,077  1,137,077  
+Customer deposits and Islamic customer 
+deposits  - - 38,572,006  38,572,006  
+Repurchase agreements  - - 2,501,332  2,501,332  
+Term borrowings  - - 550,950  550,950  
+Acceptances and other liabilities  - - 2,391,845  2,391,845  
+Total liabilities  - - 45,153,210  45,153,210  
+ 
+Fair value of investments and Islamic instruments measured at amorti sed cost amounted to AED  5,595.5 million  
+(31 December 2023 : AED 4,992.4 million ). Management considers that the carrying amounts of all other assets 
+and liabilities measured at amortised cost in th is condensed  consolidated interim financial information 
+approximate their fair values.  
+The Group performed a detailed analysis of its business models for managing financial assets and analysis of 
+their cash flow characteristics.  
+(e)      Market risk  
+Derivative financial instruments  
+In the ordinary course of business, the Group enters into various types of derivative transactions that are 
+affected by variables in the underlying instruments.  
+ 
+A derivative is a financial instrument or other contract with all three of the following characteristics:  
+(i) its value changes in response to the change in a specified interest rate, financial instrument price, 
+commodity price, foreign exchange rate, index of prices or rates, credit rating or credit index, or other 
+variable, provided in the case of a non ‐financial variable that the variable is not specific to a party to 
+the contract (sometimes called the ‘underlying’);  
+ 

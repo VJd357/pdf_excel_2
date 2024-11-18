@@ -1,0 +1,18 @@
+Loans_and_Advances_and_Islamic_Financing_Receivables,Type,30 June 2024 AED'000,31 December 2023 AED'000
+,Overdrafts,1724211,1988396
+,Term loans,22942520,21003661
+,Loans against trust receipts,4094321,4039170
+,Bills discounted,2079686,2195592
+,Bills drawn under letters of credit,406386,409931
+,Gross loans and advances and Islamic financing receivables,31247124,29636750
+,Allowances for impairment losses (ECL),-1798608,-1733055
+,Net loans and advances and Islamic financing receivables,29448516,27903695
+-----
+Murabaha_Tawarruq_and_Ijara_Financing,Financing Type,30 June 2024 AED'000,31 December 2023 AED'000
+,Murabaha Tawarruq and Ijara financing activities,4440.6,3993.7
+-----
+Stage_Wise_Analysis,Stage,30 June 2024 Outstanding Balance AED'000,30 June 2024 Allowances for Impairment (ECL) AED'000,30 June 2024 Carrying Amount AED'000,31 December 2023 Outstanding Balance AED'000,31 December 2023 Allowances for Impairment (ECL) AED'000,31 December 2023 Carrying Amount AED'000
+,Stage 1,27727981,-192143,27535838,26259891,-188434,26071457
+,Stage 2,2127753,-526928,1600825,2207549,-458984,1748565
+,Stage 3,1798652,-1079537,719115,1679876,-1085637,594239
+,Total,31654386,-1798608,29855778,30147316,-1733055,28414261

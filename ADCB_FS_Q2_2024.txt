@@ -1,0 +1,2589 @@
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Review report and condensed 
+consolidated interim financial 
+information for the six  month 
+period ended June 30, 202 4  Abu Dhabi Commercial Bank PJSC  
+   
+ 
+   
+ 
+2 
+ ABU DHABI COMMERCI AL BANK PJSC      
+ 
+ 
+Table of c ontents   
+ 
+Report on review of condensed consolidated interim financial information ................................................................................................................................ 3 
+Condensed consolidated interim statement of financial position  ................................................................................................................................................... 4 
+Condensed consolidated interim income statement (unaudited)  ................................................................................................................................................... 5 
+Condensed consolidated interim statement of comprehensive income (unaudited)  ........................................................................................................... 6 
+Condensed consolidated interim statement of changes in equity (unaudited) ........................................................................................................................ 7 
+Condensed consolidated interim statement of cash flows (unaudited)  ....................................................................................................................................... 8 
+Notes to the condensed consolidated interim financial information  
+1. General information  ..................................................................................................................................................................................................................................... 10 
+2. Summary of material accounting policies  ........................................................................................................................................................................................ 10 
+2.1 Basis of preparation  ................................................................................................................................................................................................................................ 10 
+2.2 Application of new and revised International Financial Reporting Standards (IFRSs)  ......................................................................................... 11 
+2.3 Basis of consolidation  ............................................................................................................................................................................................................................. 11 
+3. Taxation  .............................................................................................................................................................................................................................................................. 13 
+4. Cash and balances with central banks, net  ...................................................................................................................................................................................... 14 
+5. Deposits and balances due from banks, net  .................................................................................................................................................................................... 15 
+6. Financial assets at fair value through profit or loss  .................................................................................................................................................................... 15 
+7. Derivative financial instruments  ........................................................................................................................................................................................................... 16 
+8. Investment securities, net  ......................................................................................................................................................................................................................... 17 
+9. Loans and advances to customers, net  ............................................................................................................................................................................................... 19 
+10. Impairment allowances  .............................................................................................................................................................................................................................. 21 
+11. Investment properties .................................................................................................................................................................................................................................  22 
+12. Other assets, net  ............................................................................................................................................................................................................................................. 22 
+13. Due to banks  ..................................................................................................................................................................................................................................................... 22 
+14. Deposits from customers  ........................................................................................................................................................................................................................... 23 
+15. Euro commercial paper  .............................................................................................................................................................................................................................. 23 
+16. Borrowings  ........................................................................................................................................................................................................................................................ 24 
+17. Other liabilities ................................................................................................................................................................................................................................................ 27 
+18. Share capital  ..................................................................................................................................................................................................................................................... 27 
+19. Other reserves (unaudited)  ...................................................................................................................................................................................................................... 28 
+20. Capital notes  ..................................................................................................................................................................................................................................................... 30 
+21. Interest income (unaudited)  .................................................................................................................................................................................................................... 31 
+22. Interest expense (unaudited)  .................................................................................................................................................................................................................. 31 
+23. Net fees and commission income (unaudited)  ............................................................................................................................................................................... 31 
+24. Net trading income (unaudited)  ............................................................................................................................................................................................................ 31 
+25. Other operating income (unaudited)  .................................................................................................................................................................................................. 32 
+26. Operating expenses (unaudited)  ........................................................................................................................................................................................................... 32 
+27. Impairment charge (unaudited)  ............................................................................................................................................................................................................ 32 
+28. Earnings per share (unaudited)  ............................................................................................................................................................................................................. 33 
+29. Commitments and contingent liabilities  ........................................................................................................................................................................................... 33 
+30. Operating segments  ...................................................................................................................................................................................................................................... 34 
+31. Capital adequacy ratio  .................................................................................................................................................................................................................................  39 
+32. Related party transactions  ........................................................................................................................................................................................................................ 39 
+33. Fair value hierarchy  ..................................................................................................................................................................................................................................... 41 
+34. Legal proceedings  .......................................................................................................................................................................................................................................... 44 
+   
+ 
+Akbar Ahmad (1141), Cynthia Corby (995), Faeza Sohawon ( 5508), Firas Anabtawi (5482), Georges Najem (809), Jazala Hamad (1267), 
+Mohammad Jallad (1164), Mohammad Khamees Al Tah (717), Musa Ramahi (872), Mutasem M. Dajani (726), Nurani Subramanian Sundar  
+(5540), Obada Alkowatly (1056), Rama Padmanabha Acharya (701)  and Samir Madbak (386) are registered practicing auditors with the UA E 
+Ministry of Economy.   Deloitte & Touche (M.E.)  
+Level 11, Al Sila Tower  
+Abu Dhabi Global Market Square  
+Al Maryah Island  
+P.O. Box 990  
+Abu Dhabi  
+United Arab Emirates  
+ 
+Tel: +971 (0) 2 408 2424  
+Fax:+971 (0) 2 408 2525  
+www.deloitte.com   
+ 
+ 
+ 
+ 
+August 17th, 2016   
+ 
+ 
+  
+INDEPENDENT AUDITOR’S REPORT ON REVIEW OF CONDENSED CONSOLIDATED 
+INTERIM FINANCIAL INFORMATION  TO  
+THE BOARD OF D IRECTORS OF 
+ABU DHABI COMMERCIAL BANK PJSC  
+Introduction  
+ 
+We have reviewed the accompanying condensed consolidated  interim  statement of financial position of Abu 
+Dhabi Commercial Bank PJSC (the “Bank”)  and its subsidiaries (together referred to as the “Group”) as at 3 0 
+June 2024 , and the related income statement for the three and six -month period then ended , and the related 
+statement s of comprehensive income,  changes in equity and cash flows for the six-month period then ended , 
+and material accounting policy information and other explanatory notes . Management is responsible for the 
+preparation and presentation of th is interim  financial information  in accordance with International Accounting 
+Standard  34 Interim Financial Reporting  (“IAS 34”). Our responsibility is to express a conclusion on th is 
+interim financial information  based on our review.  
+ 
+Scope of Review  
+ 
+We conducted our review in accordance with International Standard on Review Engagements 2410, “ Review 
+of Interim Financial Information Performed by the Independent Auditor of the Entity ”. A review of interim 
+financial information  consists of making inquiries,  primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with International Standards on Auditing and conseque ntly does not 
+enable us to obtain assurance that we would become aware of all significant matters that might be identified in 
+an audit. Accordingly, we do not express an audit opinion.  
+ 
+Conclusion  
+ 
+Based on our review, nothing has come to our attention that causes us to believe that the accompanying interim 
+financial information is  not prepared, in all material respects, in accordance with IAS 34.  
+ 
+Other Matter 
+ 
+The Group’s consolidated financial statements for the year ended  31 December 202 3 and interim financial  
+information  for the six-month period ended  30 June 2023 were audited and reviewed  respectively  by another 
+auditor  who expressed an unmodified opinion and unmodified conclusion  on those statements and that 
+information on  31 January  2024 and 20 July  2023  respectively.  
+ 
+Deloitte & Touche (M.E.)  
+ 
+ 
+ 
+ 
+Muhammad Khamees Al Tah  
+Registration No. 717 
+18 July 2024  
+Abu Dhabi  
+United Arab Emirates  
+  
+ 
+ 
+5 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+Condensed consolidated interim income statement  (unaudited)  
+For the six  month  period ended June 30 , 202 4 
+ 
+    3 months ended June 30   6 months  ended June 30  
+  Notes  202 4   2023    2024    2023  
+AED’000    AED’000    AED’000    AED’000           
+Interest income  21 7,467,341   5,994,257   14,829,407   11,381,378  
+Interest expense  22 (4,736,924)   (3,562,598)   (9,322,604)   (6,627,084)  
+Net interest income   2,730,417   2,431,659   5,506,803   4,754,294  
+         
+Income from Islamic financing and investing 
+products   858,329   720,437   1,705,819   1,430,012  
+Distribution on Islamic deposits and profit 
+paid to sukuk holders   (312,567)   (221,625)   (635,353)   (402,509)  
+Net income from Islamic financing and 
+investing products   545,762   498,812   1,070,466   1,027,503  
+         
+Total net interest income and income from 
+Islamic financing and investing products    3,276,179   2,930,471   6,577,269   5,781,797  
+Net fees  and commission income  23 808,864   723,783   1,511,746   1,256,378  
+Net trading income  24 479,558   382,984   1,003,285   838,428  
+Other operating income  25 149,414   22,056   207,987   94,701  
+Operating income    4,714,015   4,059,294   9,300,287   7,971,304  
+Operating expenses  26 (1,534,446)   (1,319,048)   (2,951,422)   (2,550,235)  
+Operating profit before impairment charge    3,179,569   2,740,246   6,348,865   5,421,069  
+Impairment charge  27 (588,143)   (747,669)   (1,328,753)   (1,495,601)  
+Profit after impairment charge    2,591,426   1,992,577   5,020,112   3,925,468  
+Share in profit  of associates   1,167   201   3,383   1,036  
+Profit before taxation    2,592,593   1,992,778   5,023,495   3,926,504  
+Income tax charge   (275,558)   (60,438)   (567,649)   (115,835)  
+Profit for the period    2,317,035   1,932,340   4,455,846   3,810,669  
+         
+Attributable to:          
+Equity holders of the Bank   2,317,512   1,932,848   4,457,368   3,811,824  
+Non -controlling interests   (477)   (508)   (1,522)   (1,155)  
+Profit for the period    2,317,035   1,932,340   4,455,846   3,810,669  
+         
+Basic and diluted earnings per share (AED)  28 0.30   0.26   0.56   0.50  
+ 
+ 
+The accompanying notes 1 to 3 4 form  an integral part of this condensed consolidated interim financial 
+information.  
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+6 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+Condensed consolidated interim statement of comprehensive income (unaudited)   
+For the six  month  period ended June 30 , 202 4 
+ 
+    3 months ended June 30    6 months ended June 30  
+    202 4   2023    2024    2023  
+    AED’000    AED’000   AED’000    AED’000           
+Profit  for the period  2,317,035   1,932,340   4,455,846   3,810,669  
+Other comprehensive income         
+Items that may be re -classified subsequently to the 
+condensed consolidated interim income statement         
+        
+Net movement in foreign currency translation  reserve 
+(Note 19)  (24,833)   (30,647)   (418,427)   (108,088)  
+Net movement in cash flow hedge reserve (Note 19)  (264,592)   177,626   (172,809)   280,686  
+Net movement in revaluation reserve of debt 
+instruments designated at FVTOCI  (net of tax)  (Note 19)  134,966   (142,929)   33,380   (274,103)  
+ (154,459)   4,050   (557,856)   (101,505)  
+        Items that may not be re -classified subsequently to 
+the condensed consolidated interim income 
+statement                 
+Net movement in revaluation reserve of equity 
+instruments designated at FVTOCI  (net of tax)  (Note 19)  (34,340)   (866)   (15,498)   (13,883)  
+        
+Other comprehensive  (loss )/income  for the period  (188,799)   3,184   (573,354)   (115,388)  
+        
+Total comprehensive income for the period  2,128,236   1,935,524   3,882,492   3,695,281  
+        
+Attributable to:         
+Equity holders of the Bank  2,128,727   1,936,039   3,884,346   3,696,651  
+Non -controlling interests  (491)   (515)   (1,854)   (1,370)  
+Total comprehensive income for the period  2,128,236   1,935,524   3,882,492   3,695,281  
+ 
+ 
+ 
+The accompanying notes 1 to 3 4 form  an integral part of this condensed consolidated interim financial 
+information.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+7 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+ 
+Condensed consolidated interim statement of changes in equity (unaudited)   
+For the six  month  period ended June 30 , 202 4 
+ 
+  
+  
+  Share 
+capital  Share 
+premium  Other 
+reserves  Retained 
+earnings  Capital  
+ notes  Equity 
+attributable 
+to equity 
+holders of the 
+Bank  Non -
+controlling 
+interests  Total equity  
+  
+  
+  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  
+As at January 1, 2024  7,319,947  17,878,882  10,591,907  26,701,111  8,754,750  71,246,597  6,870  71,253,467  
+Profit /(loss) for the period  - - - 4,457,368  - 4,457,368  (1,522)  4,455,846  
+Other comprehensive loss for the period (Note 19)  - - (573,022)  - - (573,022)  (332)  (573,354)  
+Other movements  - - 9,945  - - 9,945  - 9,945  
+Amounts transferred within equity upon  disposal of investments in equity 
+instruments designated at FVTOCI  (Note 19)  - - - 13,517  - 13,517  - 13,517  
+Related tax impact on a mounts transferred within  equity upon disposal of 
+investments in equity instruments  designated at FVTOCI   - - - (1,588)  - (1,588)  - (1,588)  
+Adjustments arising from changes in non -controlling interests  - - (64)  55 - (9) (95)  (104)  
+Dividends paid to equity holders of the Bank  (Note 18)  - - - (4,099,170)  - (4,099,170)  - (4,099,170)  
+Amounts transferred within equity upon creation of IFRS 9 reserve  – general  
+(Note 19)  - - 448,374  (448,374)  - - - - 
+Capital notes coupon paid (Note 28)  - - - (351,102)  - (351,102)  - (351,102)  
+As at June 30 , 2024  7,319,947  17,878,882  10,477,140  26,271,817  8,754,750  70,702,536  4,921  70,707,457  
+As at January 1, 202 3 6,957,379  17,878,882  7,546,743  23,035,375  6,000,000  61,418,379  7,758  61,426,137  
+Profit /(loss)  for the period  - - - 3,811,824  - 3,811,824  (1,155)   3,810,669  
+Other comprehensive loss for the period (Note 19)  - - (115,173)   - - (115,173)   (215)   (115,388)   
+Other movements  - - 14,159  4,490  - 18,649  - 18,649  
+Amounts transferred within equity upon disposal of investments in equity 
+instruments designated at FVTOCI (Note 19)  - - - (2,359)  - (2,359)  - (2,359)  
+Dividends paid to equity holders of the Bank  362,568  - 2,211,663  (3,826,559)  - (1,252,328)  - (1,252,328)  
+Capital notes coupon paid (Note 28)  - - - (173,740)  - (173,740)  - (173,740)  
+As at June 30 , 202 3 7,319,947  17,878,882  9,657,392  22,849,031  6,000,000  63,705,252  6,388  63,711,640  
+ 
+ 
+Following the Annual General Meeting held on March 7,  202 4, the shareholders approved the distribution of proposed cash dividend of AED 4,099,170  thousand 
+for the year 202 3, being AED 0.56 dividend per share and representing 56% of the paid up  share capital  (Note 18)  (For the year 202 2 – cash and stock dividend 
+of AED 3, 826,559  thousand, being AED 0.55  dividend per share and representing 55 % of the paid up  share capital).   
+ 
+ 
+The accompanying not es 1 to 3 4 form  an integral part of this condensed consolidated interim financial information .   
+  
+8 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+Condensed consolidated interim statement of cash flows (unaudited)  
+For the  six month  period ended June 30 , 202 4 
+ 
+ 6 months  ended June 30  
+ 202 4   202 3 
+ AED’000    AED’000  
+OPERATING ACTIVITIES     
+Profit before taxation  5,023,495   3,926,504  
+Adjustments for:     
+Depreciation on property and equipment (Note 26)  177,562   192,025  
+Amortisation of intangible assets (Note 26)  25,345   46,679  
+Net (gain)/ loss from investment properties   (895)   1,665  
+Gross i mpairment charge  1,549,863   1,776,851  
+Share in profit  of associates  (3,383)   (1,036)   
+Discount unwind  (70,289)   (126,597)   
+Net loss  from disposal of investment securities (Note 25)  242,464   3,743   
+Discount  amortisation on investment securities  (425,405)   (81,568)   
+Dividend income (Note 25)  (15,394)   (18,967)   
+Gain on sale of property and equipment  (454)   (815)  
+Amortisation  and interest capitalised on borrowings and ECPs   758,651   650,586  
+Net gain  from financial assets at fair value through profit or loss  (Note 24)  (541,006)   (327,496)   
+Ineffective portion of hedges – loss  8,360   2,690  
+Employees’ incentive plan expense (Note 19)  32,502   18,649  
+Cash flows from operating activities before changes in operating assets and 
+liabilities  6,761,416   6,062,913  
+Net movement in due from banks  (1,729,689)   2,023,568  
+Net movement in derivative financial instruments  (604,071)   153,457  
+Net purchases of financial assets at fair value through profit or loss  (1,340,512)   (3,539,290)  
+Net movement in loans and advances to customers  (33,320,732)   (15,932,687)  
+Net movement in other assets  (1,324,675)   (810,057)  
+Net movement in due to banks  2,019,566   3,945,513  
+Net movement in deposits from customers  30,786,874   9,029,670  
+Net movement in other liabilities  2,968,391   2,191,619  
+Net cash from  operations  4,216,568   3,124,706  
+Income tax paid  (65,559)   (63,693)  
+Net cash from  operating  activities  4,151,009   3,061,013  
+INVESTING ACTIVITIES     
+Net proceeds from redemption/disposal of investment securities  22,952,987   30,895,173  
+Net purchases of investment securities  (29,976,731)   (42,747,248)  
+Dividend received from investment securities (Note 25)  15,394   18,967  
+Disposal o f investment properties (Note 11 ) 38,916   - 
+Net purchases of property and equipment  (172,511)   (160,521)   
+Net cash used in investing activities  (7,141,945)   (11,993,629)  
+FINANCING ACTIVITIES     
+Net movement in euro commercial paper  (2,198,439)   1,066,606  
+Net proceeds from borrowings  54,357,616   46,502,946  
+Repayment of borrowings  (46,615,404)   (35,759,962)  
+Payment of lease liabilities  (33,591)   (40,061)  
+Dividends paid to equity holders of the Bank  (4,099,170)   (1,252,328)  
+Acquisition of non -controlling interests  (104)   - 
+Capital notes coupon paid (Note 28)  (351,102)   (173,740)   
+Net cash  from financing activities   1,059,806   10,343,461  
+    Effect of exchange rate changes on cash and cash equivalents  (1,184,356)   (685,743)      Net (decrease )/increase  in cash and cash equivalents  (3,115,486)   725,102  
+Cash and cash equivalents at the beginning of the period  51,837,05 0  41,997,271  
+Cash and cash equivalents at the end of the period   48,721,564   42,722,373  
+The accompanying notes 1 to 3 4 form  an integral part of this condensed consolidated interim financial 
+information.   
+  
+9 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+Condensed consolidated interim statement of cash flows (unaudited)  (continued)  
+For the six  month period ended June 30 , 202 4 
+ 
+Cash and cash equivalents 
+ 
+Cash and cash equivalents included in the condensed consolidated interim statement of cash flows comprise 
+of following amounts:  
+ 
+ As at   As at  
+ June 30   December 31  
+ 2024   2023  
+ unaudited   audited  
+  AED’000   AED’000  
+    Cash and balances with central banks (Note 4 ) 38,963,998   45,375,731  
+Deposits and balances due from banks (excluding loan s and advances to banks) (Note 5 ) 13,169,953   9,434,390  
+ 52,133,951   54,810,121  
+Less: Cash and balances with central banks and deposits and balances due from banks – 
+with original maturity of more than three months  (3,412,387)   (2,973,071)   
+Total cash and cash equivalents  48,721,564   51,837,050  
+ The accompanying notes 1 to 3 4 form  an integral part of this condensed consolidated interim financial 
+information. 
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+10 
+ ABU DHABI COMMERCIAL BANK PJSC  
+1. General information  
+ 
+Abu Dhabi Commercial Bank PJSC (“ADCB” or the “Bank”) is a public joint stock company with limited liability 
+incorporated in the emirate of Abu Dhabi, United Arab Emirates (UAE). The Bank and its subsidiaries 
+(together referred to as the “Group”) is princi pally engaged in the business of retail, commercial and Islamic 
+banking and provision of other financial services.  
+ 
+The Group’s Islamic banking activities are conducted in accordance with principles of Islamic Shari’ah as 
+interpreted by Internal Shari’ah Supervision Committee (“ISSC”) as well as the standards and resolutions 
+issued by the higher Shari’ah authority of UAE Central Bank.   
+ 
+The Bank is listed on the Abu Dhabi Securities Exchange (Ticker: ADCB).  
+ 
+The registered head office of ADCB is at  Abu Dh abi Commercial Bank PJSC Head Office Building, Sheikh Zayed 
+Bin Sultan Street, Plot C - 33, Sector E -11, P. O. Box 939, Abu Dhabi, UAE.  
+ 
+2. Summary of material  accounting policies  
+ 
+2.1 Basis of preparation  
+ 
+The condensed consolidated interim financial information has been prepared on a going concern basis and in accordance with IAS 34 -  Interim Financial Reporting. It does not include all of the information required 
+for full annual financial statements and sh ould be read in conjunction with the consolidated financial 
+statements of the group  for the year ended December 31, 202 3, which were prepared in accordance with 
+IFRS Accounting Standards as issued by the International Accounting Standards Board (IASB) (IFR S 
+Accounting Standards) , International  Financial Reporting Interpretation Committee (IFRIC) Interpretations  
+and requirements of applicable laws .  
+ 
+The same accounting policies, presentation and methods of computation have been followed in this 
+condensed consolidated interim financial information as were applied in the preparation and presentation 
+of the Group’s consolidated financial statements for t he year ended December 31, 202 3.  
+ 
+Certain disclosure notes/numbers  have been reclassified and rearranged from the Group’s prior period 
+condensed consolidated interim financial information to conform to t he current period's presentation.  
+ 
+The results for the six month period ended June 30 , 202 4 are not necessarily indicative of the results that 
+may be expected for the financial year ending December 31, 202 4. 
+ 
+The condensed consolidated interim financial information is prepared and presented in United Arab 
+Emirates Dirham (AED), which is the Group’s functional and presentation currency and is rounded off to the 
+nearest thousand unless otherwise indicated. 
+ 
+The preparation of the condensed consolidated interim financial information in conformity with IFRS 
+Accounting Standards  requires  management to make judgements, estimates and assumptions that affect the 
+application of accounting policies and the reported amounts of assets, liabilities, income and expenses. Actual 
+results may differ from these estima tes. 
+ 
+The main areas of judg ements, estimates and assumptions applied in this condensed consolidated interim 
+financial information, including the key sources of estimation uncertainty were the same as those applied in 
+the consolidated financial statements of the Group  for the year ended December 31, 202 3. 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+11 
+ ABU DHABI COMMERCIAL BANK PJSC  
+2.   Summary of material  accounting policies (continued)  
+ 
+2.2 Application of new and revised International Financial Reporting Standards (IFRSs)  
+ 
+2.2.1   New and revised IFRSs effective for accounting periods beginning on or after January 1, 2024  
+In the current period, t he Group has applied  the amendments to IAS 1, IAS 7, IFRS 7 and IFRS 16 . The 
+application of these amendments to IFRS Accounting Standards  has not had any material impact on the 
+amounts reported for the current and prior periods but may affect the accounting for the Group’s future 
+transactions or arrangements.  
+Other than the above, there are no other significant IFRS Accounting Standards , amendments or 
+inter pretations that were effective for the first time for the financial year begin ning on or after January 1, 
+202 4.  
+2.2.2    Standards and Interpretations in issue but not yet effective  
+ 
+The Group has not early adopted any new and revised IFRS Accounting Standards  that  have been issued but 
+are not yet effective.  
+ 
+ 
+ 
+New standards and significant amendments to standards applicable to the Group : Effective for annual 
+periods beginning 
+on or after  
+  
+Lack of exchangeability ( amendments to IAS 21)  - The amendments contain guidance to specify when a 
+currency is exchangeable and how to determine the exchange rate when it is not.  
+ January 1, 202 5 
+Amendments to IFRS 9 and IFRS 7 - The amendments address matters identified during the post -
+implementation review of the classification and measurement requirements of IFRS 9.  
+ January 1, 2026  
+IFRS 19 ‘Subsidiaries without Public Accountability’ specifies the disclosure requirements an eligible 
+subsidiary is permitted to apply instead of the disclosure require ments in other IFRS Accounting 
+Standards.  
+ January 1, 2027  
+Presentation and disclosures in financial statements (IFRS 18) - The new standard contains requirements 
+for all entities applying IFRS for the presentation and disclosure of information in financial statements.  January 1, 2027  
+Sale or contribution of assets between investor and its associate or joint venture (amendments to IFRS 
+10 and IAS 28).  Effective date 
+deferred indefinitely, 
+available for early 
+adoption  
+Management anticipates that these amendments  will be adopted in the financial information in the initial 
+period when they become mandatorily effective. The impact of these standards and amendments is currently being assessed by management.  
+ 
+2.3 Basis of consolidation  
+ 
+This condensed consolidated interim financial information incorporates the financial statements of the Bank 
+and its subsidiaries (collectively referred to as the “Group”).  
+ 
+Subsidiaries  
+ 
+Subsidiaries are entities controlled by the Group . The Group  controls an entity when it is exposed to, or has 
+rights to, variable returns from its involvement with the entity and has the ability to affect those returns 
+through its power over the entity. The financial statements of subsidiaries are included in the condensed 
+cons olidated interim financial information from the date that control commences until the date that control 
+ceases.  
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+12 
+ ABU DHABI COMMERCIAL BANK PJSC  
+2.   Summary of material  accounting policies (continued)  
+ 
+2.3   Basis of consolidation (continued)  
+ 
+The following is the list of subsidiaries of the Bank as at June 30 , 202 4: 
+ 
+ Incorporation   
+Name of subsidiary  Ownership 
+interest   Year   Country  Principal activities  
+ADCB Securities LLC  100%   2005   UAE  Agent in trading of financial instruments and 
+stocks.  
+Kinetic Infrastructure Development LLC  100%   2006   UAE  Financial investments.  
+Abu Dhabi Commercial Property Development LLC (1) 100%   2006   UAE  Property development.  
+Abu Dhabi Commercial Engineering Services LLC  100%   2007   UAE  Engineering services.  
+ADCB Finance (Cayman) Limited  100%   2008   Cayman Islands  Treasury financing activities.  
+ADCB Markets (Cayman) Limited  100%   2008   Cayman Islands  Treasury related activities.  
+ACB LTIP (IOM) Limited  Controlling  
+Interest   2008   Isle of Man  Trust activities.  
+ITMAM Services FZ LLC  100%   2010   UAE  Transaction processing and back -office support 
+for the Group.  
+AD NAC Ventures WLL  99.75%   2012   Bahrain  Trust activities.  
+ITMAM Services LLC  100%   2013   UAE  Transaction processing and back -office support 
+for the Group.  
+ADCB Asset Management Limited  100%   2018   UAE  Wealth management and private banking.  
+Al Wifaq Investment Properties PrJSC  90.08%   2006   UAE  Investment in real estate properties and earning 
+rental income.  
+Abu Dhabi Commercial Bank – Egypt SAE (formerly 
+known as Union National bank – Egypt SAE)  99.90%   1981   Egypt  Commercial banking services.  
+Al Hilal Bank PJSC  100%   2007   UAE  Islamic banking activities.  
+Al Hilal Islamic Bank JSC  100%   2010   Kazakhstan  Islamic banking activities.  
+Al Hilal Leasing LLP  100%   2011   Kazakhstan  Shari’ah compliant leasing operations.  
+AHB Sukuk Company Limited  Controlling  
+    Interest   2011   Cayman Islands  Treasury financing activities.  
+Al Hur 1 Holding Limited  100%   2022   UAE  Real estate investment activities.  
+Al Hur 2 Holding Limited  100%   2022   UAE  Real estate investment activities.  
+ADCB Sukuk Company Limited  Controlling 
+Interest   2023   Cayman Islands  Treasury financing activities.  
+Meedaf Investment - Sole Proprietorship LLC  100%   2023   UAE  Enterprise and service support.  
+(1) dormant  
+ 
+The Group does not have any subsidiary with material non -controlling interests.  
+ 
+Funds under management  
+ 
+The Bank manages and administers assets held in unit trusts on behalf of investors. The financial statements 
+of these entities are not included in the condensed consolidated interim financial information except when 
+the Bank controls the entity, as mentioned above. 
+ 
+Loss of control 
+ 
+Upon loss of control, the Group  derecognises the assets and liabilities of the subsidiary, any non -controlling 
+interests and the other components of equity related to the subsidiary. Any surplus or deficit arising on the loss of control is recognised in condensed consolidated interim in come statement . If the Group  retains any 
+interest in the previous subsidiary, then such interest is measured at fair value when  control is lost. 
+Subsequently, it is accounted for as an equity -accounted investee or in accordance with the Group ’s 
+accounting policy for financial instruments depending on the level of influence retained.  
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+13 
+ ABU DHABI COMMERCIAL BANK PJSC  
+2.   Summary of material  accounting policies (continued)  
+ 
+2.3   Basis of consolidation (continued)  
+ 
+Transactions eliminated on consolidation  
+ 
+All intragroup balances , income, expenses and cash flows resulting from intragroup transactions are 
+eliminated on consolidation.  
+ 
+Investment in associate s 
+ 
+Associates are those entities in which the Group has significant influence. Significant influence is the power 
+to participat e in the financial and operating policy decisions of the investee but not control or joint control 
+over those policies.  
+ 
+Investments in associates are accounted for using the equity method and are recognised initially at cost. The cost of the investments includes transaction costs.  
+ 
+The condensed consolidated interim financial information includes the Group’s share of the profit or loss and 
+other comprehensive income of investment in associate s, after adjustments to align the accounting policies 
+with those of the Group, from the date that significant influence commences until the date that significant 
+influence ceases.  
+ 
+When the Group’s share of losses exceeds its interest in an equity -accounted investee, the carrying amount 
+of the investment, including any long -term interests that form part thereof, is reduced to zero, and the 
+recognition of further losses is discontinued except to the extent that the Group has an obligation or has 
+made payments on behalf of the investee.  
+ 
+Joint arrangements  
+ 
+Joint arrangements are arrangements of which the Group has joint control, established by contracts requiring 
+unanimous consent for decisions about the activities that significantly affect the arrangements’ returns. They 
+are classified and accounted for as follows:  
+ 
+Joint operation – when the Group has rights to the assets and obligations for the liabilities, relating to an 
+arrangement, it accounts for each of its assets, liabilities and transactions, including its share of those held 
+or incurred jointly, i n relation to the joint operation.  
+ 
+Joint venture – when the Group has rights only to the net assets of the arrangements, it accounts for its 
+interest using the equity method, as for associates.  
+ 
+3. Taxation  
+ 
+On December  9, 2022, the United Arab Emirates (UAE) Ministry of Finance (MoF) released Federal Decree -
+Law N o 47 of 2022 on the Taxation of Corporations and Businesses, Corporate Tax Law (CT Law) to enact a 
+new CT regime in the UAE. The new CT regime has become effective for accounting periods beginning on or 
+after June  1, 2023. As the Group’s accounting year ends on December  31, the first tax period will be the period 
+from January 1, 2024 to December 31, 2024, with the respective tax return to be filed on or before Septe mber 
+30, 2025.  
+  
+The taxable income of the entities that are in scope for UAE CT purposes will be subject to the rate of 9% on 
+taxable profits above AED 375,000 . It is not currently foreseen that the Group’s UAE operations will be 
+subject to the applicatio n of the Glob al Minimum Tax rate of 15% in financial year 2024. The application is 
+dependent on the implementation of Base Erosion Pro fit Shifting (BEPS 2) -  Pillar T wo rules by countries 
+where the Group  operates and the enactment of Pillar T wo rules by th e UAE MoF.  
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+14 
+ ABU DHABI COMMERCIAL BANK PJSC  
+3.  Taxation (continued)  
+ 
+The tax charge through income statement for the six month period ended June 30 , 2024 is AED  567,649  
+thousand ( for the six month period ended June 30 , 2023  – AED 115,835  thousand), representing an Effectiv e 
+Tax Rate (“ETR”) of 11.30 % ( June 30 , 2023  – 2.95 %). The delta in the ETR year -on-year is due to the 
+application of the new CT regime in the UAE. The ETR incorporates tax rates of the UAE as well as other 
+international jurisdictions where the Group operat es.  
+ 
+4. Cash and balances with central banks, net  
+ 
+  
+  As at    As at  
+  
+  June 30    December 31  
+  
+  2024    2023  
+ unaudited   audited  
+  
+   AED’000    AED’000      
+Cash on hand  2,545,265   2,259,177  
+Balances with central banks(*)  6,622,358   20,679,681  
+Reserves maintained with central banks  26,359,618   20,808,366  
+Certificate of deposits with central banks  3,436,757   1,628,507  
+Gross cash and balances with central banks  38,963,998   45,375,731  
+Less: Allowance for impairment (Note 10) (197)   (269)   
+Total cash and balances with central banks, net  38,963,801   45,375,462  
+The geographical concentration is as follows:     
+Within the UAE  36,865,958   42,706,619  
+Outside the UAE  2,098,040   2,669,112  
+ 38,963,998   45,375,731  
+Less: Allowance for impairment (Note 10) (197)   (269)   
+ 38,963,801   45,375,462  
+(*) includes overnight deposit amounting to AED 6,000,000  thousand placed with CBUAE at  5.40 % p.a. (December 31, 2023  – AED 19,600,000  
+thousand placed with CBUAE at 5 .40% p.a.)  
+ 
+Reserves maintained with central banks represent deposits with central banks at stipulated percentages of its demand, savings, time , and other deposits. As per CB UAE regulations, subject to meeting reserve 
+requirements over 14  days period , the Bank is allowed to draw their balances held in reserve account  
+maintained with CBUAE. These reserves are available for day -to-day operations only under certain specified 
+conditions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+15 
+ ABU DHABI COMMERCIAL BANK PJSC  
+5. Deposits and balances due from banks , net  
+ 
+  As at    As at  
+  
+  June 30    December 31  
+  
+  2024    2023  
+ unaudited   audited  
+  
+   AED’000    AED’000  
+ 
+    
+Nostro balances  4,798,355   4,214,193  
+Margin deposits  3,059,087   2,973,069  
+Time deposits  5,112,511   2,047,128  
+Wakala  placements  200,000   200,000  
+Loans and advances to banks  29,604,937   28,315,981  
+Gross deposits and balances due from banks  42,774,890   37,750,371  
+Less: Allowance for impairment (Note 10 ) (117,091)   (125,677)   
+Total deposits and balances due from banks, net  42,657,799   37,624,694  
+The geographical concentration is as follows:     
+Within the UAE  2,443,496   1,337,705  
+Outside the UAE  40,331,394   36,412,666  
+ 42,774,890   37,750,371  
+Less: Allowance for impairment (Note 10) (117,091)   (125,677)   
+  42,657,799   37,624,694  
+ 
+ 
+6. Financial assets at fair value through profit or loss 
+ 
+ As at   As at  
+  
+  
+  June 30    December 31  
+  
+  
+  2024    2023  
+ unaudited   audited  
+  
+  
+   AED’000    AED’000      
+Debt securities  3,143,015   2,172,904  
+Equity securities  30,000   - 
+Structured funding arrangements  8,771,343   7,890,116  
+Total financial assets at fair value through profit or los s(*) 11,944,358   10,063,020  
+The geographical concentration is as follows:     
+Within the UAE  2,093,282   1,419,562  
+Outside the UAE  9,851,076   8,643,458  
+ 11,944,358   10,063,020  
+(*) includes Islamic sukuk amounting to AED 93,682  thousa nd (December 31, 2023  – AED 119,139 thousand ) 
+ 
+The Group entered into structured funding arrangements where funding was provided against certain 
+reference assets received under the arrangement and held by the Group. The risk and rewards relating to 
+these reference assets remain with the counterparty. A s at June 30 , 2024, t he fair value of these reference 
+assets amount ed to AED  12,883,157 thousan d (December 31, 2023  – AED 12,524,770  thousand), of this AED  
+2,690,106 thousand (December 31, 2023  – AED 5,641,405  thousand ) were posted against Repo borrowings . 
+Further , the Group also posted  net cash collateral of AED 77,442 thousand (December 31, 2023  – posted  net 
+cash collateral of AED 91,832 thousand ) against th ese structuring arrangement s. The structuring 
+arrangement and reference assets received are governed under International Swaps and Derivatives 
+Association (ISDA) agreements.  
+ 
+Refer note 9 for loans and advances at fair value through profit or loss.  
+  
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+16 
+ ABU DHABI COMMERCIAL BANK PJSC  
+7. Derivative financial instruments  
+ 
+The table below shows the positive (assets) and negative (liabilities) fair values of derivative financial 
+instruments.  
+ 
+  
+  
+     Fair values      
+  
+  
+  Assets    Liabilities    Notional  
+  
+  
+  AED’000    AED’000    AED’000  
+As at June 30 , 202 4 (unaudited)       
+Derivatives held or issued for trading       
+Foreign exchange derivatives  2,335,033   2,002,359   292,480,885  
+Interest rate and cross currency swaps  8,183,900   7,622,990   270,758,416  
+Interest rate and commodity options  766,974   1,054,780   62,458,840  
+Futures (exchange traded)  4,347   2,700   14,471,987  
+Commodity and energy swaps  688,984   645,109   11,733,233  
+Swaptions  745,009   228,885   59,341,594  
+Total derivatives held or issued for trading  12,724,247   11,556,823   711,244,955  
+Derivatives held as fair value hedges       
+Interest rate and cross currency swaps  4,347,775   8,351,823   155,252,643  
+Derivatives held as cash flow hedges       
+Interest rate and cross currency swaps  394,624   46,131   13,263,391  
+Forward foreign exchange contracts  25,972   62,326   8,858,607  
+Total derivatives held as cash flow hedges  420,596   108,457   22,121,998  
+Derivatives held as net investment hedges       
+Foreign exchange derivatives  11,767   -  66,114  
+      Total derivative financial instruments  17,504,385   20,017,103   888,685,710  
+As at December 31, 202 3 (audited)       
+Derivatives held or issued for trading       
+Foreign exchange derivatives  1,183,151   1,254,948   226,282,755  
+Interest rate and cross currency swaps  6,938,360   6,587,817   209,574,396  
+Interest rate and commodity options  723,785   965,799   58,018,472  
+Futures (exchange traded)  7,804   4,257   716,235  
+Commodity and energy swaps  300,863   263,146   9,333,117  
+Swaptions  621,643   287,343   50,416,455  
+Total derivatives held or issued for trading  9,775,606   9,363,310   554,341,430  
+Derivatives held as fair value hedges       
+Interest rate and cross currency swaps  3,399,870   6,842,731   134,081,627  
+Derivatives held as cash flow hedges       
+Interest rate and cross currency swaps  526,068   15,301   9,912,565  
+Forward foreign exchange contracts  128,881   4,000   6,544,206  
+Total derivatives held as cash flow hedges  654,949   19,301   16,456,771  
+Derivatives held as net investment hedges       
+Foreign exchange derivatives  28,661   14,153    729,057  
+      Total derivative financial instruments  13,859,086   16,239,495   705,608,885  
+ 
+The notional amounts indicate the volume of transactions and are neither indicative of the market risk nor 
+credit risk.  The net hedge ineffectiveness losses  relating to the fair value and ca sh flow hedges amounting to 
+AED  8,360  thousand  (for the six month  period ended June 30 , 202 3 – net gains  of AED 2,030  thousand) has 
+been recognised in the condensed consolidated interim income statement.  
+ 
+As at June 30 , 202 4, the Group received cash collateral of AED  6,586,654  thousand (December 31, 202 3 – 
+AED 4,186,029  thousand) and bonds with fair value o f AED  2,449,234 thousand  (December 31, 202 3 – AED 
+1,624,559 thousand) against net positive derivative exposure . 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+17 
+ ABU DHABI COMMERCIAL BANK PJSC  
+7. Derivative financial instruments (continued)  
+ 
+As at June 30 , 202 4, the Grou p place d cash collateral of AED  3,567,188 thousand (December 31, 202 3 – AED  
+2,648,597  thousand) and bonds with fair value of AED  5,520,038 thousand (December  31, 202 3 – AED  
+4,453,765  thousand) against net negative derivative exposure .  
+ 
+These collaterals are governed by collateral service agreements under International Swaps and Derivatives 
+Association (ISDA) agreements.  
+ 
+8. Investment securities , net  
+ 
+  
+      Other GCC(*)    Rest of      
+  
+  UAE    countries    the world    Total  
+  
+  AED’000    AED’000    AED’000    AED’000  
+        As at June 30 , 202 4 (unaudited)         
+At fair value through other comprehensive 
+income (FVTOCI)         
+Quoted:         
+Government securities  9,306,725   6,716,266   8,323,801   24,346,792  
+Bonds – Public sector  4,006,362   1,391,306   1,152,990   6,550,658  
+Bonds – Banks and financial institutions  728,341   372,739   674,443   1,775,523  
+Bonds – Corporate  766,049   232,959   356,903   1,355,911  
+Equit ies and funds (**) 589,213   34,879   160,248   784,340  
+Total quoted  15,396,690   8,748,149   10,668,385   34,813,224  
+Unquoted:         
+Equit ies and funds  73,202   1,356   28,270   102,828  
+        
+Total investment securities at fair value 
+through other comprehensive  income  15,469,892   8,749,505   10,696,655   34,916,052  
+        At amortised cost         
+Quoted:         
+Government securities  16,233,139   15,338,104   29,935,167   61,506,410  
+Bonds – Public sector  9,567,602   2,120,028   7,743,058   19,430,688  
+Bonds – Banks and financial institutions  1,569,439   1,681,526   8,102,505   11,353,470  
+Bonds – Corporate  2,567,008   623,880   2,233,112   5,424,000  
+Total quoted  29,937,188   19,763,538   48,013,842   97,714,568  
+Less: All owance for impairment (Note 10 ) (5,50 9)  (2,648)   (13,08 6)  (21,243)  
+Total investment securities at amortised cost  29,931,6 79  19,760,890   48,000,75 6  97,693,325  
+        Total investment securities , net  45,401,57 1  28,510,395   58,697,41 1  132,609,377  
+(*) Gulf Cooperation Council  
+(**) includes investments in perpetual bonds  
+ 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+18 
+ ABU DHABI COMMERCIAL BANK PJSC  
+8.    Investment securities , net  (continued)  
+ 
+  
+      Other GCC(*)    Rest of      
+  
+  UAE    countries    the world    Total  
+ AED’000    AED’000    AED’000    AED’000  
+        As at December 31, 2023  (audited)         
+At fair value through other comprehensive income 
+(FVTOCI)         
+Quoted:         
+Government securities  10,053,546   6,436,648   12,279,218   28,769,412  
+Bonds – Public sector  4,560,797   2,076,409   1,442,471   8,079,677  
+Bonds – Banks and financial institutions  1,422,505   256,424   450,107   2,129,036  
+Bonds – Corporate  672,288   341,956   534,593   1,548,837  
+Equities and funds(**)  591,303   34,464   158,351   784,118  
+Total quoted  17,300,439   9,145,901   14,864,740   41,311,080  
+Unquoted:         
+Equities and funds  76,852   1,355   32,081   110,288  
+        Total investment securities at fair value through other   
+comprehensive income  17,377,291   9,147,256   14,896,821   41,421,368  
+        At amortised cost         
+Quoted:         
+Government securities  12,409,634   14,724,527   27,809,084   54,943,245  
+Bonds – Public sector  8,033,464   1,721,440   7,044,517   16,799,421  
+Bonds – Banks and financial institutions  1,537,803   1,257,209   7,083,282   9,878,294  
+Bonds – Corporate  2,645,851   519,273   2,084,410   5,249,534  
+Total quoted  24,626,752   18,222,449   44,021,293   86,870,494  
+Less: All owance for impairment (Note 10 ) (6,917)    (2,877)    (13,671)    (23,465)   
+Total investment securities at amortised cost  24,619,835   18,219,572   44,007,622   86,847,029  
+        Total investment securities, net  41,997,126   27,366,828   58,904,443   128,268,397  
+(*) Gulf Cooperation Council  
+(**) includes investments in perpetual bonds  
+ 
+Islamic investing  assets included in the above table are as follows:  
+ 
+ As at   As at  
+ June 30    December 31  
+ 202 4   202 3 
+ unaudited   audited  
+  AED’000    AED’000      
+At fair value through other comprehensive income (FVTOCI)     
+Sukuk investments  6,179,883   7,278,314  
+Equities  125,401   123,560  
+ 6,305,284   7,401,874  
+At amortised cost     
+Sukuk i nvestments  7,373,389   6,088,771   
+Less: All owance for impairment  (3,774)   (5,278)   
+ 7,369,615   6,083,493  
+Net Islamic investing assets  13,674,899   13,485,367   
+ 
+As at June 30 , 202 4, the allowance for impairment on debt instruments designated at FVTOCI amounting to 
+AED  45,857  thousand  (December 31, 202 3 – AED 53,981  thousand ) (Note 1 0) is included in revaluation 
+reserve of investments carried at FVTOCI .  
+ 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+19 
+ ABU DHABI COMMERCIAL BANK PJSC  
+8.    Investment securities , net (continued)  
+ 
+The Group  hedges certain fixed and floating rate investments securities amounting to AED  81,942,257  
+thousand (December 31, 202 3 – AED 74,845,997  thousand) for interest rate and foreign currency risks 
+through interest rate and currency swaps and designates these as fair value and cash flow hedges. The net 
+positive  fair value  of these swaps as at June 30 , 202 4 was AED  4,256,294  thousand (December 31, 202 3 – net 
+positive  fair value AED 2,757,908  thousand). The hedge ineffectiveness gains and losses relating to these 
+hedges were included in the condensed consolidated interim income statement.  
+ 
+The Group  entered into repurchase agreements whereby bonds were pledged and held by counterparties as 
+collateral. The risks and rewards relating to the investments pledged remains with the Group . The bonds 
+placed as collateral are governed under Global Master Repur chase Agreements (GMRA). The following table 
+reflects the carrying value of these bonds and the associated financial liabilities:  
+ 
+  
+  As at June 30 , 202 4 (unaudited)    As at December 31, 202 3 (audited)  
+  
+  Carrying value  
+of pledged 
+securities (*)   
+  Carrying value 
+of associated 
+liabilities    
+  Carrying value of 
+pledged 
+securities (*)  Carrying value of 
+associated 
+liabilities  
+  AED’000    AED’000    AED’000    AED’000          
+Repurchase financing  42,332,685   39,037,217   39,291,225   34,887,375  
+ 
+(*) includes securities of  AED 2,690,106 thousand (December 31, 202 3 – AED 5,641,405  thousand) received as collateral by the Group (Note 6)  
+ 
+Further, the Group  pledged investment securities with fair value amounting to AED  5,641,631 thousand 
+(December 31, 202 3 – AED 4,558,235  thousand) as collateral against margin calls. The risks and rewards on 
+these pledged investments securities remains with the Group . 
+ 
+9. Loans and  advances  to customers , net  
+ 
+  
+  As at    As at  
+  
+  June 30    December 31  
+  
+  202 4   202 3 
+ unaudited   audited  
+  
+  AED’000    AED’000      
+Overdrafts (retail and corporate)  16,835,422   15,594,536  
+Retail loans – mortgages  17,836,604   16,075,151  
+Retail loans – others  41,913,337   37,907,671  
+Corporate loans  231,053,289   210,534,372  
+Credit cards  5,420,206   5,111,888  
+Other facilities  26,027,093   24,209,885  
+Gross loans and advances to customers at amortised cost  339,085,951   309,433,503  
+Less: Allowance for impairment (Note 10 ) (10,225,727)   (10,688,842)   
+Total loans and advances to customers at amortised cost, net  328,860,224   298,744,661  
+Loans and advances to customers mandatorily measured at FVTPL  3,298,067   3,249,938  
+Total loans and advances to customers, net  332,158,291   301,994,599  
+ 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+20 
+ ABU DHABI COMMERCIAL BANK PJSC  
+9.   Loans and advances to customers, net (continued)  
+ 
+Islamic financing assets included in the above table  are as follows:  
+ 
+ As at    As at  
+ June 30    December 31  
+ 202 4                   202 3  
+ unaudited   audited  
+ AED’000   AED’000  
+    Murabaha  28,260,208   27,428,630  
+Ijara financing  13,211,777   13,564,254  
+Salam  404,730   436,063  
+Others  874,674   673,992  
+Gross Islamic financing assets  42,751,389   42,102,939  
+Less: Allowance for impairment  (1,901,774)   (2,080,769)   
+Net Islamic financing assets  40,849,615   40,022,170  
+ 
+The Group hedges certain fixed and floating rate loans and advances  amounting to AED 18,224,393  thousand 
+(December 31, 202 3 – AED 4,810,969  thousand) for interest rate and foreign currency risk using interest 
+rate and currency swaps and designates these swaps  as fair value and cash flow hedges, respectively. The 
+net nega tive fair value of these swaps as at June 30 , 202 4 was AED  34,069  thousand (December 31, 202 3 – 
+net negative  fair value of AED 4,057  thousand).  
+ 
+The economic activity sector composition of the loans and advances to customers is as follows:  
+ 
+ As at June 30 , 2024  (unaudited)   As at December 31, 2023 (audited)  
+ Within the 
+UAE  Outside the 
+UAE  Total   Within the 
+UAE  Outside the 
+UAE  Total  
+ AED’000  AED’000  AED’000   AED’000  AED’000  AED’000  
+Economic activity sector         
+Agriculture  202,498  134,579  337,077   168,950  155,880  324,830  
+Energy  1,204,993  12,280,627  13,485,620   844,387  14,829,569  15,673,956  
+Trading  14,187,608  12,673,816  26,861,424   11,820,768  11,192,465  23,013,233  
+Real estate investment  51,132,756  1,523,179  52,655,935   51,965,652  1,891,605  53,857,257  
+Hospitality  7,608,645  - 7,608,645   8,229,044  444,039  8,673,083  
+Transport and communication  2,374,186  6,595,133  8,969,319   2,308,976  3,491,711  5,800,687  
+Personal  68,857,371  921,059  69,778,430   63,083,264  1,118,892  64,202,156  
+Government and public sector 
+entities  84,604,461  9,319,013  93,923,474   73,549,548  5,245,487  78,795,035  
+Financial institutions(*)  14,071,439  15,118,469  29,189,908   12,783,943  12,478,213  25,262,156  
+Manufacturing  4,219,416  5,657,473  9,876,889   4,854,119   5,866,006  10,720,125  
+Services (**) 8,786,717  340,699  9,127,416   8,562,194  385,768  8,947,962  
+Others  16,556,162  4,013,719  20,569,881   13,811,101  3,601,860  17,412,961  
+Gross loans and advances to 
+customers  273,806,252  68,577,766  342,384,018   251,981,946  60,701,495  312,683,441  
+Less: Allowance for 
+impairment  (Note 10)    (10,225,727)     (10,688,842)   
+Total loans and advances to 
+customers, net    332,158,291     301,994,599  
+(*) includes investment companies  
+(**) include s loans and advances to customers mandatorily measured at FVTPL  
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+21 
+ ABU DHABI COMMERCIAL BANK PJSC  
+9.   Loans and advances to customers, net (continued)  
+ 
+Stage wise loans and advances to customers at amortised cost and associated impairment allowance is as 
+follows:  
+ 
+  As at June 30 , 202 4 (unaudited)   As at December 31, 202 3 (audited)  
+  Gross loans 
+and advances 
+to customers  
+  Allowance for 
+impairment    Gross loans  
+and advances  
+to customers  
+  Allowance for 
+impairment  
+AED’000  AED’000    AED’000  AED’000  
+        Stage 1  312,664,432   1,678,262   280,397,613   1,908,231  
+Stage 2  15,315,954   3,164,408   17,966,876   3,486,925  
+Stage 3  10,071,637   5,083,829   9,486,051   4,784,708  
+Purchased or originated credit -
+impaired  1,033,928   299,228   1,582,963   508,978  
+Total  339,085,951   10,225,727   309,433,503   10,688,842  
+ 
+10.   Impairment allowance s 
+ 
+The move ment in impairment allowance s is as follows:  
+ 
+ As at    As at  
+ June 30    December 31  
+ 202 4   202 3 
+ unaudited    audited  
+ AED’000    AED’000  
+    Opening balance  11,433,990   12,423,116  
+Charge for the period/year  1,596,483   3,793,069  
+Recoveries /modifications  during the period/year  (267,730)   (315,951)  
+Net charge for the period/year  1,328,753   3,477,118  
+Adjustments to gross carrying value  for the period/year  3,568   95,198  
+Net amounts written -off during the period/year  (1,778,540)   (4,52 4,971 ) 
+Impact of currency translation  (66,981)   (36,471 ) 
+Total impairment allowances  10,920,790   11,433,990  
+ 
+Allocation of impairment allowances is as follows:  
+ 
+  
+  
+  As at    As at  
+  
+  
+  June 30    December 31  
+  
+  
+  202 4   202 3 
+  
+  
+  unaudited    audited  
+ AED’000    AED’000  
+    
+Balances with central banks (Note 4 ) 197   269  
+Deposits and balances due fro m banks (Note 5 ) 117,091   125,677  
+Investment securities at amortised cost (Note 8) 21,243   23,465  
+Investment securities designated at FVTOCI  (Note 8)(*) 45,857   53,981  
+Loans and advances to customers (Note 9)  10,225,727   10,688,842  
+Other assets (Note 12)  15,310   17,720  
+Letters of credit, guarantees and other commitments (Note 17)  495,365   524,036  
+Total impairment allowances  10,920,790   11,433,990  
+ (*) recognised under “Revaluation reserve of investments designated at FVTOCI”  
+ 
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+22 
+ ABU DHABI COMMERCIAL BANK PJSC  
+11.   Investment properties  
+ 
+  AED’000  
+  As at January 1, 2023  1,691,890  
+Additions during the year  5,785  
+Disposals during the year  (247)  
+Revaluation of investment properties  46,386  
+Impact of currency translation  (2,354)  
+As at December 31, 2023 (audited)  1,741,460  
+Disposal during the period (*) (38,021)  
+Impact of currency translation  (3,948)  
+As at June 30 , 202 4 (unaudited)  1,699,491  
+(*) net gain of AED 895 thousand was realised on disposal of investment properties   
+ 
+Fair valuations  
+ 
+Valuations are carried out annually by registered independent valuers having an appropriate recognised 
+professional qualification and experience in the location and category of the property being valued . In 
+estimating the fair values of the properties, the highest and best use of the properties is their current use. 
+ 
+The valuation methodologies considered by external valuers include:  
+ 
+ Direct co mparable method: This method seeks to determine the value of the property from transactions 
+of comparable propertie s in the vicinity applying adjustments to reflect differences to the subject 
+property.  
+ Investment method: This method is used to assess the value of the property by capitalising the net operating income of the property at an appropriate yield an investor w ould expect for an investment of 
+the duration of the interest being valued.  
+ 
+Investment properties of the Group are primarily located within the UAE.  
+ 12.   Other assets, net 
+ 
+  
+  
+  As at    As at  
+  
+  
+  June 30    December 31  
+  
+  
+  202 4   202 3 
+ unaudited   audited  
+ AED’000    AED’000      
+Interest receivable  5,209,653   4,542,779  
+Prepayments  215,601   130,557   
+Acceptances (Note 17 ) 18,440,528   13,202,764  
+Others  1,636,618   1,101,978  
+Gross other assets  25,502,400   18,978,078   
+Less: All owance for impairment (Note 10 ) (15,310)   (17,720)   
+Total other assets, net  25,487,090   18,960,358   
+ 
+13.   Due to banks  
+ 
+  As at    As at  
+  June 30    December 31  
+  202 4   202 3 
+  unaudited    audited  
+  AED’000    AED’000      
+Vostro balances  1,574,000   1,989,085  
+Margin deposits  5,709,588   4,428,478  
+Time deposits  3,525,576   2,377,405  
+Total due to banks  10,809,164   8,794,968   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30,  2024 
+ 
+23 
+ ABU DHABI COMMERCIAL BANK PJSC  
+14.   Deposits from customers  
+ 
+  
+  
+  As at    As at  
+  
+  
+  June 30    December 31  
+  
+  
+  202 4   202 3 
+  
+  
+  unaudited    audited  
+ AED’000    AED’000      
+Time deposits  218,074,588   195,251,700  
+Current account deposits  138,648,902   137,448,035  
+Savings deposits  29,765,915   27,497,278  
+Long term government deposits  215,054   280,417  
+Margin deposits  3,256,099   2,427,609  
+Total deposits from customers  389,960,558   362,905,039  
+ 
+Islamic deposits included in the above table are as follows:  
+ 
+ As at    As at  
+ June 30    December 31  
+ 202 4  202 3 
+ unaudited   audited  
+ AED’000   AED’000  
+    Current account deposits  18,299,374   16,419,267  
+Margin deposits  176,366   200,115  
+Mudaraba savings deposits (*) 18,472,313   17,433,920  
+Mudaraba term deposits   683,519   792,424  
+Murabaha term deposits  1,196,661   2,180,907  
+Wakala deposits  20,865,001   20,429,772  
+Total Islamic deposits  59,693,234   57,456,405  
+(*) includes AED 15,313  thousand  pertaining to investment risk reserve (IRR) (December 31, 2023 – AED 16,978 thousand)  
+  
+The Group hedges customer deposits amounting to AED  31,608,913  thousand (December 31, 202 3 – AED 
+27,924,885  thousand) for foreign currency and  interest rate risks using foreign exchange and interest rate 
+swaps and designates these swaps as either cash flow or fair value hedges. The net negative  fair value of 
+these swaps as at June 30 , 202 4 was AED 62,095  thousa nd (December 31, 202 3 – net positive  fair value of 
+AED 19,056  thousand).  
+ 
+15.   Euro commercial paper  
+ 
+The details of euro commercial paper ( “ECP ”) issuances under the Bank ’s ECP programme are as follows:  
+ 
+  As at    As at  
+  June 30    December 31  
+  202 4   202 3 
+  unaudited    audited  
+ AED’000    AED’000  
+    Currency  (CCY)     
+US dollar (USD)  3,775,263   3,728,810  
+Euro (EUR)  1,149,727   1,362,606  
+Great Britain pound (GBP)  811,512   2,686,239  
+Total euro commercial paper  5,736,502   7,777,655  
+ 
+The Group hedges euro commercial paper amounting to AED 1,961,2 39 thousand (December 31, 202 3 – AED 
+4,048,844 thousand) for foreign currency using foreign exchange swaps and designates these swaps as cash 
+flow hedges. The net negative  fair value of these hedge contracts as at June 30 , 202 4 was AED  6,923  thousand 
+(December 31, 202 3 – net positive fair value of AED 108,246 thousand).  
+ 
+The effective interest rate on zero coupon ECPs ranges between 3.77 % p.a. to 6.03 % p.a. (December 31, 202 3 
+– between 3.91% p.a. to 6.14 % p.a.).  
+  
+  
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30 , 2024 
+ 
+24 
+ ABU DHABI COMMERCIAL BANK PJSC  
+16.   Borrowings  
+ 
+The details of borrowings  as at June 30 , 202 4 (unaudited)  are as follows:  
+ 
+    Within 1 year    1-3 years    3-5 years    Over 5 years    Total  
+Instrument  Currency  (CCY)    AED’000    AED’000    AED’000    AED’000    AED’000  
+            
+Global medium term notes  Australian dollar (AUD)   -     488,400   361,271   137,171   986,842  
+ Chinese renminbi (CNH)   115,468   494,284   -  -  609,752  
+ Euro (EUR)   78,414   -  -  -  78,414  
+ Swiss franc (CHF)   1,055,500   -  -  409,114   1,464,614  
+ Hong Kong dollar (HKD)   -  71,028   -  -  71,028  
+ US dollar (USD)   1,991,063   3,834,794   7,442,415   16,521,578   29,789,850  
+ Great Britain pound (GBP)   184,909   -  -  -  184,909  
+ Indonesian rupiah (IDR)   -  -  303,909   126,345   430,254  
+    3,425,354   4,888,506   8,107,595   17,194,208   33,615,663  
+            
+Bilateral loans  US dollar (USD)   -  2,121,271   2,380,472   -  4,501,743  
+ Kazakhstan tenge (KZT)   -  59,873   19,958   -  79,831  
+Certificate of deposits issued  Great Britain pound (GBP)   4,575,211   -  -  -  4,575,211  
+ US dollar (USD)   667,906   -  -  -  667,906  
+ Euro (EUR)   371,567   -  -  -  371,567  
+Borrowings through repurchase agreements  US dollar (USD)   32,072,825   6,961,644   -  -  39,034,469  
+ Egyptian pound (EGP)   -  -  -  2,748   2,748  
+Total borrowings      41,112,863   14,031,294   10,508,025   17,196,956   82,849,138  
+ 
+The Group hedges borrowings amounting to AED 41,926,487  thousand for foreign currency and interest rate risk s using either interest rate or cross 
+currency swaps and designates these swaps as either fair value or cash flow hedges. The net negative  fair value of these swaps as at June 30 , 202 4 was AED 
+7,845,117  thousand.  
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+25 
+ ABU DHABI COMMERCIAL BANK PJSC  
+16.   Borrowings (continued)  
+ 
+The details of borrowings as at December 31, 202 3 (audited)  are as follows:  
+ 
+  Within 1 year    1-3 years    3-5 years    Over 5 years    Total  
+Instrument  Currency  (CCY)  AED’000    AED’000    AED’000    AED’000    AED’000             Global medium term notes  Australian dollar (AUD)  -     -  868,091   140,883   1,008,974  
+ Chinese renminbi  (CNH)  220,468   333,521   154,233   -  708,222  
+ Euro (EUR)  79,763   -  -  -  79,763  
+ Swiss franc (CHF)  1,558,795   -  -  -  1,558,795  
+ Hong Kong dollar (HKD)  72,268   70,263   -  -  142,531  
+ US dollar (USD)  2,792,254   2,633,544   6,047,621   19,897,712   31,371,131  
+ Great Britain pound (GBP)  181,759   -  -  -  181,759  
+ Indonesian rupiah (IDR)  -  -  -  475,867   475,867  
+   4,905,307   3,037,328   7,069,945   20,514,462   35,527,042  
+Bilateral loans  US dollar (USD)  616,467   733,243   3,031,082   -  4,380,792  
+ Kazakhstan tenge (KZT)  -  -  82,265   -  82,265  
+Certificate of deposits issued  Great Britain pound (GBP)  791,054   -  -  -  791,054  
+ US dollar (USD)  864,316   -  -  -  864,316  
+ Euro (EUR)  120,490   -  -  -  120,490  
+Borrowings through repurchase agreements  US dollar (USD)  32,205,548   2,677,410   -  -  34,882,958  
+ Egyptian pound (EGP)  -  -  -  4,417   4,417  
+Total borrowings     39,503,182   6,447,981   10,183,292   20,518,879   76,653,334  
+ 
+The Group hedges borrowings amounting to AED  37,471,801  thousand for foreign currency and interest rate risk s using either interest rate or cross 
+currency swaps and designates these swaps as either fair value or cash flow hedges. The net negative fair value of these swaps as at December 31, 2023 , 
+was AED  5,688,366  thousand.  
+ 
+    
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+26 
+ ABU DHABI COMMERCIAL BANK PJSC  
+16.   Borrowings (continued)   
+ 
+Interest is payable in arrears and the contractual coupon rates or internal rate of return on zero coupon issuances as at June 30 , 202 4 (unaudited)  are as follows:   
+ 
+Instrument  CCY  Within 1 year  1-3 years  3-5 years  Over 5 years  
+Global medium term notes  AUD  - Fixed rate of 3.10% p.a. and quarterly 
+coupons with 90 to 94 basis points over 
+bank bill swap rate (BBSW)  Fixed rate of 4.50% p.a.  Fixed rate between 2.696% p.a.  to 
+2.80% p.a.  
+ CNH  Fixed rate of 3.33% p.a.  Fixed rate between 3.20% to p.a. 3.415% 
+p.a. - - 
+ EUR  Fixed rate of 0.75% p.a.  - - -  
+ CHF  Fixed rate between 0.05% p.a. to  0.51% p.a.  - - Fixed rate of 2.023% p.a.  
+ HKD  - Fixed rate of 1.34% p.a.  - -  
+ USD  Quarterly coupons between 129 to 141 basis 
+points over SOFR  Fixed rate between 1.63% p.a. to 5.10% p.a. 
+and quarterly coupon of 88 basis points 
+over SOFR  Fixed rate between 4.5 0% p.a. to 
+5.50% p.a. and quarterly coupons 
+between 110 to 166 basis points ove r 
+SOFR.  Fixed rate between 4.65% p.a. to 5 .00% 
+p.a., quarterly coupon of 140 basis 
+points over SOFR. and z ero coupon 
+with an internal  rate of return between 
+3.271% p.a. to 5.785% p.a. (*) 
+ GBP  Fixed rate of 0.95% p.a.  - - - 
+ IDR - - Fixed rate of 8.16% p.a. Fixed rate of 7.50% p.a.  
+Bilateral loans  USD  - Monthly coupon of 68  basis point over 
+SOFR and monthly coupon of 111 basis 
+points over TERM SOFR  Monthly coupon between 68 to 85 
+basis points over SOFR.  - 
+ KZT  - Fixed rate of 9.5 0% p.a.  Fixed rate of 8.50% p.a.  - 
+Certificate of deposits issued  GBP  Zero coupon with an internal rate between 
+5.33% p.a. to 5.46% p.a . - - - 
+ USD  Zero coupon with an internal rate between 
+5.53% p.a . to 5.57% p.a.  -   - - 
+ EUR  Zero coupon with an internal rate between 
+3.94%  p.a. to 4.01% p.a . - - - 
+Borrowings through 
+repurchase agreements  USD  Fixed rate between 5.43% p.a. to 5.82% p.a ., 
+monthly coupon of 37 basis points over 
+SOFR, quarterly  coupons between 32 to 76 
+basis points over SOFR and coupons at 
+maturity between 30 to 60 basis points over 
+SOFR  Monthly coupon of 68 basis points over 
+SOFR, quarterly coupons between 64 to 65 
+basis points over SOFR and s emi-annual 
+coupons between negative  18 to 20 basis 
+points over SOFR.  - - 
+ EGP  - - - Fixed rate between 0.50% p.a. to 3.50% 
+p.a. 
+ 
+(*) includes AED  15,677,183  thousand accreting notes issued with original tenors ranging from 30 years to 40 years with internal rate of return ranging b etween 3.271%  p.a. to 5.785%  p.a. and are callable at the end of 
+every 5th, 6th, 7th, or 10th year from issue date  
+  
+Refer note 8 for details of bonds pledged as collateral against borrowings through repurchase agreements. Further , the Group placed net cash collateral of AED 
+79,545  thousand (December 31, 202 3 - AED 177,275  thousand ) against margin calls.   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30 , 2024 
+27 
+ ABU DHABI COMMERCIAL BANK PJSC  
+ 
+17.   Other liabilities  
+ 
+ As at    As at  
+ June 30    December 31  
+ 202 4   202 3 
+ unaudited   audited  
+ AED’000    AED’000  
+    Interest payable  5,121,453   3,136,679  
+Recognised liability for defined benefit obligation  472,036   467,429  
+Deferred income  1,151,449   1,120,442  
+Acceptances (Note 1 2) 18,440,528   13,202,764  
+Impairment allowance on letters of credit, guarantees and other commitments (Note 10) 495,365   524,036  
+Others(*)  6,481,462   5,119,177   
+Total other liabilities  32,162,293   23,570,527   
+(*) includes AED  156,379  thousand (December 31, 2023  – AED 168,031 thousand)  pertaining to lease liability   
+ 
+18.   Share capital  
+ 
+ Authorised   Issued and fully paid  
+      As at    As at  
+      June 30    December 31  
+      202 4   202 3 
+      unaudited    audited  
+  AED’000    AED’000    AED’000        
+Ordinary shares of AED 1 each    10,000,000   7,319,947   7,319,947  
+ In the Annual General Meeting held on March 7, 202 4, the shareholders of the Bank approved cash dividend 
+of AED 4,099,170  thousand . 
+ As at June 30 , 202 4, Mubadala Investment Company holds 60. 69% of the Bank’s issued and fully paid -up 
+share capital through its wholly owned subsidiar ies.  
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+28 
+ ABU DHABI COMMERCIAL BANK PJSC  
+19.   Other reserves (unaudited)  
+ 
+Reserves movement for the six  month period ended June 30 , 202 4: 
+ 
+  
+                  Revaluation      
+  
+  Employees’          Foreign      reserve of  Attributable     
+  
+  incentive          currency   Cash flow  IFRS 9  investments  to equity  Non -   
+  
+  plan  Statutory  Legal  General  Contingency  translation  hedge  reserve  -  designated at  holders of  controlling    
+  
+  shares, net  reserve  reserve  reserve  reserve  reserve  reserve   general   at FVTOCI  the Bank  interests  Total  
+ AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000               
+As at January 1, 2024  (78,869)  3,659,974  5,871,637  2,000,000  150,000  (226,433)  301,783  - (1,086,185)  10,591,907  (653)  10,591,254  
+Exchange difference arising on translation of foreign 
+operations  - - - - - (424,041)  - - - (424,041)  (351)  (424,392)  
+Net gain on hedge of net investment in foreign 
+operations  - - - - - 5,965  - - - 5,965  - 5,965  
+Net fair value changes on cash flow hedges  - - - - - - (202,526)  - - (202,526)  - (202,526)  
+Net fair value changes on cash flow hedges reclassified 
+to condensed consolidated interim income statement  - - - - - - 29,717  - - 29,717  - 29,717  
+Net fair value changes of debt instruments designated 
+at FVTOCI  - - - - - - - - (129,171)  (129,171)  19 (129,152)  
+Changes in allowance for expected credit losses on debt 
+instrument designated at FVTOCI  - - - - - - - - (8,124)  (8,124)  - (8,124)  
+Amounts reclassified to condensed consolidated 
+interim income statement for debt instruments 
+designated at FVTOCI  - - - - - - - - 175,214  175,214  - 175,214  
+Related tax impact on fair value movement of debt 
+instruments designated at FVTOCI  - - - - - - - - (4,558)  (4,558)  - (4,558)  
+Net fair value changes of equity instruments designated 
+at FVTOCI  - - - - - - - - (2,31 9) (2,319)  - (2,31 9) 
+Related tax impact on fair value movement of equity 
+instruments designated at FVTOCI  - - - - - - - - 338  338  - 338  
+Amounts transferred within equity upon disposal of 
+investments in equity instruments designated at 
+FVTOCI  - - - - - - - - (13,517)  (13,517)  - (13,517)  
+Total other comprehensive (loss)/income for the 
+period  - - - - - (418,076)  (172,809)  - 17,863  (573,022)  (332)  (573,354)  
+Acquisition of shares  (22,557)  - - - - - - - - (22,557)  - (22,557)  
+Adjustment arising from changes in non -controlling  
+interests  - - - - - (65)  - - 1 (64)  64 - 
+Amounts transferred within equity upon creation of 
+IFRS 9 reserve  - general  - - - - - - - 448,374  - 448,374  - 448,374  
+Shares – vested portion   32,502  - - - - - - - - 32,502  - 32,502  
+As at June 30, 2024  (68,924)  3,659,974  5,871,637  2,000,000  150,000  (644,574)  128,974  448,374  (1,068,321)  10,477,140  (921)  10,476,219  
+ 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+29 
+ ABU DHABI COMMERCIAL BANK PJSC  
+19.  Other reserves (unaudited)  (continued)  
+ 
+Reserves movement for the six  month  period ended June 30 , 202 3: 
+ 
+  
+                Revaluation      
+  
+  Employees’          Foreign    reserve of  Attributable     
+  
+  incentive          currency   Cash flow  investments  to equity  Non -   
+  
+  plan  Statutory  Legal  General  Contingency  translation  hedge  designated at  holders of  controlling    
+  
+  shares, net  reserve  reserve  reserve  reserve  reserve  reserve   at FVTOCI  the Bank  interests  Total  
+ AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000  AED’000              
+As at January 1, 2023  (68,824)  3,478,690  3,478,690  2,000,000  150,000  (184,449)  97,176  (1,404,540)  7,546,743  (481)  7,546,262  
+Exchange difference arising on translation of foreign 
+operations  - - - - - (207,602)   - - (207,602)   (194)   (207,796)   
+Net gain on hedge of net investment in foreign operations  - - - - - 99,708  - - 99,708  - 99,708  
+Net fair value changes on cash flow hedges  - - - - - - 224,003  - 224,003  - 224,003  
+Net fair value changes on cash flow hedges reclassified to 
+condensed consolidated interim income statement  - - - - - - 56,683  - 56,683  - 56,683  
+Net fair value changes of debt instruments designated at 
+FVTOCI  - - - - - - - (247,761)   (247,761)   (21)   (247,782)   
+Changes in allowance for expected credit losses on debt 
+instrument designated at FVTOCI  - - - - - - - (14,579)   (14,579)   - (14,579)   
+Amounts reclassified to condensed consolidated interim 
+income statement for debt instruments designated at FVTOCI  - - - - - - - (11,742)   (11,742)   - (11,742)   
+Net fair value changes of equity instruments designated at 
+FVTOCI  - - - - - - - (16,242)   (16,242)   - (16,242)   
+Amounts transferred within equity upon disposal of equity 
+instruments designated at FVTOCI  - - - - - - - 2,359  2,359  - 2,359  
+Total other comprehensive (loss)/income for the period  - - - - - (107,894)   280,686  (287,965)   (115,173)   (215)   (115,388)   
+Dividends paid to equity holders of the Bank  - - 2,211,663  - - - - - 2,211,663  - 2,211,663  
+Fair value adjustments  (4,490)   - - - - - - - (4,490)   - (4,490)   
+Shares – vested portion   18,649  - - - - - - - 18,649  - 18,649  
+As at June 30, 2023  (54,665)   3,478,690  5,690,353  2,000,000  150,000  (292,343)   377,862  (1,692,505)   9,657,392  (696)   9,656,696   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the  six month period ended June 30, 20 24  
+ 
+30 
+ ABU DHABI COMMERCIAL BANK PJSC  
+19.  Other reserves (unaudited)  (continued)  
+ 
+IFRS 9 reserve – general  
+ 
+CBUAE allows banks to create non distributable reserve from retained earnings where impairment provision 
+required by CBUAE as per circular no 28/2010  exceeds the expected credit loss  calculated under IFRS 9. The 
+computation of IF RS 9 reserve  - general created during the period is as follows:  
+  AED’000  
+  Regulatory general provision requirement as per CBUAE circular no 28/2010  5,460,07 7 
+Less: Stage 1 and 2 impairment provision  (5,011,70 3)  
+Reserve created from retained earnings under CBUAE circular no 28/2010    448,374     
+Balance of IFRS 9 reserve - general as at January 1, 2024  - 
+Add: Reserve created from retained earnings under CBUAE circular no 28/2010    448,374  
+Balance of IFRS 9 reserve - general as at June 30, 2024     448,374  
+  
+20.   Capital notes  
+ 
+Additional Tier I capital notes (the “Capital Notes”) are non -cumulative perpetual securities for which there 
+is no fixed redemption date. These Capital Notes are direct, unsecured, conditional, and subordinated 
+obligations of the Bank and (i) rank pari passu  without any preference among themselves; (ii) rank 
+subordinate and junior to all senior obligations; (iii) rank pari passu with all pari passu  obligations; and  (iv) 
+rank in priority only to all junior creditors.  
+ 
+In case the Bank at its sole discretion elects not to make a coupon payment, the holders of the Capital Notes 
+do not have a right to claim the coupon and an election by the Bank not to service the coupon is not 
+considered an event of default. In addition, there are certain circumstances (“non -payment event”) under 
+which the Bank is prohibited from making a coupon payment on a relevant coupon payment date. Further, if 
+the CBUAE notifies the Bank that  it is, or will become, non -viable without (i) a write -down; or (ii) a public 
+sector injection of capital, the rights of the holders of the Capital Notes under the Capital Notes shall automatically be deemed to be irrevocably, unconditionally and permanent ly written -down in a proportion 
+corresponding to the write -down amount determined by the CBUAE. This could result in Capital Notes being 
+written down to zero and the Capital Notes being cancelled.  
+ 
+If the Bank makes a non -payment election or a non- payment event occurs, then the Bank will not (a) declare 
+or pay any distribution or dividend or (b) redeem, purchase, cancel, reduce or otherwise acquire any of the 
+share capital or any securities of the Bank ranking pari passu  with or junior to the Capital Notes except notes, 
+the term of which stipulate a mandatory redemption or conversion into equity, in each case unless or until 
+one coupon payment has been paid in full.  
+ 
+The following table shows issuances of Capital Notes by the Bank:  
+    As at  As at  
+    June 30 December 31  
+    2024  2023  
+    unaudited  audited  
+Issuance  Currency  Interest rate  First call date  AED’000  AED’000  
+Government of Abu 
+Dhabi AT1 Capital 
+Notes  AED  Floating interest rate of 6 
+month  EIBOR plus 2.30% p.a.  
+payable on semi -annual basis  February 23, 2027 (*) 6,000,000  6,000,000  
+      
+USD 750,000,000 AT1 
+Capital Notes  USD  Fixed rate of 8.00% p.a. from 
+issue date but excluding the 
+first reset date (May 27, 
+2029) (**) payable on semi -
+annual basis  November 27, 2028 (*) 2,754,750  2,754,750  
+      8,754,750  8,754,750  
+(*) Call option is subject to prior approval of UAE Central Bank  
+(**) If the Capital Notes are not redeemed in accordance with the Conditions on or prior to the first reset date, interest shall c ontinue to be payable 
+from (and including) the first reset date subject to and in accordance with the Conditions at a fixed rate, to be reset on the first reset date and every 
+five years thereafter, equal to relevant five  year reset rate (as defined in the Conditions) plus a margin of 3.524% p.a.   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+31 
+ ABU DHABI COMMERCIAL BANK PJSC  
+21.   Interest income  (unaudited)  
+ 
+  3 months ended June 30    6 months ended June 30  
+  202 4 
+  2023    202 4 
+  2023  
+AED’000  AED’000    AED’000  AED’000  
+Loans and advances to banks  
+ 837,020   666,782   1,754,266   1,260,539  
+Loans and advances to customers   4,942,049   3,953,610   9,715,091   7,584,602  
+Investment securities  1,688,272   1,373,865   3,360,050   2,536,237  
+Total interest income  7,467,341   5,994,257   14,829,407   11,381,378  
+ 
+22.   Interest expense  (unaudited)  
+ 
+  
+  3 months ended June 30    6 months ended June 30  
+202 4 
+  202 3   202 4 
+  202 3 
+AED’000  AED’000    AED’000  AED’000  
+Deposits from banks  112,896   84,221   218,837   158,157  
+Deposits from customers  3,183,723   2,201,619   6,272,912   4,113,287  
+Euro commercial paper  77,772   105,478   167,254   189,978  
+Borrowings(*)  1,362,533   1,171,280   2,663,601   2,165,662  
+Total interest expense  4,736,924   3,562,598   9,322,604   6,627,084  
+(*) includes AED 4,882  thousand (for the six month period  ended June 30 , 202 3 - AED 5,036  thousand) for interest expense on lease liabilities  
+ 
+23.   Net fees and commission income  (unaudited)  
+ 
+  
+  3 months ended June 30    6 months ended June 30  
+2024  
+  2023    2024  
+  2023  
+AED’000  AED’000    AED’000  AED’000  
+Fees and commission income         
+Card related fees  430,374   447,884   808,675   742,090  
+Loan processing fees  272,613   213,849   522,148   386,583  
+Accounts related fees  79,027   63,179   166,258   122,191  
+Trade finance commission  178,298   148,283   342,475   296,619  
+Asset management and investment services  51,455   29,636   101,992   57,865  
+Other s 259,474   180,767   486,234   365,774  
+Total fees and commission income  1,271,24 1  1,083,598   2,427,782   1,971,122  
+Fees and commission expense         
+Card related fees  (255,113)   (187,876)   (487,190)   (365,854)  
+Loan processing fees  (22,008)   (16,349)   (44,275)   (32,074)  
+Trade finance commission  (5,836)   (5,936)   (14,811)   (11,030)  
+Other s (179,420)   (149,654)   (369,760)   (305,786)  
+Total fees and commission expense  (462,37 7)  (359,815)   (916,036)   (714,744)  
+        Net fees and commission income  808,86 4  723,783   1,511,746   1,256,378  
+ 
+24.   Net trading income (unaudited)  
+ 
+ 3 months ended June 30    6 months ended June 30  
+202 4 
+  202 3   202 4 
+  202 3 
+AED’000  AED’000    AED’000  AED’000  
+Net gain from dealing in derivatives  69,073   78,328   111,966   167,732  
+Net gain from dealing in foreign currencies  179,015   155,980   350,313   343,200  
+Net gain from financial assets at fair value 
+through profit or loss  231,470   148,676   541,006   327,496  
+Net trading income  479,558   382,984   1,003,285   838,428  
+ 
+  
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+32 
+ ABU DHABI COMMERCIAL BANK PJSC  
+25.   Other operating income (unaudited)  
+ 
+ 3 months ended June 30    6 months ended June 30  
+202 4 
+  202 3   202 4 
+  202 3 
+AED’000  AED’000    AED’000  AED’000  
+Property management income  4,732   39,085   8,924   79,615  
+Rental income  19,624   20,496   31,606   40,905  
+Net loss  from disposal of investment securities  (133,325)   (5,426)   (242,464)   (3,743)  
+Net gain /(loss)  from hedg ing derivatives  240,033   (9,872)   367,030   (20,630)  
+Dividend income  7,056   9,245   15,394   18,967  
+Others  11,294   (31,472)   27,497   (20,413)  
+Total other operating income  149,414   22,056   207,987   94,701  
+ 
+26.   Operating expenses (unaudited)  
+ 
+  
+  
+  
+  
+  3 months ended June 30    6 months ended June 30  
+2024  
+  2023    202 4 
+  202 3 
+AED’000  AED’000    AED’000  AED’000  
+Staff expenses  835,994   750,463   1,595,666   1,433,763  
+General administrative expenses  596,821   450,676   1,152,849   877,768  
+Depreciation on property and equipment  88,959   94,569   177,562   192,025  
+Amor tisation of intangible assets  12,672   23,340   25,345   46,679  
+Total operating expenses  1,534,446   1,319,048   2,951,422   2,550,235  
+ 
+27.   Impairment charge  (unaudited)  
+ 
+  
+  
+  
+  
+  3 months ended June 30    6 months ended June 30  
+202 4 
+  202 3   202 4 
+  202 3 
+AED’000  AED’000    AED’000  AED’000  
+Financial instruments carried at amortised cost – 
+net charge(*)  728,565   870,644   1,621,800   1,765,879  
+Debt instruments designated at FVTOCI – net 
+releas e (5,478)   (4,196)   (8,393)   (14,924)  
+Commitment and contingent liabilities – net 
+charge/( release ) 8,915   20,900   (16,924)   32,852  
+Less: Recoveries/modifications during the 
+period  
+ 
+ (143,859)   (139,679)   (267,730)   (288,206)  
+Total impairment charge (Note 1 0) 588,143   747,669   1,328,753   1,495,601  
+(*) includes net charge of AED 68 thousand  (for the six  month period ended June 30 , 202 3 – net release of AED 1,173 thousand ) on investment  securities at 
+amortised  cost  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+33 
+ ABU DHABI COMMERCIAL BANK PJSC  
+28.   Earnings per share  (unaudited)  
+ 
+Basic and diluted earnings per share  
+ 
+The calculation of basic earnings per share is based on the p rofit  attributable to equity holders of the Bank  
+and the weighted average number of equity shares outstanding. Diluted earnings per share is calculated by 
+adjusting the weighted average number of equity shares outstanding for the dilutive effects of potential 
+equity shares held on account of employees’ incentive  plan . 
+ 
+  
+  
+  
+  3 months ended June 30    6 months ended June 30  
+202 4 
+  202 3   202 4 
+  2023  
+AED’000  AED’000    AED’000  AED’000  
+Profit for the period attributable to the equity 
+holders of the Bank  2,317,512   1,932,848   4,457,368   3,811,824  
+Less: Coupons paid on capital notes (Note 20)  (110,190)   -     (351,102)   (173,740)  
+Net adjusted profit for the period attributable 
+to the equity holders of the Bank (a)  2,207,322   1,932,848   4,106,266   3,638,084  
+        
+ Number of shares in thousand   Number of shares in thousand  
+Weighted average number of shares in issue 
+throughout the period  7,319,947   7,319,947   7,319,947   6,957,379  
+Add: Number of shares issued on stock dividend 
+during the period  -  -  -  362,568  
+Less:  Weighted average number of shares 
+resulting from employees’ incentive plan shares  (13,353)   (10,088)   (12,487)   (10,088)  
+Weighted average number of equity shares in 
+issue  during the period for basic earnings per 
+share (b)  7,306,594   7,309,859   7,307,460   7,309,859  
+Add: Weighted average number of shares 
+resulting from employees’ incentive plan shares  13,353   10,088   12,487   10,088  
+Weighted average number of equity shares in 
+issue during the period for diluted earnings 
+per share (c)  7,319,947   7,319,947   7,319,947   7,319,947  
+        
+Basic earnings per share (AED) (a)/(b)  0.30   0.26   0.56   0.50  
+        
+Diluted earnings per share (AED) (a)/(c)  0.30   0.26   0.56   0.50  
+ 29.   Commitments and contingent liabilities  
+ 
+The Group  has the following commitments and contingent liabilities:  
+ 
+  
+  
+  As at    As at  
+  
+  
+  June 30    December 31  
+  
+  
+  202 4   202 3 
+  
+  
+  unaudited    audited  
+ AED’000    AED’000      
+Letters of credit  8,230,042   10,732,456  
+Guarantees  68,533,674   68,268,369  
+Commitments to extend credit – revocable(*)  20,271,076   19,075,003  
+Commitments to extend credit – irrevocable  40,546,899   46,026,541  
+Total commitments on behalf of customers  137,581,691   144,102,369  
+Commitments for future capital expenditure  and others  560,073   577,653  
+Commitments to invest in investment securities  511,902   6,693  
+Total commitments and contingent liabilities  138,653,666   144,686,715  
+ (*) includes AED  10,641,958 thousand (December 31, 202 3 – AED  9,599,478  thousand) for undrawn credit card limits  
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+34 
+ ABU DHABI COMMERCIAL BANK PJSC  
+30.   Operating segments  
+ 
+The Group has five  reportable segments as described below. These segments offer different products and 
+services and are managed separately based on  the Group’s management and internal reporting structure. 
+The Group’s Management Executive Committee (the Chief Operating Decision Maker “CODM”), is responsible 
+for allocation of resources to these segments, whereas, the Group’s Performance Management Comm ittee, 
+based on delegation from CODM reviews the performance of these segments on a regular basis.  
+ 
+The following summary describes the operations in each of the Group’s reportable segments:  
+ 
+Retail banking  - comprises of retail products, wealth management, Islamic financing and investment in 
+associates. It includes loans, deposits and other transactions and balances with retail customers.  
+ 
+Private banking  - comprises of high net worth customers, asset manag ement, brokerage, Islamic financing 
+and investment in associates. It includes loans, deposits and other transactions and balances with corporate 
+and private accounts of high net worth individuals and fund management activities.  
+ 
+Corporate and investment ba nking - comprises of business banking, cash management, trade finance, 
+corporate  finance, small and medium enterprise financing, investment banking, Islamic financing, 
+infrastructure and asset finance, government and public enterprises. It includes loans, deposits and other 
+transactions and balances with corporate customers.  During the period, in line with Group’s business 
+strategy,  some private banking clients have been transferred from private banking segment to corporate and 
+investment banking segment. Accordingly, financial performance and results of these private banking 
+customers have been reported under Corporate and investmen t banking segment for the current and prior 
+period.  
+   
+Investments and treasury  - comprises of central treasury operations, management of the Group’s 
+investment portfolio and interest rate, currency and commodity derivative portfolio and Islamic financing.   
+Investments and treasury undertakes the Group’s funding and centralised financial risk management 
+activities through borrowings, issue of debt securities and use of derivatives for risk management. It also 
+undertakes trading and corporate finance activit ies and investing in liquid assets such as short -term 
+placements, corporate and government debt securities.  
+ 
+Property management  - comprises of engineering service operations of subsidiaries , real estate 
+management income of associate and rental income ear ned from properties of the Group . 
+ 
+Information regarding the results of each reportable segment is shown below. Performance is measured 
+based on segment profit, as included in the internal management reports that are reviewed by the Performance Management Committee . Segment profit is used to measure performance as management 
+believes that such information is the most relevant in evaluating the results of these segments relative to other entities that operate within these industries.  
+ 
+The following is an an alysis of the Group’s revenue and results by operating segments for the six month 
+period ended June 30, 2024 (unaudited) :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+35 
+ ABU DHABI COMMERCIAL BANK PJSC  
+30.   Operating segments (continued)  
+ 
+  
+      Corporate       
+   and  Investments    
+  
+  Retail  Private  investment  and  Property    
+  
+  banking  banking  banking  treasury  management  Total  
+  
+  AED'000  AED’000  AED'000  AED'000  AED'000  AED'000  
+       Net interest income  1,276,601  484,901  1,729,757  2,012,140  3,404  5,506,803  
+Net income from Islamic financing and 
+investing products  651,290  42,388  263,399  113,389  - 1,070,466  
+Total net interest income and income 
+from Islamic financing and investing 
+products  1,927,891  527,289  1,993,156  2,125,529  3,404  6,577,269  
+Non -interest income  741,639  98,242  1,459,315  365,866  57,956  2,723,018  
+Operating income  2,669,530  625,531  3,452,471  2,491,395  61,360  9,300,287  
+Operating expenses  (1,722,008)  (153,240)  (890,095)  (134,096)  (51,983)  (2,951,422)  
+Operating profit before impairment 
+charge  947,522  472,291  2,562,376  2,357,299  9,377  6,348,865  
+Impairment (charge)/release  (212,935)  (616,306)  (511,508)  11,996  - (1,328,753)  
+Profit /(loss)  after impairment charge  734,587  (144,015)  2,050,868  2,369,295  9,377  5,020,112  
+Share in  (loss )/profit  of associates  (799)  (4,532)  - - 8,714  3,383  
+Profit /(loss)  before taxation  733,788  (148,547)  2,050,868  2,369,295  18,091  5,023,495  
+Income tax (charge)/release  (114,239)  11,530  (208,432)  (255,699)  (809)  (567,649)  
+Profit /(loss)  for the period  619,549  (137,017)  1,842,436  2,113,596  17,282  4,455,846  
+As at June 30 , 2023 (unaudited)  
+Total assets  68,717,531  46,322,020  288,231,182  207,033,482  1,938,000  612,242,215  
+       Total liabilities  89,290,752  57,924,208  205,613,033  187,994,759  712,006  541,534,758  
+ 
+The following is an analysis of the Group’s revenue and results by operating segments for the six month 
+period ended June 30 , 202 3 (unaudited) :  
+ 
+  
+      Corporate       
+   and  Investments    
+  
+  Retail  Private  investment  and  Property    
+  
+  banking  banking  banking  treasury  management  Total  
+  
+  AED'000  AED’000  AED'000  AED'000  AED'000  AED'000  
+       Net interest income  1,149,508  507,710  1,564,520  1,521,339  11,217   4,754,294  
+Net income from Islamic financing and 
+investing products  579,891  20,913   176,083  250,616  - 1,027,503  
+Total net interest income and income 
+from Islamic financing and investing 
+products  1,729,399  528,623  1,740,603  1,771,955  11,217  5,781,797  
+Non -interest income  664,161  54,241  1,077,761  259,966  133,378  2,189,507  
+Operating  income  2,393,560  582,864  2,818,364  2,031,921  144,595  7,971,304  
+Operating expenses  (1,458,409)  (122,826)  (759,899)   (122,922)   (86,179)   (2,550,235)   
+Operating profit before impairment 
+charge  935,151  460,038  2,058,465  1,908,999  58,416  5,421,069  
+Impairment (charge)/release  (209,047)  (447,851)  (856,027)   17,324  - (1,495,601)   
+Profit after impairment charge  726,104  12,187  1,202,438   1,926,323  58,416  3,925,468  
+Share in profit/(loss)  of associates  1,335  (299)   - -    - 1,036  
+Profit before taxation  727,439  11,888  1,202,438  1,926,323  58,416  3,926,504  
+Income tax release /(charge)  1,201  - (37,398)   (79,638)   - (115,835)   
+Profit  for the period  728,640  11,888  1,165,040   1,846,685  58,416  3,810,669  
+As at December 31, 2023 (audited)  
+Total assets  63,849,934  47,341,202  254,141,609  199,991,043  1,870,697  567,194,485  
+       Total liabilities  83,465,806  50,757,232  185,279,310  175,911,436  527,234  495,941,018   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+36 
+ ABU DHABI COMMERCIAL BANK PJSC  
+30.   Operating  segments (continued)  
+ 
+The following is an analysis of the Group’s revenue and results by operating segments for the three month 
+period ended June 30, 202 4 (unaudited):  
+ 
+  
+     Corporate       
+   and  Investment s   
+  
+  Retail  Private  investment  and  Property    
+  
+  banking  banking  banking  treasury  management  Total  
+  
+  AED'000  AED’000  AED'000  AED'000  AED'000  AED'000  
+Net interest income  657,398  209,225  888,928  973,147  1,719  2,730,417  
+Net income from Islamic financing and 
+investing products  322,702  18,275  138,719  66,066  - 545,762  
+Total net interest income and income 
+from Islamic financing and investing 
+products  980,100  227,500  1,027,647  1,039,213  1,719  3,276,179  
+Non -interest income  396,626  64,072  714,696  230,441  32,001  1,437,836  
+Operating income  1,376,726  291,572  1,742,343  1,269,654  33,720  4,714,015  
+Operating expenses  (884,943)  (91,026)  (451,235)  (79,016)  (28,226)  (1,534,446)  
+Operating profit before impairment 
+charge  491,783  200,546  1,291,108  1,190,638  5,494  3,179,569  
+Impairment (charge)/release  (100,666)  (265,486)  (225,427)  3,436  - (588,143)  
+Profit /(loss)  after impairment charge  391,117  (64,940)  1,065,681  1,194,074  5,494  2,591,426  
+Share in  (loss )/profit  of associates  (945)  (1,857)  - - 3,969  1,167  
+Profit /(loss)  before taxation  390,172  (66,797)  1,065,681  1,194,074  9,463  2,592,593  
+Income tax (charge)/ release  (43,136)  4,171  (109,373)  (126,736)  (484)  (275,558)  
+Profit /(loss)  for the period  347,036  (62,626)  956,308  1,067,338  8,979  2,317,035  
+ The following is an analysis of the Group’s revenue and results by operating segments for the three month 
+period ended June 30, 2023 (unaudited):  
+ 
+  
+     Corporate       
+   and  Investment s   
+  
+  Retail  Private  investment  and  Property    
+  
+  banking  banking  banking  treasury  management  Total  
+  
+  AED'000  AED’000  AED'000  AED'000  AED'000  AED'000  
+Net interest income  569,573  264,988  735,150  855,417  6,531  2,431,659  
+Net income from Islamic financing and 
+investing products  298,073  8,859  91,888  99,992  -    498,812  
+Total net interest income and income 
+from Islamic financing and investing 
+products  867,646  273,847  827,038  955,409  6,531  2,930,471  
+Non -interest income  417,738  24,055  546,881  73,417  66,732  1,128,823  
+Operating income  1,285,384  297,902  1,373,919  1,028,826  73,263  4,059,294  
+Operating expenses  (750,716)  (71,673)   (386,735)   (67,934)  (41,990)  (1,319,048)  
+Operating profit before impairment 
+charge  534,668  226,229  987,184  960,892  31,273  2,740,246  
+Impairment (charge)/release  (114,132)  (184,138)  (454,414)  5,015  - (747,669)  
+Profit after impairment charge  420,536  42,091   532,770   965,907  31,273  1,992,577  
+Share in profit/(loss)  of associates  406  (205)   - -    - 201  
+Profit  before taxation  420,942  41,886   532,770   965,907  31,273  1,992,778  
+Income tax charge  (1,674)  - (18,078)   (40,686)  - (60,438)  
+Profit  for the period  419,268  41,886   514,692   925,221  31,273  1,932,340  
+  
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+37 
+ ABU DHABI COMMERCIAL BANK PJSC  
+30.   Operating  segments (continued)  
+ 
+Other disclosures  
+ 
+The following is an analysis of the total operating income of each segment between income from external 
+parties and inter -segment.  
+ 
+  External (unaudited)    Inter -segment (unaudited)  
+ 6 months ended June 30    6 months ended June 30  
+  
+  202 4   202 3   202 4   202 3 
+  
+   AED’000     AED’000     AED’000     AED’000  
+Retail banking  2,145,424   1,999,123   524,106   394,437  
+Private banking  606,742   865,653   18,789   (282,789)  
+Corporate and investment banking  6,509,287   5,312,875   (3,056,816)   (2,494,511)  
+Investments and treasury  (22,526)   (333,108)   2,513,921   2,365,029  
+Property management  61,360   126,761   -     17,834  
+Total operating income   9,300,287   7,971,304   -  - 
+ 
+  External (unaudited)    Inter -segment (unaudited)  
+  3 months ended June 30    3 months ended June 30  
+  202 4   202 3   202 4   2023  
+   AED’000     AED’000     AED’000     AED’000  
+Retail banking  1,094,228   1,080,312   282,498   205,072  
+Private banking  218,739   425,274   72,833   (127,372)  
+Corporate and investment banking  3,386,286   2,769,380   (1,643,943)   (1,395,461)  
+Investments and treasury  (18,958)   (278,740)   1,288,612   1,307,566  
+Property management  33,720   63,068   -  10,195  
+Total operating income  4,714,015   4,059,294   -  - 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+38 
+ ABU DHABI COMMERCIAL BANK PJSC  
+30.   Operating  segments (continued)  
+ 
+Geographical information  
+ 
+The Group operates in two principal geographic areas i.e. domestic and international. The United Arab 
+Emirates is designated as domestic area which represents the operations of the Group that originates from 
+the UAE branches and subsidiaries. International area represents the operations of the Group that originates 
+from its subsidiaries outside UAE. The information regarding the Group’s revenue from continuing 
+operations and non -current assets by geographical location  are detailed as follows:  
+ 
+  
+  Domestic (unaudited)    International (unaudited)  
+  
+  6 months ended June 30    6 months ended June 30  
+  
+  202 4   2023    202 4   2023  
+  
+  AED’000    AED’000    AED’000    AED’000  
+Income         
+Net interest income and income from Islamic  
+financing and investing products  6,196,864   5,508,511   380,405   273,286  
+Non -interest income  2,663,196   2,095,331   59,822   94,176  
+ 
+  
+  Domestic (unaudited)    International (unaudited)  
+  
+  3 months ended June 30    3 months ended June 30  
+  
+  202 4   2023    202 4   2023  
+  
+  AED’000    AED’000    AED’000    AED’000  
+Income         
+Net interest income and income from Islamic  
+financing and investing products  3,094,706   2,791,387   181,473   139,084  
+Non -interest income  1,409,524   1,054,902   28,312   73,921  
+ 
+  Domestic    International  
+  As at  
+  As at    As at    As at  
+June 30  December 31    June 30    December 31  
+202 4 202 3   202 4   202 3 
+unaudited  audited    unaudited    audited  
+  AED’000    AED’000    AED’000    AED’000  
+        Non -current assets         
+Investment in associates  374,005   370,622   -     - 
+Investment properties  1,687,914   1,720,818   11,577   20,642  
+Property and equipment, net  1,668,157   1,652,014   175,558   235,582  
+Intangible assets, net  6,956,616   6,981,961   43,287   67,230  
+ 
+ 
+    
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+39 
+ ABU DHABI COMMERCIAL BANK PJSC  
+31.   Capital adequacy  ratio  
+ 
+The Bank’s capital adequacy ratio calculated in accordance with  guidelines issued by the CBUAE is as below : 
+ 
+ As at   As at  
+  
+  
+  June 30   December 31  
+  
+  
+  202 4  202 3 
+ unaudited   audited  
+  
+  
+  AED’000    AED’000  
+    Common equity tier 1 (CET1) capital     
+Share capital (Note 18 ) 7,319,947   7,319,947  
+Share premium  17,878,882   17,878,882  
+Other reserves (Note 19 ) 11,037,037   11,455,178  
+Retained earnings  26,152,716   26,602,908  
+Regulatory deductions and adjustments     
+Intangible assets, net  (6,999,903)   (7,049,191)  
+Cash flow hedge reserve  79,929   116,742  
+Employee’s in centive plan shares, net (Note 19 ) (68,924)   (78,869)  
+Revaluation reserve of investments desig nated at FVTOCI (Note 19 ) (1,068,321)   (1,086,185)  
+Other deduction  (461,590)   (457,820)  
+Proposed cash dividend  -   (4,099,170)  
+Total CET1 capital   53,869,773   50,602,422   
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additional tier 1 (AT1) capital     
+Capital notes (Note 2 0) 8,754,750   8,754,750  
+Total AT1 capital   8,754,750   8,754,750  
+    Total tier 1 capital   62,624,523   59,357,172   
+    Tier 2 capital     
+Eligible general provision  4,550,064   4,470,704  
+Total tier 2 capital   4,550,064   4,470,704      
+Total regulatory capital   67,174,587   63,827,876    
+Risk -weighted assets     
+Credit risk  364,005,117   357,656,333  
+Market risk  16,728,797   13,436,625  
+Operational risk  28,236,831   22,334,610  
+Total risk -weighted assets   408,970,745   393,427,568       
+CET1 ratio  13.17%   12.86%  
+AT1 ratio  2.14%   2.23%  
+Tier 1 ratio  15.31%   15.09%  
+Tier 2 ratio  1.12%   1.13%  
+Capital adequacy ratio  16.43%   16.22%  
+ 
+32.   Related party transactions  
+ 
+The Group  enters into transactions with the parent and its related entities, associate s, funds under 
+management, directors, senior management and their related entities and the Government of Abu Dhabi 
+(ultimate controlling party and its related entities) in the ordinary course of business at commercial  interest 
+and commission rates.  
+ 
+Key management personnel are defined as those persons having authority and responsibility for planning, 
+directing and controlling the activities of the Group, being the directors, chief executive officer and his direct 
+reports.  
+ 
+Transactions between the Bank and its subsidiaries have been eliminated on consolidation and are not 
+disclosed in this note.   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+40 
+ ABU DHABI COMMERCIAL BANK PJSC  
+32.   Related party transactions (continued)  
+ 
+Parent and ultimate controlling party  
+ 
+Mubadala Investment Company holds 60.69 % of the Bank’s issued and fully paid -up share capital through 
+its wholly owned subsidiar ies (Note 18) . The Government of Abu Dhabi owns 100% of Mubadala Investment 
+Company and so the ultimate controlling party is the Government of Abu Dhabi.  
+ 
+For details of related party balances as at December 31, 202 3, refer  note 3 7 in the consolidated financial 
+statements for the year ended December 31, 2023. For related party transactions for the six month  ended June 
+30, 2023, refer note 3 2 in the condensed consolidated interim financial information for the period ended June 
+30, 2023. The related party balances as at June 30 , 2024 and transactions f or the six  month period ended on 
+that date  are similar in nature and magnitude .  
+ 
+Related party balances and transactions of the Group included in the condensed consolidated interim 
+statement of financial position and condensed consolidated interim income statement are as follows:  
+ 
+  
+  Ultimate  
+controlling  
+party and its 
+related parties  Directors   
+and their 
+related 
+parties  Senior 
+managemen t 
+personnel  
+and their 
+related 
+parties  Associates  
+and funds 
+under 
+management  Total   
+  
+  AED’000  AED’000  AED’000  AED’000  AED’000  
+Balances as at June 30 , 202 4 (unaudited)   
+Deposits and balances due from  banks  43,106  - - - 43,106  
+Derivative financial instruments – assets  720,164  36,302  - 48 756,514  
+Investment securities  31,447,167  - - 223,753  31,670,920  
+Loans and advances to customers (*) 68,107,243  4,336,702  26,871  3,650,624  76,121,440  
+Other assets  850,759  8,837  30 2,988  862,614  
+Due to banks  401,312  - - - 401,312  
+Derivative financial instruments – liabilities  1,487,147  35,446  - - 1,522,593  
+Deposits from customers  98,928,582  716,751  78,250  1,758,840  101,482,423  
+Other liabilities  2,264,733  13,010  14,585  2,500  2,294,828  
+Capital notes  6,000,000  - - - 6,000,000  
+Commitments and contingent liabilities  32,625,659  63,780  3,572  374,165  33,067,176  
+ 
+      
+  
+Transactions for the six month period ended June 30 , 2024  (unaudited)  
+ Interest income, Islamic financing income and 
+non -interest  income  2,558,646  132,649  600  54,731  2,746,626  
+Interest expense and Islamic profit distribution  2,573,596  10,742  395  28,011  2,612,744  
+Share in profit of associates  - - - 3,383  3,383  
+Coupons paid on capital notes  351,102  - - - 351,102  
+(*) includes secured loans which are collateralised by tangible assets, including but not limited to real estate, cash, vehic les, shares and bonds.  
+   
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+41 
+ ABU DHABI COMMERCIAL BANK PJSC  
+32.   Related party transactions (continued)  
+ 
+Remuneration of senior  management employees and Board of Directors fees and expenses for the six month 
+period ended June 30 , 202 4 (unaudited) are as follows:  
+ 
+ AED’000  
+  Short term benefits  25,724  
+Post -employment benefits  1,400  
+Variable pay benefits  24,726  
+Total remuneration  51,850  
+  Board of Directors fees and expenses  15,047  
+ 
+In addition to the above, the key management personnel were granted long term deferred compensation 
+including share based payments of AED 35,634 thousand.  
+ 
+33.   Fair value hierarchy  
+ 
+Fair value measurements recognised in the condensed consolidated interim financial information  
+ 
+The fair value measurements are categorised into different levels in the fair value hierarchy based on the 
+inputs to valuation techniques used. The different levels are defined as follows:   
+ 
+Quoted market prices – Level 1  
+ 
+Financial instruments are classified as Level 1 if their values are observable in an active market. Such 
+instruments are valued by reference to unadjusted quoted prices for identical assets or liabilities in active 
+markets where the quoted price is readily available, and the price represents actual and regularly occurring 
+market transactions.    
+ 
+Valuation techniques using observable inputs – Level 2  
+ 
+Financial instruments classified as Level 2 have been valued using models whose inputs are observable in an 
+active market. Valuation based on observable inputs includes financial instruments such as swaps and 
+forwards which are valued using market standard  pricing techniques and options that are commonly traded 
+in markets where all the inputs to the market standard pricing models are observable.  
+ 
+The category includes derivative financial instruments such as over the counter (OTC) derivatives, 
+commodity de rivatives, foreign exchange spot and forward contracts, certain investment securities, financial 
+assets at FVTPL, euro commercial paper and borrowings. Valuation of the derivative financial instruments is made through discounted cash flow method using the applicable yield curve for the duration of the 
+instruments for non -optional derivatives and standard option pricing models such as Black -Scholes and 
+other valuation models for derivatives with options.   
+ 
+The Group periodically reviews its valuation techni ques including the adopted methodologies and model 
+calibrations. However, the base models may not fully capture all factors relevant to the valuation of the 
+Group’s financial instruments such as credit risk  and funding costs. Therefore, the Group applies v arious 
+techniques to estimate the credit risk associated with its financial instruments measured at fair value, which 
+include a portfolio -based approach that estimates the expected net exposure per counterparty over the full 
+lifetime of the individual assets, in order to reflect the credit risk of the individual counterparties for non -
+collateralised financial instruments. Credit valuation adjustment is calculated by applying Monte -carlo 
+simulation models.  
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+42 
+ ABU DHABI COMMERCIAL BANK PJSC  
+33.   Fair value hierarchy (continued)  
+ 
+Valuation  techniques using observable inputs – Level 2 (continued)  
+ 
+Collateral and netting arrangements are taken into account where applicable. The Group applies credit value 
+adjustments to all relevant OTC positions with the exception of positions settled through central clearing 
+houses.   
+ 
+Funding value adjustment (FVA)  reflects the impact of funding associated with collateralised and partly 
+collateralised OTC positions. The Group calculates the FVA by applying estimated future funding costs to the expected future exposure that the Group will be required to fund as a res ult of the uncollateralised 
+component of the OTC portfolio (i.e. the uncollateralised component of a collateralised portfolio and the entire uncollateralised portfolio).  
+ 
+Valuation techniques using significant unobservable inputs – Level 3  
+ 
+Financial instruments are classified as Level 3 if their valuation incorporates significant inputs that are not 
+based on observable market data (unobservable inputs). A valuation input is considered observable if it can 
+be directly observed from transactio ns in an active market.  
+ 
+Unobservable input levels are generally determined based on observable inputs of a similar nature, historical 
+observations, or other analytical techniques. This hierarchy requires the use of observable market data when 
+available. The Group  considers relevant and observable market prices in its valuations where possible.  
+ Financial instruments under this category mainly include private equity instruments, funds and loans and 
+advances to customers mandatorily measured at FVTPL. The carrying values of these investments are 
+adjusted as follows:  
+ 
+a) Private equity instruments – using the latest available net book value;  
+b) Funds – based on the net asset value provided by the fund manager; and  
+c) Loans and advances to customers mandatorily measur ed at FVTPL – using valuation provided by external 
+consultants as per discounted cash flow methodology.  
+ 
+Investment properties are classified as Level 3 as their valuation incorporates significant unobservable 
+inputs. The significant unobservable inputs used in the fair value measurement of the Group’s investment 
+properties are rental income and capitalisation rates. Significant decrease in rental income, or increase in 
+capitalisation rates, in isolation would result in  a significant lower fair value measurement. Generally, a 
+change in the assumption used for rental income should be accompanied by a change in the assumption for capitalisation rates in the same direction as increase in rental income raises the expectation s of the seller to 
+earn from the investment property. Therefore, the effects of these changes partially offset each other. Refer note 1 1 in respect of valuation methodology used for investment properties.  
+ 
+Except as detailed in the following table, the Man agement considers that the carrying amounts of financial 
+assets and liabilities recognised in the consolidated financial statements do not materially differ from their 
+fair values.  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+43 
+ ABU DHABI COMMERCIAL BANK PJSC  
+33.   Fair value hierarchy (continued)  
+ 
+    Level 1  Level 2  Level  3     
+  Quoted 
+market 
+prices  Observable 
+inputs  Significant 
+unobservable 
+inputs  Total fair 
+value  Carrying 
+value  
+  Note s AED’000  AED’000  AED’000  AED’000  AED’000  
+As at June 30 , 2024 (unaudited)        
+Assets at fair value         
+Financial assets at fair  value through 
+profit or loss  6 2,420,536  9,493,822  30,000  11,944,358  11,944,358  
+Derivative financial instruments  7 4,347  17,500,038  - 17,504,385  17,504,385  
+Investment securities , net    8      
+- At fair value through other           
+comprehensive income   34,054,561  758,663  102,828  34,916,052  34,916,052  
+- At amortised cost   94,845,261  100,913  - 94,946,174  97,693,325  
+Loans and advances to customers 
+mandatorily measured at FVTPL  9 - - 3,298,067  3,298,067  3,298,067  
+Investment properties   11 - - 1,699,491  1,699,491  1,699,491  
+Total   131,324,705  27,853,436  5,130,386  164,308,527  167,055,678  
+Liabilities at fair value         
+Derivative financial instruments  7 2,700  20,014,403  - 20,017,103  20,017,103  
+Liabilities at amortised cost        
+Euro commercial paper  15 -    5,738,402  - 5,738,402  5,736,502  
+Borrowings  16 11,240,274  70,368,981  - 81,609,255  82,849,138  
+Total   11,242,974  96,121,786  - 107,364,760  108,602,743  
+As at December 31, 2023 (audited)        
+Assets at fair value         
+Financial assets at fair value through 
+profit or loss  6 1,419,562  8,643,458  - 10,063,020  10,063,020  
+Derivative financial instruments  7 7,804  13,851,282  - 13,859,086  13,859,086  
+Investment securities , net   8      
+- At fair value through other           
+comprehensive income   39,243,131  2,067,949  110,288  41,421,368  41,421,368  
+- At amortised cost   84,402,121  201,140  - 84,603,261  86,847,029  
+Loans and advances to customers 
+mandatorily measured at FVTPL  9 - - 3,249,938  3,249,938  3,249,938  
+Investment properties  11 - - 1,741,460  1,741,460  1,741,460  
+Total   125,072,618  24,763,829  5,101,686  154,938,133  157,181,901  
+Liabilities at fair value        
+Derivative financial instruments  7 4,257  16,235,238  - 16,239,495  16,239,495  
+Liabilities at amortised cost        
+Euro commercial paper  15 - 7,786,619  - 7,786,619  7,777,655  
+Borrowings  16 11,496,614  63,328,708  - 74,825,322  76,653,334  
+Total   11,500,871  87,350,565  - 98,851,436  100,670,484  
+ 
+The Group’s OTC derivatives in the trading book are classified as Level 2 as they are valued using inputs that 
+can be observed in the market.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Notes to the condensed consolidated interim financial information  
+For the six month period ended June 30, 20 24 
+ 
+44 
+ ABU DHABI COMMERCIAL BANK PJSC  
+33.   Fair value hierarchy (continued)  
+ 
+Reconciliation showing the movement in fair values of Level 3 investments designated at FVTOCI  and FVTPL  
+and loans and advances to customers mandatorily measured at FVTPL is as follows:  
+ 
+  
+  
+  
+  
+  As at  As at  
+  
+  
+  
+  
+  June 30  December 31  
+  
+  
+  
+  
+  2024  2023  
+ unaudited  audited  
+  
+  
+  
+  
+  AED’000  AED’000  
+   Opening balance  3,360,226  3,258,157  
+Net additions  during the period/ year  78,127  145,978   
+Disposals including capital refunds during the period/ year  (373)  (64,000)  
+Adjustment through other comprehensive income during the period/ year  (7,085 ) 20,091   
+Closing balance  3,430,89 5 3,360,226  
+ 
+Net gain  of AED  373 thousand (for the six  month  period ended June 30 , 202 3 – net gain  of AED 304  thousand ) 
+was realised on disposal of Level 3 equity investments  designated  at FVTOCI and were transferred to 
+retained earnings.  
+ 
+34.   Legal proceedings  
+ 
+The Group is  involved in various legal proceedings and claims arising in the ordinary course of business. 
+While the  outcome of these matters cannot be predicted with certainty, management does not believe that 
+these matters will have a material adverse effect on the G roup’s condensed consolidated interim financial 
+information if disposed unfavourably.   
+  

@@ -1,0 +1,53 @@
+17 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+6. Due from banks and financial institutions (continued)  
+ 
+6.4 Based on external credit ratings  
+ 30 June  
+2024  
+31 December 
+2023 
+ AED’000   AED’000  
+ Unaudited   Audited  
+AA 6,737   627 
+AA− 33,357   33,578  
+A+ 198,093   35,930  
+A 961,846   1,197,784  
+BBB+  465,626   593,770  
+BBB 2,357   3,981  
+BBB− and below  609,935  240,331  
+ 2,277, 951  2,106,001  
+Less: Allowances for impairment (ECL)  (note 10 ) (4,643)   (4,501)  
+ 2,273, 308  2,101,500  
+ 
+6.5 Due from banks and financial institutions stage -wise analysis  
+ 
+The following table contains an analysis of the credit risk exposure of due from banks and financial 
+institutions . The gross carrying amount of due from banks and financial institutions , including accrued 
+interest / profit, represents the Group’s maximum exposure to credit risk on these assets:  
+ 
+                                                                                             30 June 2024  (Unaudited)  
+AED’000  Stage 1  Stage 2  Stage 3  Total  
+     
+Outstanding balance  2,296,117  - - 2,296,117  
+Allowances for impairment (ECL) (note 10 ) (4,643)  - - (4,643)  
+Carrying amount  2,291,474  - - 2,291,474  
+ 
+ 
+ 
+                                                                                            31 December 2023 (Audited)   
+AED’000  Stage 1  Stage 2  Stage 3  Total  
+     
+Outstanding balance  2,130,149   - - 2,130,149  
+Allowances for impairment (ECL) (note 10 ) (4,501)  - - (4,501)  
+Carrying amount  2,125,648  - - 2,125,648  
+ 
+ 
+Due from banks and financial institutions were in stage 1 throughout the period. Accordingly, there have 
+been no significant movements between stages in respect of these financial assets. 
+  

@@ -1,0 +1,908 @@
+page_no,table_no,type,column_no,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10,col11,col12,col13,col14,col15,col16
+page_25,1,T.header,7,Instrument,Currency (CCY),Within 1 year (AED'000),1-3 years (AED'000),3-5 years (AED'000),Over 5 years (AED'000),Total (AED'000),null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,Global medium term notes,Australian dollar (AUD),0,0,868091,140883,1008974,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Chinese renminbi (CNH),220468,333521,154233,0,708222,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Euro (EUR),79763,0,0,0,79763,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Swiss franc (CHF),1558795,0,0,0,1558795,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Hong Kong dollar (HKD),72268,70263,0,0,142531,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,US dollar (USD),2792254,2633544,6047621,19897712,31371131,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Great Britain pound (GBP),181759,0,0,0,181759,null,null,null,null,null,null,null,null,null
+page_25,1,T.value,7,nan,Indonesian rupiah (IDR),0,0,0,475867,475867,null,null,null,null,null,null,null,null,null
+page_25,2,T.header,5,Total within 1 year (AED'000),Total 1-3 years (AED'000),Total 3-5 years (AED'000),Total Over 5 years (AED'000),Overall Total (AED'000),null,null,null,null,null,null,null,null,null,null,null
+page_25,2,T.value,5,4905307,3037328,7069945,20514462,35527042,null,null,null,null,null,null,null,null,null,null,null
+page_25,3,T.header,6,Currency (CCY),Within 1 year (AED'000),1-3 years (AED'000),3-5 years (AED'000),Over 5 years (AED'000),Total (AED'000),null,null,null,null,null,null,null,null,null,null
+page_25,3,T.value,6,US dollar (USD),616467,733243,3031082,0,4380792,null,null,null,null,null,null,null,null,null,null
+page_25,3,T.value,6,Kazakhstan tenge (KZT),0,0,82265,0,82265,null,null,null,null,null,null,null,null,null,null
+page_25,4,T.header,6,Currency (CCY),Within 1 year (AED'000),1-3 years (AED'000),3-5 years (AED'000),Over 5 years (AED'000),Total (AED'000),null,null,null,null,null,null,null,null,null,null
+page_25,4,T.value,6,Great Britain pound (GBP),791054,0,0,0,791054,null,null,null,null,null,null,null,null,null,null
+page_25,4,T.value,6,US dollar (USD),864316,0,0,0,864316,null,null,null,null,null,null,null,null,null,null
+page_25,4,T.value,6,Euro (EUR),120490,0,0,0,120490,null,null,null,null,null,null,null,null,null,null
+page_25,5,T.header,5,Currency (CCY),Within 1 year (AED'000),1-3 years (AED'000),Over 5 years (AED'000),Total (AED'000),null,null,null,null,null,null,null,null,null,null,null
+page_25,5,T.value,5,US dollar (USD),32205548,2677410,0,34882958,null,null,null,null,null,null,null,null,null,null,null
+page_25,5,T.value,5,Egyptian pound (EGP),0,0,4417,4417,null,null,null,null,null,null,null,null,null,null,null
+page_25,6,T.header,1,Total borrowings (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_25,6,T.value,1,76653334,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_25,7,T.header,2,Hedged Borrowings (AED'000),Net negative fair value of swaps (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_25,7,T.value,2,37471801,5688366,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.header,6,Instrument,CCY,Within 1 year,1-3 years,3-5 years,Over 5 years,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,AUD,-,Fixed rate of 4.50% p.a.,Fixed rate between 2.696% p.a. to 2.80% p.a.,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,CNH,Fixed rate of 3.33% p.a.,Fixed rate between 3.20% to p.a. 3.415% p.a.,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,EUR,Fixed rate of 0.75% p.a.,-,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,CHF,Fixed rate between 0.05% p.a. to 0.51% p.a.,-,-,Fixed rate of 2.023% p.a.,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,HKD,-,Fixed rate of 1.34% p.a.,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,USD,Quarterly coupons between 129 to 141 basis points over SOFR,Fixed rate between 1.63% p.a. to 5.10% p.a. and quarterly coupon of 88 basis points over SOFR,Fixed rate between 4.50% p.a. to 5.50% p.a. and quarterly coupons between 110 to 166 basis points over SOFR.,"Fixed rate between 4.65% p.a. to 5.00% p.a., quarterly coupon of 140 basis points over SOFR. and zero coupon with an internal rate of return between 3.271% p.a. to 5.785% p.a.",null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,GBP,Fixed rate of 0.95% p.a.,-,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Global medium term notes,IDR,-,Fixed rate of 8.16% p.a.,Fixed rate of 7.50% p.a.,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Bilateral loans,USD,-,Monthly coupon between 68 to 85 basis points over SOFR.,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Bilateral loans,KZT,-,Fixed rate of 9.50% p.a.,Fixed rate of 8.50% p.a.,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Certificate of deposits issued,GBP,Zero coupon with an internal rate between 5.33% p.a. to 5.46% p.a.,-,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Certificate of deposits issued,USD,Zero coupon with an internal rate between 5.53% p.a. to 5.57% p.a.,-,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Certificate of deposits issued,EUR,Zero coupon with an internal rate between 3.94% p.a. to 4.01% p.a.,-,-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Borrowings through repurchase agreements,USD,"Fixed rate between 5.43% p.a. to 5.82% p.a., monthly coupon of 37 basis points over SOFR, quarterly coupons between 32 to 76 basis points over SOFR and coupons at maturity between 30 to 60 basis points over SOFR","Monthly coupon of 68 basis points over SOFR, quarterly coupons between 64 to 65 basis points over SOFR and semi-annual coupons between negative 18 to 20 basis points over SOFR.",-,-,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Borrowings through repurchase agreements,EGP,-,-,-,Fixed rate between 0.50% p.a. to 3.50% p.a.,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,Accreting notes,AED,nan,nan,"AED 15,677,183 thousand accreting notes issued with original tenors ranging from 30 years to 40 years with internal rate of return ranging between 3.271% p.a. to 5.785% p.a. and are callable at the end of every 5th, 6th, 7th, or 10th year from issue date",nan,null,null,null,null,null,null,null,null,null,null
+page_26,1,T.value,6,nan,nan,nan,nan,nan,nan,null,null,null,null,null,null,null,null,null,null
+page_26,2,T.header,2,Description,Value,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_26,2,T.value,2,Net cash collateral placed against margin calls,"AED 79,545 thousand (December 31, 2023 - AED 177,275 thousand)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.header,2,Name,Registration No.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Akbar Ahmad,1141,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Cynthia Corby,995,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Faeza Sohawon,5508,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Firas Anabtawi,5482,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Georges Najem,809,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Jazala Hamad,1267,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Mohammad Jallad,1164,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Mohammad Khamees Al Tah,717,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Musa Ramahi,872,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Mutasem M. Dajani,726,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Nurani Subramanian Sundar,5540,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Obada Alkowatly,1056,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Rama Padmanabha Acharya,701,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,1,T.value,2,Samir Madbak,386,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.header,2,Section,Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Date,"August 17th, 2016",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Address,"Deloitte & Touche (M.E.), Level 11, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, P.O. Box 990, Abu Dhabi, United Arab Emirates",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Tel,+971 (0) 2 408 2424,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Fax,+971 (0) 2 408 2525,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Website,www.deloitte.com,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Review Date,30 June 2024,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Management Responsibility,Preparation and presentation of interim financial information in accordance with IAS 34,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Review Scope,Conducted in accordance with International Standard on Review Engagements 2410,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Conclusion,"Nothing has come to our attention that causes us to believe that the accompanying interim financial information is not prepared, in all material respects, in accordance with IAS 34.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Other Matter,Group’s consolidated financial statements for the year ended 31 December 2023 were audited and expressed an unmodified opinion.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Prepared By,Muhammad Khamees Al Tah,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Registration No.,717,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Report Date,18 July 2024,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_3,2,T.value,2,Location,"Abu Dhabi, United Arab Emirates",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,1,T.header,8,As at,Murabaha,Ijara financing,Salam,Others,Gross Islamic financing assets,Less: Allowance for impairment,Net Islamic financing assets,null,null,null,null,null,null,null,null
+page_20,1,T.value,8,"June 30, 2024",28260208,13211777,404730,874674,42751389,1901774,40849615,null,null,null,null,null,null,null,null
+page_20,1,T.value,8,"December 31, 2023",27428630,13564254,436063,673992,42102939,2080769,40022170,null,null,null,null,null,null,null,null
+page_20,2,T.header,4,Economic Activity Sector,Within UAE,Outside UAE,Total,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Agriculture,202498,134579,337077,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Energy,1204993,12280627,13485620,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Trading,14187608,12673816,26861424,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Real estate investment,51132756,1523179,52655935,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Hospitality,7608645,0,7608645,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Transport and communication,2374186,6595133,8969319,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Personal,68857371,921059,69778430,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Government and public sector entities,84604461,9319013,93923474,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Financial institutions,14071439,15118469,29189908,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Manufacturing,4219416,5657473,9876889,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Services,8786717,340699,9127416,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,2,T.value,4,Others,16556162,4013719,20569881,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,3,T.header,2,Category,Amount (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,3,T.value,2,Gross loans and advances to customers,342384018,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,3,T.value,2,Less: Allowance for impairment,-10225727,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,3,T.value,2,"Total loans and advances to customers, net",332158291,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,4,T.header,3,Date,Amount (AED’000),Net Negative Fair Value (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,4,T.value,3,"June 30, 2024",18224393,34069,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_20,4,T.value,3,"December 31, 2023",4810969,4057,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.header,2,"As at June 30, 2024 (unaudited) AED’000","As at December 31, 2023 (audited) AED’000",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"4,798,355","4,214,193",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"3,059,087","2,973,069",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"5,112,511","2,047,128",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"200,000","200,000",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"29,604,937","28,315,981",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"42,774,890","37,750,371",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"(117,091)","(125,677)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"42,657,799","37,624,694",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"2,443,496","1,337,705",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,1,T.value,2,"40,331,394","36,412,666",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,2,T.header,3,Item,"June 30, 2024 (AED)","December 31, 2023 (AED)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,2,T.value,3,Fair value of reference assets,"12,883,157","12,524,770",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,2,T.value,3,Posted against Repo borrowings,"2,690,106","5,641,405",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,2,T.value,3,Net cash collateral posted,"77,442","91,832",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.header,2,"As at June 30, 2024 (unaudited) AED’000","As at December 31, 2023 (audited) AED’000",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"3,143,015","2,172,904",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"30,000",0,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"8,771,343","7,890,116",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"11,944,358","10,063,020",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"2,093,282","1,419,562",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"9,851,076","8,643,458",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_15,3,T.value,2,"93,682","119,139",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.header,3,Deposit Type,As at June 30 2024 (unaudited) AED’000,As at December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Time deposits,"218,074,588","195,251,700",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Current account deposits,"138,648,902","137,448,035",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Savings deposits,"29,765,915","27,497,278",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Long term government deposits,"215,054","280,417",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Margin deposits,"3,256,099","2,427,609",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,1,T.value,3,Total deposits from customers,"389,960,558","362,905,039",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.header,3,Deposit Type,As at June 30 2024 (unaudited) AED’000,As at December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Current account deposits,"18,299,374","16,419,267",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Margin deposits,"176,366","200,115",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Mudaraba savings deposits (*),"18,472,313","17,433,920",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Mudaraba term deposits,"683,519","792,424",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Murabaha term deposits,"1,196,661","2,180,907",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Wakala deposits,"20,865,001","20,429,772",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,2,T.value,3,Total Islamic deposits,"59,693,234","57,456,405",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,3,T.header,3,Currency,As at June 30 2024 (unaudited) AED’000,As at December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,3,T.value,3,US dollar (USD),"3,775,263","3,728,810",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,3,T.value,3,Euro (EUR),"1,149,727","1,362,606",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,3,T.value,3,Great Britain pound (GBP),"811,512","2,686,239",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,3,T.value,3,Total euro commercial paper,"5,736,502","7,777,655",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,4,T.header,3,Type,As at June 30 2024 AED’000,As at December 31 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,4,T.value,3,Customer deposits hedged for foreign currency and interest rate risks,"31,608,913","27,924,885",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,4,T.value,3,Net negative fair value of swaps,"62,095","19,056",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,5,T.header,3,Type,As at June 30 2024 AED’000,As at December 31 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,5,T.value,3,Euro commercial paper hedged for foreign currency,"1,961,239","4,048,844",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,5,T.value,3,Net negative fair value of hedge contracts,"6,923","108,246",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,6,T.header,2,Type,Effective Interest Rate Range,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_23,6,T.value,2,Zero coupon ECPs,3.77% p.a. to 6.03% p.a. (2023: 3.91% p.a. to 6.14% p.a.),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,1,T.header,6,As at,Currency,Interest rate,First call date,June 30 2024 (AED’000),December 31 2023 (AED’000),null,null,null,null,null,null,null,null,null,null
+page_30,1,T.value,6,As at,Government of Abu Dhabi AT1 Capital Notes,AED,Floating interest rate of 6 month EIBOR plus 2.30% p.a. payable on semi-annual basis,"6,000,000","6,000,000",null,null,null,null,null,null,null,null,null,null
+page_30,1,T.value,6,As at,"USD 750,000,000 AT1 Capital Notes",USD,"Fixed rate of 8.00% p.a. from issue date but excluding the first reset date (May 27, 2029) payable on semi-annual basis","2,754,750","2,754,750",null,null,null,null,null,null,null,null,null,null
+page_30,1,T.value,6,Total,nan,nan,"8,754,750","8,754,750",nan,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.header,2,Description,Amount (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,Regulatory general provision requirement as per CBUAE circular no 28/2010,"5,460,077",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,Less: Stage 1 and 2 impairment provision,"5,011,703",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,Reserve created from retained earnings under CBUAE circular no 28/2010,"448,374",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,"Balance of IFRS 9 reserve - general as at January 1, 2024",-,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,Add: Reserve created from retained earnings under CBUAE circular no 28/2010,"448,374",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_30,2,T.value,2,"Balance of IFRS 9 reserve - general as at June 30, 2024","448,374",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.header,2,Type,AED'000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.value,2,Short term benefits,25724,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.value,2,Post-employment benefits,1400,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.value,2,Variable pay benefits,24726,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.value,2,Total remuneration,51850,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,1,T.value,2,Board of Directors fees and expenses,15047,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,2,T.header,2,Type,AED'000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_41,2,T.value,2,Key management personnel long term deferred compensation including share based payments,35634,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.header,4,"Interest income, Islamic financing income and non-interest income",Interest expense and Islamic profit distribution,Share in profit of associates,Coupons paid on capital notes,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.value,4,2558646,2573596,0,351102,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.value,4,132649,10742,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.value,4,600,395,0,0,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.value,4,54731,28011,3383,0,null,null,null,null,null,null,null,null,null,null,null,null
+page_40,2,T.value,4,2746626,2612744,3383,351102,null,null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.header,5,Notes,3 months ended June 30 2024 AED’000,3 months ended June 30 2023 AED’000,6 months ended June 30 2024 AED’000,6 months ended June 30 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Interest income,"7,467,341","5,994,257","14,829,407","11,381,378",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Interest expense,"(4,736,924)","(3,562,598)","(9,322,604)","(6,627,084)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Net interest income,"2,730,417","2,431,659","5,506,803","4,754,294",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Income from Islamic financing and investing products,"858,329","720,437","1,705,819","1,430,012",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Distribution on Islamic deposits and profit paid to sukuk holders,"(312,567)","(221,625)","(635,353)","(402,509)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Net income from Islamic financing and investing products,"545,762","498,812","1,070,466","1,027,503",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Total net interest income and income from Islamic financing and investing products,"3,276,179","2,930,471","6,577,269","5,781,797",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Net fees and commission income,"808,864","723,783","1,511,746","1,256,378",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Net trading income,"479,558","382,984","1,003,285","838,428",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Other operating income,"149,414","22,056","207,987","94,701",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Operating income,"4,714,015","4,059,294","9,300,287","7,971,304",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Operating expenses,"(1,534,446)","(1,319,048)","(2,951,422)","(2,550,235)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Operating profit before impairment charge,"3,179,569","2,740,246","6,348,865","5,421,069",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Impairment charge,"(588,143)","(747,669)","(1,328,753)","(1,495,601)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Profit after impairment charge,"2,591,426","1,992,577","5,020,112","3,925,468",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Share in profit of associates,"1,167",201,"3,383","1,036",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Profit before taxation,"2,592,593","1,992,778","5,023,495","3,926,504",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Income tax charge,"(275,558)","(60,438)","(567,649)","(115,835)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Profit for the period,"2,317,035","1,932,340","4,455,846","3,810,669",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Attributable to:,nan,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Equity holders of the Bank,"2,317,512","1,932,848","4,457,368","3,811,824",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Non-controlling interests,(477),(508),"(1,522)","(1,155)",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Profit for the period,"2,317,035","1,932,340","4,455,846","3,810,669",null,null,null,null,null,null,null,null,null,null,null
+page_5,1,T.value,5,Basic and diluted earnings per share (AED),0.30,0.26,0.56,0.50,null,null,null,null,null,null,null,null,null,null,null
+page_21,1,T.header,6,Stage wise loans and advances to customers at amortised cost and associated impairment allowance,Stage,Gross loans and advances to customers AED’000,Allowance for impairment AED’000,"Gross loans and advances to customers AED’000 (Dec 31, 2023)","Allowance for impairment AED’000 (Dec 31, 2023)",null,null,null,null,null,null,null,null,null,null
+page_21,1,T.value,6,Stage 1,312664432,1678262,280397613,1908231,nan,null,null,null,null,null,null,null,null,null,null
+page_21,1,T.value,6,Stage 2,15315954,3164408,17966876,3486925,nan,null,null,null,null,null,null,null,null,null,null
+page_21,1,T.value,6,Stage 3,10071637,5083829,9486051,4784708,nan,null,null,null,null,null,null,null,null,null,null
+page_21,1,T.value,6,Purchased or originated credit-impaired,1033928,299228,1582963,508978,nan,null,null,null,null,null,null,null,null,null,null
+page_21,1,T.value,6,Total,339085951,10225727,309433503,10688842,nan,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.header,4,Impairment allowances movement,As at,June 30 2024 (unaudited) AED’000,December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Opening balance,"11,433,990","12,423,116",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Charge for the period/year,"1,596,483","3,793,069",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Recoveries / modifications during the period/year,"(267,730)","(315,951)",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Net charge for the period/year,"1,328,753","3,477,118",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Adjustments to gross carrying value for the period/year,"3,568","95,198",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Net amounts written-off during the period/year,"(1,778,540)","(4,524,971)",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Impact of currency translation,"(66,981)","(36,471)",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,2,T.value,4,Total impairment allowances,"10,920,790","11,433,990",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.header,4,Allocation of impairment allowances,Item,June 30 2024 (unaudited) AED’000,December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Balances with central banks (Note 4),197,269,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Deposits and balances due from banks (Note 5),"117,091","125,677",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Investment securities at amortised cost (Note 8),"21,243","23,465",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Investment securities designated at FVTOCI (Note 8),"45,857","53,981",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Loans and advances to customers (Note 9),"10,225,727","10,688,842",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Other assets (Note 12),"15,310","17,720",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,"Letters of credit, guarantees and other commitments (Note 17)","495,365","524,036",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_21,3,T.value,4,Total impairment allowances,"10,920,790","11,433,990",nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.header,4,Description,Notes,As at June 30 2024 (unaudited) AED’000,As at December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Assets,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Cash and balances with central banks, net",4.0,"38,963,801","45,375,462",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Deposits and balances due from banks, net",5.0,"42,657,799","37,624,694",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Financial assets at fair value through profit or loss,6.0,"11,944,358","10,063,020",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Derivative financial instruments,7.0,"17,504,385","13,859,086",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Investment securities, net",8.0,"132,609,377","128,268,397",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Loans and advances to customers, net",9.0,"332,158,291","301,994,599",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Investment in associates,nan,"374,005","370,622",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Investment properties,11.0,"1,699,491","1,741,460",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Other assets, net",12.0,"25,487,090","18,960,358",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Property and equipment, net",nan,"1,843,715","1,887,596",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,"Intangible assets, net",nan,"6,999,903","7,049,191",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Total assets,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Liabilities,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Due to banks,13.0,"10,809,164","8,794,968",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Derivative financial instruments,7.0,"20,017,103","16,239,495",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Deposits from customers,14.0,"389,960,558","362,905,039",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Euro commercial paper,15.0,"5,736,502","7,777,699",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Borrowings,16.0,"82,849,138","76,653,334",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Other liabilities,17.0,"32,162,293","23,570,527",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Total liabilities,nan,"541,534,758","495,941,018",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Equity,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Share capital,18.0,"7,319,947","7,319,947",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Share premium,nan,"17,878,882","17,878,882",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Other reserves,19.0,"10,477,140","10,591,907",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Retained earnings,nan,"26,271,817","26,701,111",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Capital notes,20.0,"8,754,750","8,754,750",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Equity attributable to equity holders of the Bank,nan,"70,702,536","71,246,597",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Non-controlling interests,nan,"4,921","6,870",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Total equity,nan,"70,707,457","71,253,467",null,null,null,null,null,null,null,null,null,null,null,null
+page_2,1,T.value,4,Total liabilities and equity,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.header,2,Description,Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Transactions eliminated on consolidation,"All intragroup balances, income, expenses and cash flows resulting from intragroup transactions are eliminated on consolidation.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Investment in associates,Associates are those entities in which the Group has significant influence. Significant influence is the power to participate in the financial and operating policy decisions of the investee but not control or joint control over those policies.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Accounting method,Investments in associates are accounted for using the equity method and are recognised initially at cost. The cost of the investments includes transaction costs.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Recognition of share of profit or loss,"The condensed consolidated interim financial information includes the Group’s share of the profit or loss and other comprehensive income of investment in associates, after adjustments to align the accounting policies with those of the Group, from the date that significant influence commences until the date that significant influence ceases.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Share of losses,"When the Group’s share of losses exceeds its interest in an equity-accounted investee, the carrying amount of the investment, including any long-term interests that form part thereof, is reduced to zero, and the recognition of further losses is discontinued except to the extent that the Group has an obligation or has made payments on behalf of the investee.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Joint arrangements,"Joint arrangements are arrangements of which the Group has joint control, established by contracts requiring unanimous consent for decisions about the activities that significantly affect the arrangements’ returns.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Joint operation,"When the Group has rights to the assets and obligations for the liabilities, relating to an arrangement, it accounts for each of its assets, liabilities and transactions, including its share of those held or incurred jointly, in relation to the joint operation.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,1,T.value,2,Joint venture,"When the Group has rights only to the net assets of the arrangements, it accounts for its interest using the equity method, as for associates.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.header,2,Description,Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,Corporate Tax Law (CT Law),"On December 9, 2022, the United Arab Emirates (UAE) Ministry of Finance (MoF) released Federal Decree-Law No 47 of 2022 on the Taxation of Corporations and Businesses, Corporate Tax Law (CT Law) to enact a new CT regime in the UAE.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,Effective date,"The new CT regime has become effective for accounting periods beginning on or after June 1, 2023.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,First tax period,"As the Group’s accounting year ends on December 31, the first tax period will be the period from January 1, 2024 to December 31, 2024, with the respective tax return to be filed on or before September 30, 2025.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,Tax rate,"The taxable income of the entities that are in scope for UAE CT purposes will be subject to the rate of 9% on taxable profits above AED 375,000.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,Global Minimum Tax rate,It is not currently foreseen that the Group’s UAE operations will be subject to the application of the Global Minimum Tax rate of 15% in financial year 2024.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_13,2,T.value,2,Dependency on BEPS 2 rules,The application is dependent on the implementation of Base Erosion Profit Shifting (BEPS 2) - Pillar Two rules by countries where the Group operates and the enactment of Pillar Two rules by the UAE MoF.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.header,2,Segment,Description,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.value,2,Retail banking,"Comprises of retail products, wealth management, Islamic financing and investment in associates. It includes loans, deposits and other transactions and balances with retail customers.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.value,2,Private banking,"Comprises of high net worth customers, asset management, brokerage, Islamic financing and investment in associates. It includes loans, deposits and other transactions and balances with corporate and private accounts of high net worth individuals and fund management activities.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.value,2,Corporate and investment banking,"Comprises of business banking, cash management, trade finance, corporate finance, small and medium enterprise financing, investment banking, Islamic financing, infrastructure and asset finance, government and public enterprises. It includes loans, deposits and other transactions and balances with corporate customers. During the period, in line with Group’s business strategy, some private banking clients have been transferred from private banking segment to corporate and investment banking segment. Accordingly, financial performance and results of these private banking customers have been reported under Corporate and investment banking segment for the current and prior period.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.value,2,Investments and treasury,"Comprises of central treasury operations, management of the Group’s investment portfolio and interest rate, currency and commodity derivative portfolio and Islamic financing. Investments and treasury undertakes the Group’s funding and centralised financial risk management activities through borrowings, issue of debt securities and use of derivatives for risk management. It also undertakes trading and corporate finance activities and investing in liquid assets such as short-term placements, corporate and government debt securities.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_34,1,T.value,2,Property management,"Comprises of engineering service operations of subsidiaries, real estate management income of associate and rental income earned from properties of the Group.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.header,5,Corporate and Investment Banking,Retail Banking,Private Banking,Investment Treasury Management,Total,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,657398,209225,888928,973147,2730417,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,322702,18275,138719,66066,545762,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,980100,227500,1027647,1039213,3276179,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,396626,64072,714696,230441,1437836,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,1376726,291572,1742343,1269654,4714015,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,(884943),(91026),(451235),(79016),(1534446),null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,491783,200546,1291108,1190638,3179569,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,(100666),(265486),(225427),(3436),(588143),null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,391117,(64940),1065681,1194074,2591426,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,(945),(1857),0,0,1167,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,390172,(66797),1065681,1194074,2592593,null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,(43136),4171,(109373),(126736),(275558),null,null,null,null,null,null,null,null,null,null,null
+page_36,1,T.value,5,347036,(62626),956308,1067338,2317035,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.header,5,Corporate and Investment Banking,Retail Banking,Private Banking,Investment Treasury Management,Total,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,569573,264988,735150,855417,2431659,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,298073,8859,91888,99992,498812,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,867646,273847,827038,955409,2930471,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,417738,24055,546881,73417,1128823,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,1285384,297902,1373919,1028826,4059294,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,(750716),(71673),(386735),(67934),(1319048),null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,534668,226229,987184,960892,2740246,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,(114132),(184138),(454414),(5015),(747669),null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,420536,42091,532770,965907,1992577,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,406,(205),0,0,201,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,420942,41886,532770,965907,1992778,null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,(1674),0,(18078),(40686),(60438),null,null,null,null,null,null,null,null,null,null,null
+page_36,2,T.value,5,419268,41886,514692,925221,1932340,null,null,null,null,null,null,null,null,null,null,null
+page_28,1,T.header,12,"Revaluation shares, net",Employees’ incentive plan,Statutory reserve,Legal reserve,General reserve,Contingency reserve,Foreign currency translation reserve,Cash flow hedge reserve,IFRS 9 general reserve - designated at FVTOCI,Attributable to equity holders of the Bank,Non-controlling interests,Total,null,null,null,null
+page_28,1,T.value,12,"(78,869)","3,659,974","5,871,637","2,000,000","150,000","(226,433)","301,783",0,"(1,086,185)","10,591,907",(653),"10,591,254",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,"(424,041)",0,0,0,"(424,041)",(351),"(424,392)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,"5,965",0,0,0,"5,965",0,"5,965",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,"(202,526)",0,0,"(202,526)",0,"(202,526)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,"29,717",0,0,"29,717",0,"29,717",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"(129,171)","(129,171)",19,"(129,152)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"(8,124)","(8,124)",0,"(8,124)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"175,214","175,214",0,"175,214",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"(4,558)","(4,558)",0,"(4,558)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"(2,319)","(2,319)",0,"(2,319)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,338,338,0,338,null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,"(13,517)","(13,517)",0,"(13,517)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null
+page_28,1,T.value,12,"(22,557)",0,0,0,0,0,0,0,0,"(22,557)",0,"(22,557)",null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,(65),0,0,1,(64),64,0,null,null,null,null
+page_28,1,T.value,12,0,0,0,0,0,0,0,"448,374",0,"448,374",0,"448,374",null,null,null,null
+page_28,1,T.value,12,"32,502",0,0,0,0,0,0,0,0,"32,502",0,"32,502",null,null,null,null
+page_16,1,T.header,4,Fair Values,Assets (AED'000),Liabilities (AED'000),Notional (AED'000),null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,"As at June 30, 2024 (unaudited)",12320000.0,20017000.0,888685710,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held or issued for trading,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Foreign exchange derivatives,2335033.0,2002359.0,292480885,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,8183900.0,7622990.0,270758416,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and commodity options,766974.0,1054780.0,62458840,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Futures (exchange traded),4347.0,2700.0,14471987,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Commodity and energy swaps,688984.0,645109.0,11733233,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Swaptions,745009.0,228885.0,59341594,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivatives held or issued for trading,12724247.0,11556823.0,711244955,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as fair value hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,4347775.0,8351823.0,155252643,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as cash flow hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,394624.0,46131.0,13263391,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Forward foreign exchange contracts,25972.0,62326.0,8858607,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivatives held as cash flow hedges,420596.0,108457.0,22121998,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as net investment hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Foreign exchange derivatives,11767.0,0.0,66114,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivative financial instruments,17504385.0,20017103.0,888685710,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,"As at December 31, 2023 (audited)",nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held or issued for trading,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Foreign exchange derivatives,1183151.0,1254948.0,226282755,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,6938360.0,6587817.0,209574396,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and commodity options,723785.0,965799.0,58018472,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Futures (exchange traded),7804.0,4257.0,716235,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Commodity and energy swaps,300863.0,263146.0,9333117,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Swaptions,621643.0,287343.0,50416455,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivatives held or issued for trading,9775606.0,9363310.0,554341430,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as fair value hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,3399870.0,6842731.0,134081627,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as cash flow hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Interest rate and cross currency swaps,526068.0,15301.0,9912565,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Forward foreign exchange contracts,128881.0,4000.0,6544206,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivatives held as cash flow hedges,654949.0,19301.0,16456771,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Derivatives held as net investment hedges,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Foreign exchange derivatives,28661.0,14153.0,729057,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Total derivative financial instruments,13859086.0,16239495.0,705608885,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Net hedge ineffectiveness losses,nan,0.0,8360,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,"As at June 30, 2023 (gains)",nan,nan,2030,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Cash collateral received,nan,6586654.0,4186029,null,null,null,null,null,null,null,null,null,null,null,null
+page_16,1,T.value,4,Bonds with fair value,nan,2449234.0,1624559,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.header,2,As at June 30 2024 unaudited AED'000,As at December 31 2023 audited AED'000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"5,121,453","3,136,679",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"472,036","467,429",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"1,151,449","1,120,442",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"18,440,528","13,202,764",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"495,365","524,036",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"6,481,462","5,119,177",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,1,T.value,2,"32,162,293","23,570,527",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,2,T.header,2,As at June 30 2024 unaudited AED'000,As at December 31 2023 audited AED'000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,2,T.value,2,"10,000,000",nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,2,T.value,2,"7,319,947","7,319,947",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,2,T.value,2,"4,099,170",nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_27,2,T.value,2,60.69%,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,1,T.header,3,As at,Carrying value of pledged securities (AED’000),Carrying value of associated liabilities (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,1,T.value,3,"June 30, 2024 (unaudited)","42,332,685","39,037,217",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,1,T.value,3,"December 31, 2023 (audited)","39,291,225","34,887,375",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.header,3,Type,"As at June 30, 2024 (unaudited)","As at December 31, 2023 (audited)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Overdrafts (retail and corporate),"16,835,422","15,594,536",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Retail loans – mortgages,"17,836,604","16,075,151",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Retail loans – others,"41,913,337","37,907,671",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Corporate loans,"231,053,289","210,534,372",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Credit cards,"5,420,206","5,111,888",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Other facilities,"26,027,093","24,209,885",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Gross loans and advances to customers at amortised cost,"339,085,951","309,433,503",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Less: Allowance for impairment,"(10,225,727)","(10,688,842)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,"Total loans and advances to customers at amortised cost, net","328,860,224","298,744,661",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,Loans and advances to customers mandatorily measured at FVTPL,"3,298,067","3,249,938",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_19,2,T.value,3,"Total loans and advances to customers, net","332,158,291","301,994,599",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.header,4,Description,Notes,"As at June 30, 2024 (unaudited) AED'000","As at December 31, 2023 (audited) AED'000",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Assets,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Cash and balances with central banks, net",4.0,"38,963,801","45,375,462",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Deposits and balances due from banks, net",5.0,"42,657,799","37,624,694",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Financial assets at fair value through profit or loss,6.0,"11,944,358","10,063,020",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Derivative financial instruments,7.0,"17,504,385","13,859,086",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Investment securities, net",8.0,"132,609,377","128,268,397",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Loans and advances to customers, net",9.0,"332,158,291","301,994,599",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Investment in associates,nan,"374,005","370,622",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Investment properties,11.0,"1,699,491","1,741,460",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Other assets, net",12.0,"25,487,090","18,960,358",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Property and equipment, net",nan,"1,843,715","1,887,596",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,"Intangible assets, net",nan,"6,999,903","7,049,191",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Total assets,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Liabilities,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Due to banks,13.0,"10,809,164","8,794,968",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Derivative financial instruments,7.0,"20,017,103","16,239,495",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Deposits from customers,14.0,"389,960,558","362,905,039",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Euro commercial paper,15.0,"5,736,502","7,777,699",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Borrowings,16.0,"82,849,138","76,653,334",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Other liabilities,17.0,"32,162,293","23,570,527",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Total liabilities,nan,"541,534,758","495,941,018",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Equity,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Share capital,18.0,"7,319,947","7,319,947",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Share premium,nan,"17,878,882","17,878,882",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Other reserves,19.0,"10,477,140","10,591,907",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Retained earnings,nan,"26,271,817","26,701,111",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Capital notes,20.0,"8,754,750","8,754,750",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Equity attributable to equity holders of the Bank,nan,"70,702,536","71,246,597",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Non-controlling interests,nan,"4,921","6,870",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Total equity,nan,"70,707,457","71,253,467",null,null,null,null,null,null,null,null,null,null,null,null
+page_10,1,T.value,4,Total liabilities and equity,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_17,1,T.header,4,Derivative Financial Instruments,Collateral Type,"As at June 30, 2024 (AED’000)","As at December 31, 2023 (AED’000)",null,null,null,null,null,null,null,null,null,null,null,null
+page_17,1,T.value,4,nan,Cash Collateral,3567188,2648597,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,1,T.value,4,nan,Bonds with fair value,5520038,4453765,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.header,4,Investment Securities (Net),Region,Category,AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Quoted - Government securities,9306725,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Quoted - Government securities,6716266,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Quoted - Government securities,8323801,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Quoted - Government securities,24346792,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Quoted - Bonds – Public sector,4006362,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Quoted - Bonds – Public sector,1391306,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Quoted - Bonds – Public sector,1152990,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Quoted - Bonds – Public sector,6550658,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Quoted - Bonds – Banks and financial institutions,728341,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Quoted - Bonds – Banks and financial institutions,372739,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Quoted - Bonds – Banks and financial institutions,674443,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Quoted - Bonds – Banks and financial institutions,1775523,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Quoted - Bonds – Corporate,766049,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Quoted - Bonds – Corporate,232959,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Quoted - Bonds – Corporate,356903,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Quoted - Bonds – Corporate,1355911,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Quoted - Equities and funds,589213,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Quoted - Equities and funds,34879,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Quoted - Equities and funds,160248,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Quoted - Equities and funds,784340,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At fair value through other comprehensive income - Unquoted - Equities and funds,73202,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At fair value through other comprehensive income - Unquoted - Equities and funds,1356,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At fair value through other comprehensive income - Unquoted - Equities and funds,28270,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At fair value through other comprehensive income - Unquoted - Equities and funds,102828,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At amortised cost - Quoted - Government securities,16233139,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At amortised cost - Quoted - Government securities,15338104,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At amortised cost - Quoted - Government securities,29935167,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At amortised cost - Quoted - Government securities,61506410,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At amortised cost - Quoted - Bonds – Public sector,9567602,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At amortised cost - Quoted - Bonds – Public sector,2120028,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At amortised cost - Quoted - Bonds – Public sector,7743058,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At amortised cost - Quoted - Bonds – Public sector,19430688,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At amortised cost - Quoted - Bonds – Banks and financial institutions,1569439,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At amortised cost - Quoted - Bonds – Banks and financial institutions,1681526,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At amortised cost - Quoted - Bonds – Banks and financial institutions,8102505,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At amortised cost - Quoted - Bonds – Banks and financial institutions,11353470,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Other GCC,At amortised cost - Quoted - Bonds – Corporate,2567008,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Rest of UAE,At amortised cost - Quoted - Bonds – Corporate,623880,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,The World,At amortised cost - Quoted - Bonds – Corporate,2233112,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total,At amortised cost - Quoted - Bonds – Corporate,5424000,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total investment securities at amortised cost,Less: Allowance for impairment,21243,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,Total investment securities at amortised cost,Total investment securities at amortised cost,97693225,null,null,null,null,null,null,null,null,null,null,null,null
+page_17,2,T.value,4,nan,"Total investment securities, net","Total investment securities, net",132609377,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.header,2,As at,AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,"January 1, 2023","1,691,890",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Additions during the year,"5,785",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Disposals during the year,(247),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Revaluation of investment properties,"46,386",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Impact of currency translation,"(2,354)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,"December 31, 2023 (audited)","1,741,460",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Disposal during the period (*),"(38,021)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,Impact of currency translation,"(3,948)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,"June 30, 2024 (unaudited)","1,699,491",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,(*) net gain of AED 895 thousand was realised on disposal of investment properties,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,1,T.value,2,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.header,3,As at,June 30 2024 (unaudited),December 31 2023 (audited),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Interest receivable,"5,209,653","4,542,779",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Prepayments,"215,601","130,557",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Acceptances (Note 17),"18,440,528","13,202,764",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Others,"1,636,618","1,101,978",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Gross other assets,"25,502,400","18,978,078",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,Less: Allowance for impairment (Note 10),"(15,310)","(17,720)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,"Total other assets, net","25,487,090","18,960,358",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,2,T.value,3,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,3,T.header,3,As at,June 30 2024 (unaudited),December 31 2023 (audited),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,3,T.value,3,Vostro balances,"1,574,000","1,989,085",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,3,T.value,3,Margin deposits,"5,709,588","4,428,478",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,3,T.value,3,Time deposits,"3,525,576","2,377,405",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_22,3,T.value,3,Total due to banks,"10,809,164","8,794,968",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.header,4,Item,Notes,As at June 30 2024 unaudited AED’000,As at December 31 2023 audited AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Assets, , , ,null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Cash and balances with central banks, net",4,"38,963,801","45,375,462",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Deposits and balances due from banks, net",5,"42,657,799","37,624,694",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Financial assets at fair value through profit or loss,6,"11,944,358","10,063,020",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Derivative financial instruments,7,"17,504,385","13,859,086",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Investment securities, net",8,"132,609,377","128,268,397",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Loans and advances to customers, net",9,"332,158,291","301,994,599",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Investment in associates, ,"374,005","370,622",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Investment properties,11,"1,699,491","1,741,460",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Other assets, net",12,"25,487,090","18,960,358",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Property and equipment, net", ,"1,843,715","1,887,596",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,"Intangible assets, net", ,"6,999,903","7,049,191",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Total assets, ,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Liabilities, , , ,null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Due to banks,13,"10,809,164","8,794,968",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Derivative financial instruments,7,"20,017,103","16,239,495",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Deposits from customers,14,"389,960,558","362,905,039",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Euro commercial paper,15,"5,736,502","7,777,699",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Borrowings,16,"82,849,138","76,653,334",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Other liabilities,17,"32,162,293","23,570,527",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Total liabilities, ,"541,534,758","495,941,018",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Equity, , , ,null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Share capital,18,"7,319,947","7,319,947",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Share premium, ,"17,878,882","17,878,882",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Other reserves,19,"10,477,140","10,591,907",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Retained earnings, ,"26,271,817","26,701,111",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Capital notes,20,"8,754,750","8,754,750",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Equity attributable to equity holders of the Bank, ,"70,702,536","71,246,597",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Non-controlling interests, ,"4,921","6,870",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Total equity, ,"70,707,457","71,253,467",null,null,null,null,null,null,null,null,null,null,null,null
+page_4,1,T.value,4,Total liabilities and equity, ,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_29,1,T.header,16,Reserves Type,"As at January 1, 2023 (AED’000)",Exchange Difference (AED’000),Net Gain on Hedge (AED’000),Net Fair Value Changes on Cash Flow Hedges (AED’000),Net Fair Value Changes Reclassified to Income Statement (AED’000),Net Fair Value Changes on Debt Instruments at FVTOCI (AED’000),Changes in Allowance for Expected Credit Losses (AED’000),Amounts Reclassified to Income Statement for Debt Instruments (AED’000),Net Fair Value Changes of Equity Instruments at FVTOCI (AED’000),Amounts Transferred Within Equity Upon Disposal (AED’000),Total Other Comprehensive Income (AED’000),Dividends Paid (AED’000),Fair Value Adjustments (AED’000),Shares – Vested Portion (AED’000),"As at June 30, 2023 (AED’000)"
+page_29,1,T.value,16,Employees’ Incentive Plan,"(68,824)",0,0,0,0,0,0,0,0,0,0,0,"(4,490)","18,649","(54,665)"
+page_29,1,T.value,16,Statutory Reserve,"3,478,690",0,0,0,0,0,0,0,0,0,0,0,0,0,"3,478,690"
+page_29,1,T.value,16,Legal Reserve,"3,478,690",0,0,0,0,0,0,0,0,0,0,0,0,0,"5,690,353"
+page_29,1,T.value,16,General Reserve,"2,000,000",0,0,0,0,0,0,0,0,0,0,0,0,0,"2,000,000"
+page_29,1,T.value,16,Contingency Reserve,"150,000",0,0,0,0,0,0,0,0,0,0,0,0,0,"150,000"
+page_29,1,T.value,16,Foreign Currency Translation Reserve,"(184,449)","(207,602)",0,0,0,0,0,0,0,0,0,0,0,0,"(292,343)"
+page_29,1,T.value,16,Cash Flow Hedge Reserve,"97,176",0,"99,708","224,003","56,683",0,0,0,0,0,0,0,0,0,"377,862"
+page_29,1,T.value,16,Investments Designated at FVTOCI,"(1,404,540)",0,0,0,0,"(247,761)","(14,579)","(11,742)","(16,242)","2,359","(287,965)",0,0,0,"(1,692,505)"
+page_29,1,T.value,16,Total,"7,546,743","(207,602)","99,708","224,003","56,683","(247,761)","(14,579)","(11,742)","(16,242)","(287,965)","(2,211,663)","(4,490)","18,649","9,657,392",nan
+page_29,1,T.value,16,Non-controlling Interests,(481),(194),0,0,0,0,0,0,0,0,0,0,0,(696),nan
+page_29,1,T.value,16,Total Equity,"7,546,262","(207,796)","99,708","224,003","56,683","(247,782)","(14,579)","(11,742)","(16,242)","(287,965)","(2,211,663)","(4,490)","18,649","9,656,696",nan
+page_12,1,T.header,5,Name of subsidiary,Ownership interest,Year of incorporation,Country,Principal activities,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ADCB Securities LLC,100%,2005,UAE,Agent in trading of financial instruments and stocks.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Kinetic Infrastructure Development LLC,100%,2006,UAE,Financial investments.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Abu Dhabi Commercial Property Development LLC,100%,2006,UAE,Property development.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Abu Dhabi Commercial Engineering Services LLC,100%,2007,UAE,Engineering services.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ADCB Finance (Cayman) Limited,100%,2008,Cayman Islands,Treasury financing activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ADCB Markets (Cayman) Limited,100%,2008,Cayman Islands,Treasury related activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ACB LTIP (IOM) Limited,Controlling Interest,2008,Isle of Man,Trust activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ITMAM Services FZ LLC,100%,2010,UAE,Transaction processing and back-office support for the Group.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,AD NAC Ventures WLL,99.75%,2012,Bahrain,Trust activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ITMAM Services LLC,100%,2013,UAE,Transaction processing and back-office support for the Group.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ADCB Asset Management Limited,100%,2018,UAE,Wealth management and private banking.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Wifaq Investment Properties PrJSC,90.08%,2006,UAE,Investment in real estate properties and earning rental income.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Abu Dhabi Commercial Bank – Egypt SAE,99.90%,1981,Egypt,Commercial banking services.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Hilal Bank PJSC,100%,2007,UAE,Islamic banking activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Hilal Islamic Bank JSC,100%,2010,Kazakhstan,Islamic banking activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Hilal Leasing LLP,100%,2011,Kazakhstan,Shari’ah compliant leasing operations.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,AHB Sukuk Company Limited,Controlling Interest,2011,Cayman Islands,Treasury financing activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Hur 1 Holding Limited,100%,2022,UAE,Real estate investment activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Al Hur 2 Holding Limited,100%,2022,UAE,Real estate investment activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,ADCB Sukuk Company Limited,Controlling Interest,2023,Cayman Islands,Treasury financing activities.,null,null,null,null,null,null,null,null,null,null,null
+page_12,1,T.value,5,Meedaf Investment - Sole Proprietorship LLC,100%,2023,UAE,Enterprise and service support.,null,null,null,null,null,null,null,null,null,null,null
+page_12,2,T.header,1,Loss of Control Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_12,2,T.value,1,"any non-controlling interests and the other components of equity related to the subsidiary. Any surplus or deficit arising on the loss of control is recognised in condensed consolidated interim income statement. If the Group retains any interest in the previous subsidiary, then such interest is measured at fair value when control is lost. Subsequently, it is accounted for as an equity-accounted investee or in accordance with the Group’s accounting policy for financial instruments depending on the level of influence retained.",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_12,3,T.header,1,Funds Management Policy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_12,3,T.value,1,The Bank manages and administers assets held in unit trusts on behalf of investors. The financial statements of these entities are not included in the condensed consolidated interim financial information except when the Bank controls the entity.,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.header,3,Description,6 months ended June 30 2024 AED’000,6 months ended June 30 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Profit before taxation,"5,023,495","3,926,504",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Depreciation on property and equipment (Note 26),"177,562","192,025",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Amortisation of intangible assets (Note 26),"25,345","46,679",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net (gain)/ loss from investment properties,-895,"1,665",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Gross impairment charge,"1,549,863","1,776,851",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Share in profit of associates,"-3,383","-1,036",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Discount unwind,"-70,289","-126,597",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net loss from disposal of investment securities (Note 25),"242,464","3,743",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Discount amortisation on investment securities,"-425,405","-81,568",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Dividend income (Note 25),"-15,394","-18,967",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Gain on sale of property and equipment,-454,-815,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Amortisation and interest capitalised on borrowings and ECPs,"758,651","650,586",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net gain from financial assets at fair value through profit or loss (Note 24),"-541,006","-327,496",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Ineffective portion of hedges – loss,"8,360","2,690",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Employees’ incentive plan expense (Note 19),"32,502","18,649",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Cash flows from operating activities before changes in operating assets and liabilities,"6,761,416","6,062,913",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in due from banks,"-1,729,689","2,023,568",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in derivative financial instruments,"-604,071","153,457",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net purchases of financial assets at fair value through profit or loss,"-1,340,512","-3,539,290",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in loans and advances to customers,"-33,320,732","-15,932,687",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in other assets,"-1,324,675","-810,057",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in due to banks,"2,019,566","3,945,513",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in deposits from customers,"30,786,874","9,029,670",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in other liabilities,"2,968,391","2,191,619",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net cash from operations,"4,216,568","3,124,706",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Income tax paid,"-65,559","-63,693",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net cash from operating activities,"4,151,009","3,061,013",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net proceeds from redemption/disposal of investment securities,"22,952,987","30,895,173",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net purchases of investment securities,"-29,976,731","-42,747,248",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Dividend received from investment securities (Note 25),"15,394","18,967",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Disposal of investment properties (Note 11),"38,916",-,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net purchases of property and equipment,"-172,511","-160,521",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net cash used in investing activities,"-7,141,945","-11,993,629",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net movement in euro commercial paper,"-2,198,439","1,066,606",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net proceeds from borrowings,"54,357,616","46,502,946",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Repayment of borrowings,"-46,615,404","-35,759,962",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Payment of lease liabilities,"-33,591","-40,061",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Dividends paid to equity holders of the Bank,"-4,099,170","-1,252,328",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Acquisition of non-controlling interests,-104,-,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Capital notes coupon paid (Note 28),"-351,102","-173,740",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net cash from financing activities,"1,059,806","10,343,461",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Effect of exchange rate changes on cash and cash equivalents,"-1,184,356","-685,743",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Net (decrease)/increase in cash and cash equivalents,"-3,115,486","725,102",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Cash and cash equivalents at the beginning of the period,"51,837,050","41,997,271",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_8,1,T.value,3,Cash and cash equivalents at the end of the period,"48,721,564","42,722,373",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,1,T.header,3,Period,Net Interest Income,Non-Interest Income,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,1,T.value,3,"6 months ended June 30, 2024","6,196,864","2,663,196",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,1,T.value,3,"6 months ended June 30, 2023","5,508,511","2,095,331",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,1,T.value,3,"3 months ended June 30, 2024","3,094,706","1,409,524",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,1,T.value,3,"3 months ended June 30, 2023","2,791,387","1,054,902",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,2,T.header,3,Period,Net Interest Income,Non-Interest Income,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,2,T.value,3,"6 months ended June 30, 2024","380,405","59,822",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,2,T.value,3,"6 months ended June 30, 2023","273,286","94,176",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,2,T.value,3,"3 months ended June 30, 2024","181,473","28,312",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,2,T.value,3,"3 months ended June 30, 2023","139,084","73,921",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,3,T.header,3,Asset,"June 30, 2024 (unaudited)","December 31, 2023 (audited)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,3,T.value,3,Investment in associates,"374,005","370,622",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,3,T.value,3,Investment properties,"1,687,914","1,720,818",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,3,T.value,3,"Property and equipment, net","1,668,157","1,652,014",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,3,T.value,3,"Intangible assets, net","6,956,616","6,981,961",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,4,T.header,3,Asset,"June 30, 2024 (unaudited)","December 31, 2023 (audited)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,4,T.value,3,Investment properties,"11,577","20,642",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,4,T.value,3,"Property and equipment, net","175,558","235,582",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_38,4,T.value,3,"Intangible assets, net","43,287","67,230",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.header,5,Other Operating Income,3 months ended June 30 2024 AED’000,3 months ended June 30 2023 AED’000,6 months ended June 30 2024 AED’000,6 months ended June 30 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"4,732","39,085","8,924","79,615",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"19,624","20,496","31,606","40,905",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"(133,325)","(5,426)","(242,464)","(3,743)",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"240,033","(9,872)","367,030","(20,630)",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"7,056","9,245","15,394","18,967",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"11,294","(31,472)","27,497","(20,413)",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,1,T.value,5,"149,414","22,056","207,987","94,701",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.header,5,Operating Expenses,3 months ended June 30 2024 AED’000,3 months ended June 30 2023 AED’000,6 months ended June 30 2024 AED’000,6 months ended June 30 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.value,5,"835,994","750,463","1,595,666","1,433,763",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.value,5,"596,821","450,676","1,152,849","877,768",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.value,5,"88,959","94,569","177,562","192,025",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.value,5,"12,672","23,340","25,345","46,679",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,2,T.value,5,"1,534,446","1,319,048","2,951,422","2,550,235",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.header,5,Impairment Charge,3 months ended June 30 2024 AED’000,3 months ended June 30 2023 AED’000,6 months ended June 30 2024 AED’000,6 months ended June 30 2023 AED’000,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.value,5,"728,565","870,644","1,621,800","1,765,879",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.value,5,"(5,478)","(4,196)","(8,393)","(14,924)",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.value,5,"8,915","20,900","(16,924)","32,852",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.value,5,"(143,859)","(139,679)","(267,730)","(288,206)",nan,null,null,null,null,null,null,null,null,null,null,null
+page_32,3,T.value,5,"588,143","747,669","1,328,753","1,495,601",nan,null,null,null,null,null,null,null,null,null,null,null
+page_24,1,T.header,7,Instrument,Currency,Within 1 year (AED’000),1-3 years (AED’000),3-5 years (AED’000),Over 5 years (AED’000),Total (AED’000),null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,AUD,0,488400,361271,137171,986842,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,CNH,115468,494284,0,0,609752,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,EUR,78414,0,0,0,78414,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,CHF,1055500,0,0,409114,1464614,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,HKD,0,71028,0,0,71028,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,USD,1991063,3834794,7442415,16521578,29789850,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,GBP,184909,0,0,0,184909,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Global medium term notes,IDR,0,0,303909,126345,430254,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Total borrowings,nan,3425354,4888506,8107595,17194208,33615663,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Bilateral loans,USD,0,2121271,2380472,0,4501743,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Bilateral loans,KZT,0,59873,19958,0,79831,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Certificate of deposits issued,GBP,4575211,0,0,0,4575211,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Certificate of deposits issued,USD,667906,0,0,0,667906,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Certificate of deposits issued,EUR,371567,0,0,0,371567,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Borrowings through repurchase agreements,USD,32072825,6961644,0,0,39034469,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Borrowings through repurchase agreements,EGP,0,0,0,2748,2748,null,null,null,null,null,null,null,null,null
+page_24,1,T.value,7,Total borrowings,nan,41112863,14031294,10508025,17196956,82849138,null,null,null,null,null,null,null,null,null
+page_24,2,T.header,2,Hedged Amount (AED’000),Net Negative Fair Value of Swaps (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_24,2,T.value,2,41926487,7845117,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_7,1,T.header,8,Share capital (AED’000),Share premium (AED’000),Other reserves (AED’000),Retained earnings (AED’000),Capital notes (AED’000),Equity attributable to equity holders of the Bank (AED’000),Non-controlling interests (AED’000),Total equity (AED’000),null,null,null,null,null,null,null,null
+page_7,1,T.value,8,"7,319,947","17,878,882","10,591,907","26,701,111","8,754,750","71,246,597","6,870","71,253,467",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"4,457,368",-,"4,457,368","(1,522)","4,455,846",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,"(573,022)",-,-,"(573,022)",(332),"(573,354)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,"9,945",-,-,"9,945",-,"9,945",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"13,517",-,"13,517",-,"13,517",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"(1,588)",-,"(1,588)",-,"(1,588)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,(64),55,-,(9),(95),(104),null,null,null,null,null,null,null,null
+page_7,1,T.value,8,(Note 18),-,-,"(4,099,170)",-,"(4,099,170)",-,"(4,099,170)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,"448,374","(448,374)",-,-,-,-,null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"(351,102)",-,"(351,102)",-,"(351,102)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,"7,319,947","17,878,882","10,477,140","26,271,817","8,754,750","70,702,536","4,921","70,707,457",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,"6,957,379","17,878,882","7,546,743","23,035,375","6,000,000","61,418,379","7,758","61,426,137",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"3,811,824",-,"3,811,824","(1,155)","3,810,669",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,"(115,173)",-,-,"(115,173)",(215),"(115,388)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,"14,159","4,490",-,"18,649",-,"18,649",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"(2,359)",-,"(2,359)",-,"(2,359)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,(Note 18),"362,568",-,"(-3,826,559)",-,"(-1,252,328)",-,"(-1,252,328)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,-,-,-,"(173,740)",-,"(173,740)",-,"(173,740)",null,null,null,null,null,null,null,null
+page_7,1,T.value,8,"7,319,947","17,878,882","9,657,392","22,849,031","6,000,000","63,705,252","6,388","63,711,640",null,null,null,null,null,null,null,null
+page_33,1,T.header,9,Period,Profit for the period attributable to equity holders of the Bank (AED'000),Coupons paid on capital notes (AED'000),Net adjusted profit for the period attributable to the equity holders of the Bank (AED'000),Weighted average number of shares in issue (thousands),Weighted average number of equity shares in issue during the period for basic earnings per share (thousands),Weighted average number of equity shares in issue during the period for diluted earnings per share (thousands),Basic earnings per share (AED),Diluted earnings per share (AED),null,null,null,null,null,null,null
+page_33,1,T.value,9,3 months ended June 30 2024,2317512,-110190,2207322,7319947,7306594,7319947,0.3,0.3,null,null,null,null,null,null,null
+page_33,1,T.value,9,3 months ended June 30 2023,1932848,0,1932848,7319947,7309859,7319947,0.26,0.26,null,null,null,null,null,null,null
+page_33,1,T.value,9,6 months ended June 30 2024,4457368,-351102,4106266,7319947,7307460,7319947,0.56,0.56,null,null,null,null,null,null,null
+page_33,1,T.value,9,6 months ended June 30 2023,3811824,-173740,3638084,6957379,7309859,7319947,0.5,0.5,null,null,null,null,null,null,null
+page_33,2,T.header,3,Type,As at June 30 2024 (AED'000),As at December 31 2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Letters of credit,8230042,10732456,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Guarantees,68533674,68268369,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Commitments to extend credit – revocable,20271076,19075003,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Commitments to extend credit – irrevocable,40546899,46026541,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Total commitments on behalf of customers,137581691,144102369,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Commitments for future capital expenditure and others,560073,577653,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Commitments to invest in investment securities,511902,6693,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_33,2,T.value,3,Total commitments and contingent liabilities,138653666,144686715,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.header,3,As at,June 30 2024,December 31 2023,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.value,3,Opening balance,"3,360,226","3,258,157",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.value,3,Net additions during the period/year,"78,127","145,978",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.value,3,Disposals including capital refunds during the period/year,(373),"(64,000)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.value,3,Adjustment through other comprehensive income during the period/year,"(7,085)","20,091",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,1,T.value,3,Closing balance,"3,430,895","3,360,226",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,2,T.header,3,Description,Amount,Description (Previous Year),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,2,T.value,3,Net gain,AED 373 thousand,net gain of AED 304 thousand,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,3,T.header,2,Description,Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_44,3,T.value,2,Involved in various legal proceedings and claims,Management does not believe these matters will have a material adverse effect on the Group's financial information if disposed unfavourably.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,1,T.header,3,Period,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,1,T.value,3,3 months ended June 30,7467341,5994257,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,1,T.value,3,6 months ended June 30,14829407,11381378,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.header,4,Period,Description,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,3 months ended June 30,Loans and advances to banks,837020,666782,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,6 months ended June 30,Loans and advances to banks,1754266,1260539,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,3 months ended June 30,Loans and advances to customers,4942049,3953610,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,6 months ended June 30,Loans and advances to customers,9715091,7584602,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,3 months ended June 30,Investment securities,1688272,1373865,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,2,T.value,4,6 months ended June 30,Investment securities,3360050,2536237,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,3,T.header,3,Period,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,3,T.value,3,3 months ended June 30,4736924,3562598,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,3,T.value,3,6 months ended June 30,9322604,6627084,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.header,4,Period,Description,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,3 months ended June 30,Deposits from banks,112896,84221,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,6 months ended June 30,Deposits from banks,218837,158157,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,3 months ended June 30,Deposits from customers,3183723,2201619,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,6 months ended June 30,Deposits from customers,6272912,4113287,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,3 months ended June 30,Euro commercial paper,77772,105478,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,6 months ended June 30,Euro commercial paper,167254,189978,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,3 months ended June 30,Borrowings,1362533,1171280,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,4,T.value,4,6 months ended June 30,Borrowings,2663601,2165662,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,5,T.header,3,Period,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,5,T.value,3,3 months ended June 30,808864,723783,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,5,T.value,3,6 months ended June 30,1511746,1256378,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,6,T.header,4,Period,Description,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null
+page_31,6,T.value,4,3 months ended June 30,Total fees and commission income,1271241,1083598,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,6,T.value,4,6 months ended June 30,Total fees and commission income,2427782,1971122,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,6,T.value,4,3 months ended June 30,Total fees and commission expense,462377,359815,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,6,T.value,4,6 months ended June 30,Total fees and commission expense,916036,714744,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,7,T.header,3,Period,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,7,T.value,3,3 months ended June 30,479558,382984,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,7,T.value,3,6 months ended June 30,1003285,838428,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.header,4,Period,Description,2024 (AED'000),2023 (AED'000),null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,3 months ended June 30,Net gain from dealing in derivatives,69073,78328,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,6 months ended June 30,Net gain from dealing in derivatives,111966,167732,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,3 months ended June 30,Net gain from dealing in foreign currencies,179015,155980,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,6 months ended June 30,Net gain from dealing in foreign currencies,350313,343200,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,3 months ended June 30,Net gain from financial assets at fair value through profit or loss,231470,148676,null,null,null,null,null,null,null,null,null,null,null,null
+page_31,8,T.value,4,6 months ended June 30,Net gain from financial assets at fair value through profit or loss,541006,327496,null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.header,4,As at,June 30 2024 unaudited AED’000,As at.1,December 31 2023 audited AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.value,4,Cash and balances with central banks (Note 4),"38,963,998",Cash and balances with central banks,"45,375,731",null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.value,4,Deposits and balances due from banks (excluding loans and advances to banks) (Note 5),"13,169,953",Deposits and balances due from banks,"9,434,390",null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.value,4,Total,"52,133,951",Total,"54,810,121",null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.value,4,Less: Cash and balances with central banks and deposits and balances due from banks – with original maturity of more than three months,"(3,412,387)",Less: Cash and balances with central banks and deposits and balances due from banks –,"(2,973,071)",null,null,null,null,null,null,null,null,null,null,null,null
+page_9,1,T.value,4,Total cash and cash equivalents,"48,721,564",Total cash and cash equivalents,"51,837,050",null,null,null,null,null,null,null,null,null,null,null,null
+page_35,1,T.header,16,Segment,Net interest income,Net income from Islamic financing and investing products,Total net interest income and income from Islamic financing and investing products,Non-interest income,Operating income,Operating expenses,Operating profit before impairment charge,Impairment charge/release,Profit/loss after impairment charge,Share in profit/(loss) of associates,Profit/loss before taxation,Income tax charge/release,Profit/loss for the period,Total assets,Total liabilities
+page_35,1,T.value,16,Corporate banking,"1,276,601","651,290","1,927,891","741,639","2,669,530","(1,722,008)","947,522","(212,935)","734,587",(799),"733,788","(114,239)","619,549","68,717,531","89,290,752"
+page_35,1,T.value,16,Retail banking,"484,901","42,388","527,289","98,242","625,531","(153,240)","472,291","(616,306)","(144,015)","(4,532)","(148,547)","11,530","(137,017)","46,322,020","57,924,208"
+page_35,1,T.value,16,Private banking,"1,729,757","263,399","1,993,156","1,459,315","3,452,471","(890,095)","2,562,376","(511,508)","2,050,868",0,"2,050,868","(208,432)","1,842,436","288,231,182","205,613,033"
+page_35,1,T.value,16,Investment treasury management,"2,012,140","113,389","2,125,529","365,866","2,491,395","(134,096)","2,357,299","(11,996)","2,369,295",0,"2,369,295","(255,699)","2,113,596","207,033,482","187,994,759"
+page_35,1,T.value,16,Property management,"3,404",0,"3,404","57,956","61,360","(51,983)","9,377",0,"9,377","8,714","18,091",(809),"17,282","1,938,000","712,006"
+page_35,2,T.header,16,Segment,Net interest income,Net income from Islamic financing and investing products,Total net interest income and income from Islamic financing and investing products,Non-interest income,Operating income,Operating expenses,Operating profit before impairment charge,Impairment charge/release,Profit after impairment charge,Share in profit/(loss) of associates,Profit before taxation,Income tax release/charge,Profit for the period,Total assets,Total liabilities
+page_35,2,T.value,16,Corporate banking,"1,149,508","579,891","1,729,399","664,161","2,393,560","(1,458,409)","935,151","(209,047)","726,104","1,335","727,439","1,201","728,640","63,849,934","83,465,806"
+page_35,2,T.value,16,Retail banking,"507,710","20,913","528,623","54,241","582,864","(122,826)","460,038","(447,851)","12,187",(299),"11,888",0,"11,888","47,341,202","50,757,232"
+page_35,2,T.value,16,Private banking,"1,564,520","176,083","1,740,603","1,077,761","2,818,364","(759,899)","2,058,465","(856,027)","1,202,438",0,"1,202,438","(37,398)","1,165,040","254,141,609","185,279,310"
+page_35,2,T.value,16,Investment treasury management,"1,521,339","250,616","1,771,955","259,966","2,031,921","(122,922)","1,908,999","(17,324)","1,926,323",0,"1,926,323","(79,638)","1,846,685","199,991,043","175,911,436"
+page_35,2,T.value,16,Property management,"11,217",0,"11,217","133,378","144,595","(86,179)","58,416",0,"58,416",0,"58,416",0,"58,416","1,870,697","527,234"
+page_42,1,T.header,4,Level,Description,Valuation Techniques,Significant Unobservable Inputs,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,1,T.value,4,Level 2,Valuation techniques using observable inputs,Credit value adjustments for OTC positions excluding central clearing,nan,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,1,T.value,4,Level 3,Valuation techniques using significant unobservable inputs,"Private equity instruments, funds, and loans measured at FVTPL",Rental income and capitalisation rates for investment properties,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,2,T.header,3,Investment Property Type,Valuation Method,Considerations,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,2,T.value,3,Private equity instruments,Latest available net book value,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,2,T.value,3,Funds,Net asset value from fund manager,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,2,T.value,3,Loans and advances to customers,Valuation by external consultants via discounted cash flow method,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,2,T.value,3,Investment properties,Valuation based on rental income and capitalisation rates,Decrease in rental income or increase in capitalisation rates affects fair value,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,3,T.header,3,Financial Asset/Liability,Carrying Amount,Fair Value,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_42,3,T.value,3,All relevant financial assets and liabilities,Carrying amounts consistent with fair values,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.header,2,As at June 30 2024 unaudited AED'000,As at December 31 2023 audited AED'000,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Common equity tier 1 (CET1) capital,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Share capital (Note 18),"7,319,947",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Share premium,"17,878,882",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Other reserves (Note 19),"11,037,037",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Retained earnings,"26,152,716",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Regulatory deductions and adjustments,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,"Intangible assets, net","(6,999,903)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Cash flow hedge reserve,"79,929",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,"Employee’s incentive plan shares, net (Note 19)","(68,924)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Revaluation reserve of investments designated at FVTOCI (Note 19),"(1,068,321)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Other deductions,"(461,590)",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Proposed cash dividend,-,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total CET1 capital,"53,869,773",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Additional tier 1 (AT1) capital,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Capital notes (Note 20),"8,754,750",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total AT1 capital,"8,754,750",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total tier 1 capital,"62,624,523",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Tier 2 capital,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Eligible general provision,"4,550,064",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total tier 2 capital,"4,550,064",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total regulatory capital,"67,174,587",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Risk-weighted assets,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Credit risk,"364,005,117",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Market risk,"16,728,797",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Operational risk,"28,236,831",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Total risk-weighted assets,"408,970,745",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,CET1 ratio,13.17%,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,AT1 ratio,2.14%,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Tier 1 ratio,15.31%,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Tier 2 ratio,1.12%,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,1,T.value,2,Capital adequacy ratio,16.43%,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,2,T.header,2,Entity,Description,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,2,T.value,2,The Group,"Enters into transactions with the parent and its related entities, associates, funds under management, directors, senior management and their related entities and the Government of Abu Dhabi in ordinary course of business at commercial interest and commission rates.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,2,T.value,2,Key management personnel,"Defined as those persons having authority and responsibility for planning, directing and controlling the activities of the Group, being the directors, chief executive officer and his direct reports.",null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_39,2,T.value,2,Transactions between the Bank and its subsidiaries,Eliminated on consolidation and are not disclosed in this note.,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.header,4,Item,Notes,As at June 30 2024 (unaudited) AED’000,As at December 31 2023 (audited) AED’000,null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Assets,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Cash and balances with central banks, net",4.0,"38,963,801","45,375,462",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Deposits and balances due from banks, net",5.0,"42,657,799","37,624,694",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Financial assets at fair value through profit or loss,6.0,"11,944,358","10,063,020",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Derivative financial instruments,7.0,"17,504,385","13,859,086",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Investment securities, net",8.0,"132,609,377","128,268,397",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Loans and advances to customers, net",9.0,"332,158,291","301,994,599",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Investment in associates,nan,"374,005","370,622",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Investment properties,11.0,"1,699,491","1,741,460",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Other assets, net",12.0,"25,487,090","18,960,358",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Property and equipment, net",nan,"1,843,715","1,887,596",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,"Intangible assets, net",nan,"6,999,903","7,049,191",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Total assets,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Liabilities,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Due to banks,13.0,"10,809,164","8,794,968",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Derivative financial instruments,7.0,"20,017,103","16,239,495",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Deposits from customers,14.0,"389,960,558","362,905,039",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Euro commercial paper,15.0,"5,736,502","7,777,699",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Borrowings,16.0,"82,849,138","76,653,334",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Other liabilities,17.0,"32,162,293","23,570,527",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Total liabilities,nan,"541,534,758","495,941,018",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Equity,nan,nan, ,null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Share capital,18.0,"7,319,947","7,319,947",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Share premium,nan,"17,878,882","17,878,882",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Other reserves,19.0,"10,477,140","10,591,907",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Retained earnings,nan,"26,271,817","26,701,111",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Capital notes,20.0,"8,754,750","8,754,750",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Equity attributable to equity holders of the Bank,nan,"70,702,536","71,246,597",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Non-controlling interests,nan,"4,921","6,870",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Total equity,nan,"70,707,457","71,253,467",null,null,null,null,null,null,null,null,null,null,null,null
+page_1,1,T.value,4,Total liabilities and equity,nan,"612,242,215","567,194,485",null,null,null,null,null,null,null,null,null,null,null,null
+page_14,1,T.header,5,Description,"For the Six Month Period Ended June 30, 2024 (AED '000)","For the Six Month Period Ended June 30, 2023 (AED '000)",Effective Tax Rate (ETR) (%),ETR Previous Year (%),null,null,null,null,null,null,null,null,null,null,null
+page_14,1,T.value,5,Tax charge through income statement,"567,649","115,835",11.3,2.95,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.header,3,Item,"As at June 30, 2024 (AED '000)","As at December 31, 2023 (AED '000)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Cash on hand,"2,545,265","2,259,177",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Balances with central banks,"6,622,358","20,679,681",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Reserves maintained with central banks,"26,359,618","20,808,366",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Certificate of deposits with central banks,"3,436,757","1,628,507",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Gross cash and balances with central banks,"38,963,998","45,375,731",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,Less: Allowance for impairment,197,269,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,2,T.value,3,"Total cash and balances with central banks, net","38,963,801","45,375,462",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,3,T.header,3,Description,"As at June 30, 2024 (AED '000)","As at December 31, 2023 (AED '000)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,3,T.value,3,Within the UAE,"36,865,958","42,706,619",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_14,3,T.value,3,Outside the UAE,"2,098,040","2,669,112",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.header,3,Standard/Amendment,Effective Date,Description,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,Lack of exchangeability (amendments to IAS 21),"January 1, 2025",The amendments contain guidance to specify when a currency is exchangeable and how to determine the exchange rate when it is not.,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,Amendments to IFRS 9 and IFRS 7,"January 1, 2026",The amendments address matters identified during the post-implementation review of the classification and measurement requirements of IFRS 9.,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,IFRS 19 ‘Subsidiaries without Public Accountability’,"January 1, 2027",Specifies the disclosure requirements an eligible subsidiary is permitted to apply instead of the disclosure requirements in other IFRS Accounting Standards.,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,Presentation and disclosures in financial statements (IFRS 18),"January 1, 2027",Contains requirements for all entities applying IFRS for the presentation and disclosure of information in financial statements.,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,Sale or contribution of assets between investor and its associate or joint venture (amendments to IFRS 10 and IAS 28),"Effective date deferred indefinitely, available for early adoption",nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,1,T.value,3,nan,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,2,T.header,2,Standard/Amendment,Details,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,2,T.value,2,The Group has not early adopted any new and revised IFRS Accounting Standards that have been issued but are not yet effective.,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_11,2,T.value,2,nan,nan,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.header,5,Category,Other GCC (AED’000),UAE (AED’000),Rest of the world (AED’000),Total (AED’000),null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Quoted: Government securities,10053546,6436648,12279218,28769412,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Quoted: Bonds – Public sector,4560797,2076409,1442471,8079677,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Quoted: Bonds – Banks and financial institutions,1422505,256424,450107,2129036,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Quoted: Bonds – Corporate,672288,341956,534593,1548837,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Quoted: Equities and funds,591303,34464,158351,784118,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Total quoted,17300439,9145901,14864740,41311080,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Unquoted: Equities and funds,76852,1355,32081,110288,null,null,null,null,null,null,null,null,null,null,null
+page_18,1,T.value,5,Total investment securities at fair value through other comprehensive income,17377291,9147256,14896821,41421368,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.header,5,Category,Other GCC (AED’000),UAE (AED’000),Rest of the world (AED’000),Total (AED’000),null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Quoted: Government securities,12409634,14724527,27809084,54943245,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Quoted: Bonds – Public sector,8033464,1721440,7044517,16799421,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Quoted: Bonds – Banks and financial institutions,1537803,1257209,7083282,9878294,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Quoted: Bonds – Corporate,2645851,519273,2084410,5249534,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Total quoted,24626752,18222449,44021293,86870494,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Less: Allowance for impairment,-6917,-2877,-13671,-23465,null,null,null,null,null,null,null,null,null,null,null
+page_18,2,T.value,5,Total investment securities at amortised cost,24619835,18219572,44007622,86847029,null,null,null,null,null,null,null,null,null,null,null
+page_18,3,T.header,2,Region,Total (AED’000),null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,3,T.value,2,Other GCC,41997126,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,3,T.value,2,UAE,27366828,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,3,T.value,2,Rest of the world,58904443,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,3,T.value,2,Total,128268397,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.header,3,Category,"June 30, 2024 (unaudited) (AED’000)","December 31, 2023 (audited) (AED’000)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,At fair value through other comprehensive income (FVTOCI) Sukuk investments,6179883,7278314,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,At fair value through other comprehensive income (FVTOCI) Equities,125401,123560,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,Total FVTOCI,6305284,7401874,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,At amortised cost Sukuk investments,7373389,6088771,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,Less: Allowance for impairment,-3774,-5278,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,Total at amortised cost,7369615,6083493,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,4,T.value,3,Net Islamic investing assets,13674899,13485367,null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,5,T.header,3,Category,"June 30, 2024 (AED’000)","December 31, 2023 (AED’000)",null,null,null,null,null,null,null,null,null,null,null,null,null
+page_18,5,T.value,3,Allowance for impairment on debt instruments designated at FVTOCI,45857,53981,null,null,null,null,null,null,null,null,null,null,null,null,null

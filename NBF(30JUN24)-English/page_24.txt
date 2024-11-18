@@ -1,0 +1,51 @@
+22 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+ 
+8. Loans and advances and Islamic financing receivables  
+30 June    31 December  
+2024  2023 
+AED’000   AED’000  
+Unaudited   Audited  
+8.1 By type  
+Overdrafts  1,724,211   1,988,396  
+Term loans  22,942,520   21,003,661  
+Loans against trust receipts  4,094,321   4,039,170  
+Bills discounted  2,079,686   2,195,592  
+Bills drawn under letters of credit  406,386   409,931  
+Gross loans and advances and Islamic financing receivables  31,247,124   29,636,750  
+Allowances for impairment losses (ECL)  (note 10 ) (1,798,60 8)  (1,733,055)  
+Net loans and advances and Islamic financing receivables  29,448,51 6  27,903,695  
+ 
+8.2 Loans and advances and Islamic financing receivables include Murabaha Tawarruq and Ijara financing 
+activities amounting to AED 4,440.6  million  (31 December 2023: AED 3,993.7  million) provided through 
+a Shari’ah compliant Islamic window, NBF Islamic.  
+ 
+8.3 Loans and advances and Islamic financing receivables  stage -wise analysis  
+ 
+The following table contains an analysis of the credit risk exposure of l oans and advances and Islamic 
+financing receivables . The gross carrying amount of l oans and advances and Islamic financing receivables , 
+including accrued interest / profit, represents the Group’s maximum exposure to credit risk on these assets:  
+ 
+30 June 2024  Stage 1  Stage 2  Stage 3  Total  
+(Unaudited)  
+AED’000      
+Outstanding balance  27,727,981  2,127,753  1,798,652  31,654,386  
+Allowances for impairment (ECL) (note 10 ) (192,143)  (526,928)  (1,079,537)  (1,798,608)  
+Carrying amount  27,535,838  1,600,825  719,115  29,855,778  
+ 
+ 
+ 
+31 December 2023  Stage 1  Stage 2  Stage 3  Total  
+(Audited)  
+AED’000      
+Outstanding balance  26,259,891  2,207,549  1,679,876  30,147,316  
+Allowances for impairment (ECL) (note 10 ) (188,434)  (458,984)  (1,085,637)  (1,733,055)  
+Carrying amount  26,071,457  1,748,565  594,239  28,414,261  
+ 
+ 
+ 

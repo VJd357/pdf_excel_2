@@ -1,0 +1,54 @@
+21 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+7.  Investments and Islamic instruments (continued)  
+7.7 Based on external credit ratings (continued)  
+31 December 202 3 
+(Audited)  Debt securities / 
+Islamic sukuks  Other investments   
+ 
+Total  
+AED’000     
+    
+AAA  70,884  - 70,884  
+AA 1,021,790  - 1,021,790  
+AA- 973,026  - 973,026  
+A+ 201,283  113,476  314,759  
+A 637,739  482,374  1,120,113  
+A- 1,880,907  - 1,880,907  
+BBB+  2,080,158  - 2,080,158  
+BBB 416,574  - 416,574  
+BBB - and below  259,260  25,784  285,044  
+Less: Allowances for 
+impairment (ECL)  (note 10 ) (18,303)  (2,348)  (20,651)  
+ 7,523,318  619,286  8,142,604  
+ 
+BBB - and below rating investments include unrated issuances by Government related entities .  
+ 
+7.8 Debt investments and Islamic instruments stage -wise analysis  
+ 
+The following table contains an analysis of the credit risk exposure of debt investments and Islamic 
+instruments . The gross carrying amount of debt investments and Islamic instruments , including accrued 
+interest / profit, represents the Group’s maximum exposure to credit risk on these assets:  
+ 
+ 
+30 June 2024  Stage 1  Stage 2  Stage 3  Total  
+(Unaudited)  
+AED’000      
+Outstanding balance  8,872,901  - - 8,872,901  
+Allowances for impairment (ECL) (note 10 ) (27,924)  - - (27,924)  
+Carrying amount  8,844,977  - - 8,844,977  
+ 
+31 December 2023  Stage 1  Stage 2  Stage 3  Total  
+(Audited)      
+AED’000      
+Outstanding balance  8,137,470  - - 8,137,470  
+Allowances for impairment (ECL) (note 10 ) (20,651)  - - (20,651)  
+Carrying amount  8,116,819  - - 8,116,819  
+ 
+Debt investments and Islamic instruments are in stage 1 throughout the period. Accordingly, there have 
+been no significant movements between stages in respect of these financial assets.  
+  

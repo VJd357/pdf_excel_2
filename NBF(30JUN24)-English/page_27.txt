@@ -1,0 +1,47 @@
+25 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+8. Loans and advances and Islamic financing receivables (continued)  
+8.6 Risk mitigation, credit quality, collateral and credit enhancements (continued)  
+ 
+The amount and type of collateral depends on assessments of the credit risk of the counterparty. The types 
+of collateral mainly include cash, guarantees, stand -by letter of credit (bank guarantee), pledge over listed 
+shares and mortgage and liens over prop erties or other securities over assets. Pledged interests over 
+vehicles, ships and equipment are also obtained. Collateral generally is not held against non -trading 
+investments and due from banks and financial institutions.  
+Management monitors the market value of collateral, and wherever necessary the Group requests 
+additional collateral in accordance with the underlying agreement, and considers collateral obtained during 
+its review of the adequacy of the allowance for impair ment losses.  
+Estimates of fair value are generally assessed on a periodic basis in accordance with the respective credit 
+policies.  
+The credit quality of the loans and advances and Islamic financing receivables is managed by the Group 
+using internal credit ratings comprising 22 grades. The risk rating system is used as a credit risk 
+management tool whereby any risks taken on the Group’s bo oks are rated against a set of predetermined 
+standards which are in line with the Central Bank of the UAE guidelines.  
+The Group’s Credit Risk Rating Methodology reflects its assessment of the probability of default of 
+individual counterparties mapped to the ratings specified by the External Credit Assessment Institutions 
+(ECAIs). The mapping is based on a statistical mode l which takes into consideration the industry weights, 
+country specific factors and the sensitivity of the counter party to systematic risk. Risk classification 
+distribution by risk grades is presented below:  
+Risk grades of gross loans and advances and Islamic financing receivables  
+ 30 June 2024  (Unaudited)  
+AED’000  Stage 1  Stage 2  Stage 3  Total  
+RR 1 -19     
+Grade RR 1 – 17: Performing  27,505, 751 346,267  - 27,852, 018 
+Grade RR 18 – 19: Watchlist  - 1,744,765  - 1,744,765  
+Total – RR 1-19  27,505, 751 2,091,032  - 29,596, 783 
+RR 20 -22: Non -performing  - - 1,650,341  1,650,341  
+Total  27,505, 751 2,091,032  1,650,341  31,247, 124 
+                                                                31 December 2023 (Audited)  
+ 
+AED’000  Stage 1  Stage 2  Stage 3  Total  
+RR 1 -19     
+Grade RR 1 – 17: Performing  26,031,660  287,247  - 26,318,907  
+Grade RR 18 – 19: Watchlist  - 1,875,998  - 1,875,998  
+Total – RR 1 -19  26,031,660  2,163,245  - 28,194,905  
+RR 20 -22: Non -performing  - - 1,441,845  1,441,845  
+Total  26,031,660  2,163,245  1,441,845  29,636,750  

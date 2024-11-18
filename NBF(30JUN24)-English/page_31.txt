@@ -1,0 +1,79 @@
+29 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+10. Stage -wise ECL and movement in the impairment reserve  
+ 
+             The analysis of ECL by stage for loans and advances and Islamic financing receivables, due from banks and 
+financial institutions, debt investments and Islamic instruments , acceptances and other assets  and off -balance 
+sheet items is as follows:  
+ 
+AED ’ 000     30 June 2024  (Unaudited)  
+ 
+ Loans and  
+advances and 
+Islamic 
+financing 
+receivables  Due from  
+banks and 
+financial 
+institutions  Investments 
+and Islamic 
+instruments  Acceptances 
+and other 
+assets  Off-balance 
+sheet 
+exposures   
+Total   
+ 
+ 
+ECL 
+rate 
+        
+Stage 3  1,079,537  -    -    12,031  109,893  1,201,461  60.8%  
+        
+Stage 2  526,928 - - 32 3,933  530,893 22.5%  
+Stage 1  192,143  4,643  27,924  1,654 20,140 246,50 4 0.5%  
+ 719,071 4,643  27,924  1,686 24,073 777,397  
+Total ECL  1,798, 608 4,643  27,924  13,717 133,966 1,978, 858 3.8%  
+        
+ECL rate  5.7%  0.2%  0.3%  1.2%  1.7%    
+ 
+ 
+AED’ 000     31 December 2023 (Audited)  
+    
+Loans and  
+advances 
+and Islamic 
+financing 
+receivables  Due from  
+banks and 
+financial 
+institutions  Investments 
+and Islamic 
+instruments  Acceptances 
+and other 
+assets  Off-balance 
+sheet 
+exposures   
+Total   
+ 
+ 
+ECL 
+rate 
+        
+Stage 3  1,085,637  - - 10,800  117,630  1,214,067  65.5%  
+        
+Stage 2  458,984  - - 39 2,943  461,966  18.9%  
+Stage 1  188,434  4,501  20,651  1,774  19,986  235,346  0.5%  
+ 647,418  4,501  20,651  1,813  22,929  697,312   
+Total ECL  1,733,055  4,501  20,651  12,613  140,559  1,911,379  3.9%  
+        
+ECL rate  5.7%  0.2%  0.3%  1.2%  2.0%    
+ 
+ 
+ 
+ 

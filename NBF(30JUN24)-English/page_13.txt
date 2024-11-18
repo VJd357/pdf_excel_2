@@ -1,0 +1,62 @@
+11 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+4.  Financial risk management (continued)  
+ 
+(b) Fair value hierarchy (continued)  
+ 
+  Fair value measurement – fair value hierarchy  (continued)  
+ 
+ 
+ Fair value 
+(FV) 
+hierarchy   
+Valuation techniques and key 
+inputs  Significant 
+unobservable 
+inputs  Relationship of 
+unobservable 
+inputs to FV  
+Debt securities / 
+Islamic sukuks and 
+Other investments      Level 1  Quoted bid prices in active 
+market  None  Not applicable  
+Other investments      Level 2  Quoted prices in secondary 
+market  None  Not applicable  
+Derivatives      Level 2  Observable inputs either directly 
+(i.e. as prices) or indirectly  
+(i.e. derived from prices).  None  Not applicable  
+ 
+During the period, there were no transfers between Level 1 and Level 2. Further, there has been no change 
+in the valuation techniques in relation to valuation of financial instruments. Please refer note 4 for details.  
+ 
+(c)    Management of liquidity risk  
+ 
+The positive and negative fair values of derivative financial instruments, entered into by the Group, at the 
+reporting date are as below:  
+ 
+ 
+ 30 June 2024  (Unaudited)  31 December 202 3 (Audited)  
+AED’000  Notional   
+Positive  
+  fair value  Negative 
+fair value  Net Notional  Positive 
+fair value  Negative 
+fair value  Net 
+         
+Derivatives          
+Forward foreign exchange  
+contracts  19,718,630  39,500  34,570  4,930  15,524,317  63,611  33,969  29,642  
+Currency options  2,469,748  3,665  3,643  22 2,686,291  4,027  4,027  - 
+Interest rate derivatives  3,057,542  45,113  44,279  834 2,779,644  44,385  37,575  6,810  
+Commodity derivatives  719,841  9,690  4,165  5,525  858,908  10,014  7,006  3,008  
+ 25,965,761  97,968  86,657  11,311  21,849,160  122,037  82,577  39,460  
+ 
+ 
+ 
+ 
+ 

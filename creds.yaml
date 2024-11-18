@@ -1,0 +1,6 @@
+openai:
+  openai_model : gpt-4o-mini-2024-07-18
+  
+
+gemini: 
+  gemini_model : gemini-1.5-flash

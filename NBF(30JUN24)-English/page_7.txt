@@ -1,0 +1,59 @@
+5 
+ 
+ 
+  National Bank of Fujairah PJSC  
+ 
+Condensed consolidated interim statement of cash flows – (Unaudited)  
+For the six month  period ended 30 June 2024  
+   
+  
+  Six month  
+ Six month  
+  period ended   period ended  
+  30 June 
+2024   30 June 
+2023  
+ Notes  AED’000   AED’000  
+Operating activities      
+ 
+Profit for the period after tax   441,153   332,141  
+Adjustments for:      
+Depreciation and amortization   20,035   15,712  
+Provision for employee end of service and other long term benefits   13,569   12,069  
+Net impairment losses  15    360,853  453,146  
+Net fair value (gains ) / loss on disposal of investments and Islamic  
+Instruments   (2,027)   3,559  
+Net changes in fair value of investments   620  (923)  
+ 
+Cash flow from operating activities before changes in 
+operating assets and liabilities and payment of employee end 
+of service and other long term benefits   834,203  815,704  
+Payment of employee end of service and other long term benefits   (10,480)   (5,986)  
+Change in due from the Central Bank of the UAE   (1,801,782)   (666,916)  
+Change in due from banks and financial institutions   (357,897)   (190,289)  
+Change in loans and advances and Islamic financing receivables   (1,903,74 8)  (1,947,218)  
+Change in acceptances and other assets   (123,559)   (123,147)  
+Change in due to banks   (132,327)   224,791  
+Change in repurchase agreements   620,707   430,886  
+Change in customer deposits and Islamic customer deposits   3,022,220   (856,370)  
+Change in acceptances and other liabilities   125,007  400,440  
+Net cash generated from / (used  in) operating activities    272,344   (1,918,105)  
+Investing activities      
+Purchase of property, equipment and intangibles   (47,50 8)  (66,972)  
+Purchase of investments and Islamic instruments   (1,487,762)   (1,360,639)  
+Proceeds from sale and maturity of investments and Islamic 
+instruments   765,437   1,121,415  
+Net cash used in investing activities   (769,83 3)  (306,196)  
+Financing activities      
+Cash dividends  paid  (212,000)   - 
+Proceeds from term borrowings   275,475   - 
+Repayment of term borrowings   (183,650)   (257,110)  
+Tier 1 capital securities coupon paid   (37,763)   (37,763)  
+Net cash used in financing activities    (157,938)   (294,873)  
+Net change in cash and cash equivalents    (655,427)   (2,519,174)  
+Cash and cash equivalents at beginning of the period   2,532,848   4,274,798  
+Cash and cash equivalents at end of the period  19 1,877,421   1,755,624  
+ 
+The notes on pages 7 to 39 form an integral part of the condensed consolidated interim financial information.  
+The independent auditor’s review report of the Group condensed consolidated interim financial information is 
+set out on page 1.

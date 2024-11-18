@@ -1,0 +1,53 @@
+30 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+11. Due to banks , repurchase agreements  and term borrowings  
+ 30 June   31 December  
+ 2024 2023 
+ AED’000  AED’000  
+ Unaudited  Audited  
+By type:    
+   
+Due to banks (note 11.2)  1,004, 750 1,137,077  
+Repurchase agreements  3,122, 039 2,501,332  
+Term borrowings (note 11.1)  642,775  550,950  
+ 4,769, 564 4,189,359  
+By geographical area:    
+UAE  1,914,310  1,575,064  
+GCC  - 276,999  
+Europe  2,459,656  1,863,795  
+Americas  94,161  18,832  
+Others  301,437  454,669  
+ 4,769,564  4,189,359  
+ 
+ As at 30 June 2024 , due to banks include cash collateral of AED 101.7  million  (31 December 2023: AED 
+60.9 million), in respect of positive fair value of derivatives, in accordance with the agreements with the 
+interbank counterparties.  
+ 
+Due to banks include a Wakala borrowing amounting to AED 523.7  million  (31 December 2023: 100.0  
+million ) undertaken through a Shari’ah - compliant Islamic window , NBF Islamic.  
+ 
+ The investment securities under repo agreements amounted to AED 3,619. 4 million  (31 December 2023: 
+AED 2, 752.1  million).  
+  
+11.1 Term borrowings comprise of several bilateral borrowings obtained from other banks and financial 
+institutions as follows :  
+Loan 
+no. Year 
+obtained  Maturity  Interest rate  30 June   31 December  
+2024 2023 
+AED’000  AED’000  
+Unaudited  Audited  
+      
+1 2023  Sep-26 SOFR + Margin  183,650  183,650  
+2 2023 Dec-28 SOFR + Margin  183,650  183,650  
+3 2024 May-26 SOFR + Margin  183,650  - 
+4 2024  May-26 SOFR + Margin  91,825  - 
+5 2023 Aug-27 SOFR + Margin  - 183,650  
+    642,775  550,950  
+11.2 Due to banks include gold related borrowings amounting to AED 128.2  million  (31 December 2023: AED 
+378.8  million) utilized to finance gold loans extended to customers on a matched basis.  

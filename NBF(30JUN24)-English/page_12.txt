@@ -1,0 +1,52 @@
+10 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+4.  Financial risk management (continued)  
+(b)    Fair value hierarchy  
+The Group measures fair values using the following fair value hierarchy that reflects the significance of 
+the inputs used in making the measurements:  
+ 
+▪ Level 1: Quoted market price (unadjusted) in an active market for an identical instrument. A financial 
+instrument is regarded as quoted in an active market if quoted prices are readily and regularly available 
+from an exchange, dealer, broker, industry, gro up, pricing service or regulatory agency, and those prices 
+represent actual and regularly recurring market transactions on an arm’s length basis.  
+▪ Level 2: Valuation techniques based on observable input, either directly (i.e., as prices) or indirectly (i.e., 
+derived from prices). This category includes instruments valued using: quoted market prices in active 
+markets for similar instruments; quoted pr ices for identical or similar instruments; or other valuation 
+techniques where all significant inputs are directly or indirectly observable from market data.  
+▪ Level 3: Valuation techniques using significant unobservable inputs. This category includes all 
+instruments where the valuation technique includes inputs based on observable data and the unobservable 
+inputs have a significant effect on the instrument’s valuation. T his category includes instruments that are 
+valued based on quoted prices for similar instruments where significant unobservable adjustments or 
+assumptions are required to reflect differences between the instruments.  
+Pursuant to disclosure requirements of IFRS 7 Financial Instruments: Disclosures , the Group has disclosed 
+the relevant information in the table below:  
+   Fair value measurement – fair value hierarchy:  
+30 June 2024  (Unaudited)  
+AED’000  Notional   
+ 
+Level 1  Level 2  Level 3  
+     
+Investments and Islamic instruments      
+  Debt securities / Islamic sukuks  2,521,605  2,521,605  - - 
+  Other investments  599,905  598,253  1,652  - 
+Forward foreign exchange contracts  19,718,630  - 4,930  - 
+Currency options  2,469,748  - 22 - 
+Interest rate derivatives  3,057,542  - 834 - 
+Commodity derivatives  719,841  - 5,525  - 
+ 
+31 December 2023 (Audited)  
+AED’000  Notional  Level 1  Level 2  Level 3  
+     
+Investments and Islamic instruments      
+  Debt securities / Islamic sukuks  2,416,329  2,416,329  - - 
+  Other investments  621,634  619,708  1,926  - 
+Forward foreign exchange contracts  15,524,317  - 29,642  - 
+Currency options  2,686,291  - - - 
+Interest rate derivatives  2,779,644  -           6,810  - 
+Commodity derivatives  858,908  - 3,008  - 
+ 

@@ -1,0 +1,50 @@
+24 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+8. Loans and advances and Islamic financing receivables (continued)  
+ 
+8.5 Movement in the provision for impairment of loans and advances and Islamic financing receivables  
+ECL (Unaudited)   
+Stage 1  Stage 2  Stage 3  Total  
+AED’000      
+ECL allowance - 31 December 2023  188,434  458,984  1,085,637  1,733,055  
+Transferred from Stage 1  (6,012)  18,850  23,414  36,252  
+Transferred from Stage 2  165 (26,955)  103,758  76,968  
+Transferred from Stage 3  - - (44) (44) 
+Originated / (derecognized) during the  
+period including changes in PDs / LGDs / 
+EADs  9,556  76,049  160,145 245,750 
+Net allowance for impairment losses  3,709  67,944  287,273  358,926  
+Written -off during the period  -  -     (293,373)  (293,373)  
+ECL allowance – 30 June 2024  192,143  526,928  1,079,537  1,798,608  
+ 
+ 
+ECL (Audited)   
+Stage 1  Stage 2  Stage 3  Total  
+AED’000      
+ECL allowance - 31 December 2022  233,100  440,294   1,348,841  2,022,235  
+Transferred from Stage 1  (13,117)  27,782  123,126  137,791  
+Transferred from Stage 2  2,968  (45,215)  163,678  121,431  
+Transferred from Stage 3  - 480 (18,920)  (18,440)  
+Originated / (derecognized) during the year 
+including changes in PDs / LGDs / EADs  (34,517)  35,643  436,484  437,610  
+Net allowance for impairment losses  (44,666)  18,690  704,368  678,392  
+Written -off during the year  - - (967,572)  (967,572)  
+ECL allowance - 31 December 2023  188,434  458,984  1,085,637  1,733,055  
+ 
+ 
+8.6 Risk mitigation, credit quality, collateral and credit enhancements  
+ 
+In line with Basel and IFRS 9 standards, the Credit Risk Management Framework (“ CRMF ”) outlines the 
+basis pertaining to the eligibility, valuation, roles & responsibilities of various departments and overall 
+management of collateral in order to adopt effective credit risk mitigation mechanism and maximize the 
+use of eligible collateral.  
+The eligible collateral under IFRS 9 helps in arriving at EAD and LGD for Expected Credit Loss (ECL) 
+calculations. As for measuring ECL, the expected cash shortfalls will reflect via LGD the cash flows 
+expected from collateral realization provided the same  are as per contractual terms.  
+The Group manages credit exposure by obtaining security where appropriate, and in certain cases, the 
+Group may also close out transactions or assign them to other counterparties to mitigate credit risk.  

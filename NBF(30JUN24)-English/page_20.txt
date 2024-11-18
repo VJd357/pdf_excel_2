@@ -1,0 +1,58 @@
+18 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+7. Investments and Islamic instruments  
+  30 June    31 December  
+ 2024  2023 
+ AED’000   AED’000  
+ Unaudited   Audited  
+Investments at fair value through profit or loss  
+(FVTPL) (note 7.1)  572  
+19,211 
+Investments at fair value through other comprehensive 
+income (FVOCI)    
+ 
+Debt securities / Islamic sukuks (note 7.2)  2,521,605   2,416,329  
+Other investments / Islamic instruments (note 7.3)  599,333   602,423  
+ 3,120,938   3,018,752  
+Investments measured at amorti sed cost     
+Debt securities / Islamic sukuks (note 7.2)  5,753,043   5,125,292  
+ 8,874,553   8,163,255  
+Less: Allowances for impairment (ECL) (note 10 ) (27,924)   (20,651)  
+ 8,846,629   8,142,604  
+ 
+7.1 Investments at FVTPL include various funds whose fair values are based on the net asset values provided 
+by the fund managers . 
+ 
+7.2 Debt securities  aggregating AED 8,108.8  million  (31 December 2023: AED 7,426.2  million ) represent the 
+Group’s investments in bonds and notes which are quoted on recognized exchanges and prices of which 
+are available on internationally recognized platforms of Reuters and Bloomberg and are liquid in normal 
+market conditions. The debt securities portfolio includes floating rate securities amounting to  AED 286.1  
+million  (31 December 2023: AED 363.5  million ).  
+Debt securities portfolio include Islamic sukuks amounting to AED 1,003.5  million  (31 December 2023: 
+AED 802.0  million).  
+Debt securities portfolio include additional tier 1 perpetual bonds of AED 165.8  million  (31 December 
+2023: AED 11 5.4 million).  
+ 
+ 7.3 Other investments include various funds whose fair values are based on the net asset values provided by 
+the fund managers, amounting to AED 598.3  million  (31 December 2023: AED 601.3  million). No  shares 
+were purchased by the Bank during the  period  (31 December 2023: nil).  
+ 
+7.4        The dispersion of the investment portfolio is set out below:  
+ 30 June  
+2024  31 December 
+2023 
+ AED’000  
+Unaudited   AED’000  
+Audited  
+Government  2,748,351   2,504,677  
+Banks and financial institutions  5,526,296   5,036,943  
+Others  599,906  621,635  
+ 8,874,553   8,163,255  
+Less: Allowances for impairment (ECL) (note 10 ) (27,924)   (20,651)  
+ 8,846,629   8,142,604  
+ 

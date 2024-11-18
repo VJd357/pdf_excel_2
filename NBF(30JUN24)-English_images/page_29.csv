@@ -1,0 +1,11 @@
+off_balance_sheet_exposures,Stage,Outstanding balance,Allowances for impairment (ECL),Carrying amount
+,Stage 1,7503246,20140,7483106
+,Stage 2,223043,3933,219110
+,Stage 3,163069,109893,53176
+,Total,7889358,133966,7755392
+-----
+movement_in_gross_balance,Stage,Gross carrying amount - 31 December 2023,Transferred from Stage 1,Transferred from Stage 2,Transferred from Stage 3,Originated / (expired) during the period,Written-off during the period,Gross carrying amount - 30 June 2024
+,Stage 1,6690731,-15237,57,0,827695,0,7503246
+,Stage 2,226462,13962,-4340,0,-13041,0,223043
+,Stage 3,163555,1275,4283,0,-6044,0,163069
+,Total,7080748,0,0,0,808610,0,7889358

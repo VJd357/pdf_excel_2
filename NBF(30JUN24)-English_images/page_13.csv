@@ -1,0 +1,14 @@
+Financial Instruments,Fair value hierarchy,Valuation techniques and key inputs,Significant unobservable inputs,Relationship of unobservable inputs to FV
+,Debt securities / Islamic sukuks and Other investments,Level 1,Quoted bid prices in active market,None,Not applicable
+,Other investments,Level 2,Quoted prices in secondary market,None,Not applicable
+,Derivatives,Level 2,Observable inputs either directly (i.e. as prices) or indirectly (i.e. derived from prices).,None,Not applicable
+-----
+Derivatives Fair Values,Date,Notional AED’000,Positive fair value AED’000,Negative fair value AED’000,Net AED’000
+,30 June 2024 (Unaudited),"25,965,761","97,968","86,657","11,311"
+,31 December 2023 (Audited),"21,849,160","122,037","82,577","39,460"
+-----
+Derivatives Details,Type,Notional AED’000,Positive fair value AED’000,Negative fair value AED’000,Net AED’000
+,Forward foreign exchange contracts,"19,718,630","39,500","34,570","4,930"
+,Currency options,"2,469,748","3,665","3,643",22
+,Interest rate derivatives,"3,057,542","45,113","44,279",834
+,Commodity derivatives,"719,841","9,690","4,165","5,525"

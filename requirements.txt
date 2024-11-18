@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+tqdm
+opencv-python-headless
+pillow
+scikit-learn
+pytesseract
+streamlit
+pyodbc
+sqlalchemy

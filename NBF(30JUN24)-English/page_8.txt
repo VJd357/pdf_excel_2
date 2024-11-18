@@ -1,0 +1,44 @@
+6 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Condensed consolidated interim statement of changes in equity – (Unaudited)  
+For the six month  period ended  30 June 2024   
+ 
+AED’000  Share 
+capital  Statutory 
+reserve  Special 
+reserve  Fair value 
+reserve  Cash flow 
+hedge 
+reserve  Proposed 
+dividends  Impairment 
+reserve  Retained 
+earnings  Tier 1 
+capital 
+securities  Total  
+ 
+At 1 January 2023  2,000,000  981,616  607,462  (52,192)   
+- 120,000  168,201  739,827  1,285,550  5,850,464  
+Profit for the period  - - - - - - - 332,141  - 332,141  
+Other comprehensive income for the period  - - - 7,471  - - - - - 7,471  
+Total comprehensive income for the period  - - - 7,471  - - - 332,141  - 339,612  
+Excess provisions under the Central Bank of the 
+UAE requirements over IFRS 9  - - - -  
+- - (3,975)  3,975  - - 
+Tier 1 capital securities coupon paid  - - - - - - - (37,763)  - (37,763)  
+2022 bonus shares issued  120,000  - - - - (120,000)  - - - - 
+At 30 June 2023  2,120,000  981,616  607,462  (44,721)  - - 164,226  1,038,180  1,285,550  6,152,313  
+At 1 January 2024  2,120,000  1,054,121  679,967  14,408   
+(1,230)  318,000  - 1,095,790  1,285,550  6,566,606  
+Profit for the period  after tax  - - - - - - - 441,153  - 441,153  
+Other comprehensive (loss) / income for the period  - - - (8,126)  (4,308)  - - 1,974  - (10,460)  
+Total comprehensive (loss) / income for the period  - - - (8,126)  (4,308)  - - 443,127  - 430,693  
+Tier 1 capital securities coupon paid  - - - - - - - (37,763)  - (37,763)  
+2023 bonus shares issued  106,000  - - - - (106,000)  - - - -  
+2023 cash dividends  paid - - - - - (212,000)  - - - (212,000)  
+At 30 June 2024  2,226,000  1,054,121  679,967  6,282  (5,538)  - - 1,501,154  1,285,550  6,747,536  
+ 
+ 
+The notes on pages  7 to 39 form an integral part of the condensed consolidated interim financial information.  
+The independent auditor’s  review  report  of the Group condensed consolidated interim financial information is set out on page 1.

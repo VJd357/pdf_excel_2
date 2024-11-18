@@ -1,0 +1,53 @@
+34 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+17.      Related parties (continued)  
+ 
+Stage 3 ECL, amounting to AED 70.8 million , has been recognized pertinent to related parties  (31 
+December 2023: nil). Further, stage 1 and 2 ECL amounted to AED 14.3 million  (31 December 2023: 
+15.9 million).  
+ The loans and advances and Islamic financing receivables given to related parties have been secured 
+against collateral amounting to AED 2,129.4 million  (31 December 2023: AED 2,220.2 million).  
+During the period, capital expenditure transactions with related parties amounted to AED 1.3 million  (31 
+December 2023: AED 3.2 million).  
+ 
+ 
+18. Capital adequacy ratio  
+The Bank’s risk weighted assets (RWA) are weighted on the basis of  relative credit, market, and operational 
+risks. Credit risk includes both on and off -balance sheet risks. In accordance with the Basel III Compliance – 
+Standardized Approach, the Bank is following the standardized measurement approach for credit, market a nd 
+operational risk, under the existing Pillar 1 of Basel III requirements with the addition of the respective changes 
+pertinent to capital supply.  
+The quantitative requirements, based on the regulations / guidelines, have been detailed below:  
+i. Total regulatory capital (net of regulatory adjustments) – at least 10.5% of risk weighted assets (RWAs) 
+– comprises of two tiers:  
+a. Tier 1 capital – at least 8.5% of RWA, composed of:  
+▪ Common equity Tier 1 (CET1) – at least 7.0% of RWA; and  
+▪ Additional Tier 1 (AT1)  
+ 
+Common equity Tier 1 (CET1) includes ordinary share capital, statutory reserve, special reserve, 
+retained earnings and fair value reserves relating to unrealized gains on investments classified as 
+FVOCI / available -for-sale with a hair -cut of 55%; and Addi tional Tier 1 (AT1) comprises of Tier 1 
+capital securities.  
+b. Tier 2 capital  
+It includes collective impairment provision and sub -ordinated facilities. Collective impairment 
+provision, including impairment reserve general, shall not exceed 1.25% of total credit risk weighted 
+assets.  
+ii. Banks must maintain a Capital Conservation Buffer (CCB) of 2.5% of RWAs in the form of CET1 capital. 
+CBUAE may also require banks to implement Countercyclical Buffer (CCyB), to protect the banks from 
+periods of excess aggregate credit growth. CCyB must be met by using CET1 capital and the level may 
+vary between 0 - 2.5% of RWAs.  
+ 
+            Minimum transitional arrangements as per the Central Bank of the UAE  
+ 
+Capital element  Basel III  
+2024 Basel III  
+2023 
+Minimum common equity tier 1 ratio  7.0%  7.0%  
+Minimum tier 1 capital ratio  8.5%  8.5%  
+Minimum capital adequacy ratio  10.5%  10.5%  
+Capital conservation buffer  2.5%  2.5%  

@@ -1,0 +1,62 @@
+37 
+ 
+ 
+  National Bank of Fujairah PJSC  
+Notes to the condensed consolidated interim financial information  
+For the six month  period ended 30 June 2024  (continued)  
+ 
+20.       Segmental reporting (continued)  
+ 
+Business segments  (continued)  
+ 
+Retail banking  
+ 
+The segment offers a range of products and services to individuals and high net worth individuals including 
+personal and mortgage loans, credit cards, other transactions and balances, and accepts their deposits.  
+ 
+Treasury, Asset and Liability Management (ALM) and others  
+The segment undertakes the Group’s asset and liability management centrally and is responsible for optimum 
+utilization of resources in productive assets and management of exchange and interest positions within the 
+limits and guidelines set by management an d approved by the Board.  
+ 
+Treasury also offers various foreign exchange and derivative products to customers and is entrusted with the 
+responsibility of managing the Group’s investment portfolio together with the Investment Management Unit 
+under the guidance from the Investment Com mittee and Asset and Liability Committee. The Group’s capital 
+and investment in subsidiaries is recognised under this segment.  
+ 
+The Group has central shared services which include Operations, Risk Management, Human Resources, 
+Finance, Information systems and Technology, Product Development, Legal, Credit and Internal Audit. The 
+shared services costs are allocated to business segmen ts based on transaction and relevant drivers.  
+ 
+ The segment analysis based on business segments is  as follows : 
+ 
+Six month period ended  
+30 June 2024  
+AED’000  
+(Unaudited)  Corporate and 
+institutional 
+segments  Business 
+banking 
+segment  Retail 
+banking  Treasury, 
+ALM and 
+others  Consolidated  
+ 
+Net interest income and net 
+income from Islamic financing 
+and investment activities  341,53 6 301,654  94,736  144,529  882,455  
+Non-interest income  98,49 3 118,739  12,199  92,462  321,893  
+Operating income  440,029  420,393  106,935  236,991  1,204,348  
+Operating expenses  (117,806)  (156,162)  (60,450)  (24,162)  (358,580)  
+Operating profit before 
+impairment losses and tax  322,223  264,231  46,485  212,829  845,768  
+Net impairment losses  (303,178)  (36,150)  (14,772)  (6,753)  (360,853)  
+Profit for the period before tax 19,045  228,081  31,713  206,076  484,915  
+Tax (1,71 8) (20,584)  (2,862)  (18,598)  (43,762)  
+Profit for the period after tax  17,32 7 207,497  28,851  187,478         441,153  
+ 
+30 June 2024 (Unaudited)  
+ 
+Segment assets  18,687,999  8,210,072  4,730,347  24,002,840  55,631,258  
+Segment liabilities  27,183,104  11,906,886  5,112,415  4,681,317  48,883,722  
+Capital expenditure  - - - 47,508 47,508 

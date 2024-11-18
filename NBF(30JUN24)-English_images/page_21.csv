@@ -1,0 +1,25 @@
+investment_by_geographical_area,Geographical Area,30 June 2024 (AED’000),31 December 2023 (AED’000)
+,,,
+UAE,"1,920,540","1,775,655"
+GCC,"657,512","428,432"
+Europe,"2,963,539","2,792,769"
+Americas,"2,296,924","2,155,824"
+Others,"1,036,038","1,010,575"
+Total,"8,874,553","8,163,255"
+Less: Allowances for impairment (ECL),"27,924","20,651"
+Net Total,"8,846,629","8,142,604"
+-----
+investment_portfolio_distribution,Geographical Area,30 June 2024 (AED’000),31 December 2023 (AED’000)
+,,,
+UAE,"2,259,338","2,054,099"
+GCC,"897,593","620,675"
+Europe,"2,792,043","2,546,534"
+Americas,"1,556,034","1,523,438"
+Others,"1,369,545","1,418,509"
+Total,"8,874,553","8,163,255"
+Less: Allowances for impairment (ECL),"27,924","20,651"
+Net Total,"8,846,629","8,142,604"
+-----
+others_investments,Investment Type,Amount as of 30 June 2024 (AED),Amount as of 31 December 2023 (AED)
+,,,
+Investments in Multilateral Development Banks,329.0 million,403.4 million

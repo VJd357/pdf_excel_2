@@ -1,0 +1,27 @@
+Customer_Deposits
+,Type,30 June 2024 AED'000,31 December 2023 AED'000
+,Demand and margin deposits,"17,116,289","15,190,315"
+,Saving deposits,"697,204","711,494"
+,Fixed term and notice deposits,"23,780,733","22,670,197"
+,Total,"41,594,226","38,572,006"
+-----
+Geographical_Area_Deposits
+,Geographical Area,30 June 2024 AED'000,31 December 2023 AED'000
+,UAE,"39,499,472","36,593,397"
+,GCC,"963,986","696,037"
+,Europe,"987,488","1,098,081"
+,Americas,"56,350","100,945"
+,Others,"86,930","83,546"
+,Total,"41,594,226","38,572,006"
+-----
+Islamic_Customer_Deposits
+,Type,30 June 2024 AED'000,31 December 2023 AED'000
+,Qard Islamic current accounts,"690,171","574,066"
+,Murabaha deposits,"507,843","509,363"
+,Wakala deposits,"2,873,647","3,364,384"
+,Mudaraba deposits,"47,173","47,667"
+,Total,"4,118,834","4,495,480"
+-----
+Shareholders_Equity
+,Share Capital,30 June 2024 AED'000,31 December 2023 AED'000
+,"Authorised, issued and fully paid: 2,226,000,000 shares of AED 1 each","2,226,000","2,120,000"
