@@ -236,8 +236,8 @@ def main():
                     log_update(f"Images extracted to {images_folder}")
                     progress_bar.progress(20)
                     # Filter images, keeping only those with tables
-                    images = filter_images(images_folder)
-                    log_update(f"Images filtered. {len(images)} images remain.")
+                   # images = filter_images(images_folder)
+                   # log_update(f"Images filtered. {len(images)} images remain.")
                     progress_bar.progress(30)
                     model_name = Utility._get_api_and_model_from_creds() #Removed this line
                     #model_name = "gpt-3.5-turbo" #Added default model name
